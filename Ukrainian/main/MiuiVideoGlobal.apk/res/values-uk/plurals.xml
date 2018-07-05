@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="subtitle_offset_advance_times">
+        <item quantity="other">Субтитри поспішають на %.1f сек</item>
+        <item quantity="one">Субтитри поспішають на %.1f сек</item>
+        <item quantity="few">Субтитри поспішають на %.1f сек</item>
+    </plurals>
+    <plurals name="subtitle_offset_delay_times">
+        <item quantity="other">Субтитри відстають на %.1f сек</item>
+        <item quantity="one">Субтитри відстають на %.1f сек</item>
+        <item quantity="few">Субтитри відстають на %.1f сек</item>
+    </plurals>
+    <plurals name="subtitle_onlinesub_size_float_kb">
+        <item quantity="other">Розмір: %.2fкБ</item>
+        <item quantity="one">Розмір: %.2fкБ</item>
+        <item quantity="few">Розмір: %.2fкБ</item>
+    </plurals>
+    <plurals name="v_video_count">
+        <item quantity="other">%d відео</item>
+        <item quantity="one">%d відео</item>
+        <item quantity="few">%d відео</item>
+    </plurals>
+</resources>

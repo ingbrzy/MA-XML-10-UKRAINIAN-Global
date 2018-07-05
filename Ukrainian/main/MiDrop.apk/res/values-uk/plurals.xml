@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_confirm_multiple_files">
+        <item quantity="other">Видалити %d вибраних файлів?</item>
+        <item quantity="one">Видалити %d вибраний файл?</item>
+        <item quantity="few">Видалити %d вибраних файла?</item>
+        <item quantity="many">Видалити %d вибраних файлів?</item>
+    </plurals>
+    <plurals name="notif_receive_cancel">
+        <item quantity="other">Скасовано передачу від %1$s</item>
+        <item quantity="one">Скасовано передачу від %1$s</item>
+        <item quantity="few">Скасовано передачу від %1$s</item>
+        <item quantity="many">Canceled transfer from %1$s</item>
+    </plurals>
+    <plurals name="notif_receive_progress">
+        <item quantity="other">Отримання %1$s файлів…</item>
+        <item quantity="one">Отримання %1$s файлу…</item>
+        <item quantity="few">Отримання %1$s файлів…</item>
+        <item quantity="many">Receiving %1$s files…</item>
+    </plurals>
+    <plurals name="notif_receive_success">
+        <item quantity="other">Успішно отримано файл від %1$s</item>
+        <item quantity="one">Успішно отримано файл від %1$s</item>
+        <item quantity="few">Успішно отримано файл від %1$s</item>
+        <item quantity="many">Received files from %1$s successfully</item>
+    </plurals>
+    <plurals name="receiver_file_num">
+        <item quantity="other">%2$d файлів з %1$s</item>
+        <item quantity="one">%2$d файл з %1$s</item>
+        <item quantity="few">%2$d файла з %1$s</item>
+        <item quantity="many">%2$d files from %1$s</item>
+    </plurals>
+    <plurals name="selected_file_num">
+        <item quantity="other">"Вибрано %d об'єктів"</item>
+        <item quantity="one">"Вибрано %d об'єкт"</item>
+        <item quantity="few">"Вибрано %d об'єкта"</item>
+        <item quantity="many">"Вибрано %d об'єктів"</item>
+    </plurals>
+    <plurals name="sender_file_num">
+        <item quantity="other">"%1$d об'єктів"</item>
+        <item quantity="one">"%1$d об'єкт"</item>
+        <item quantity="few">"%1$d об'єкта"</item>
+        <item quantity="many">%1$d items</item>
+    </plurals>
+    <plurals name="transfer_list_received_header">
+        <item quantity="other">Отримано %1$d файлів (%2$s)</item>
+        <item quantity="one">Отримано %1$d файл (%2$s)</item>
+        <item quantity="few">Отримано %1$d файла (%2$s)</item>
+        <item quantity="many">Отримано %1$d файлів (%2$s)</item>
+    </plurals>
+    <plurals name="transfer_list_sent_header">
+        <item quantity="other">Надіслати %1$d файлів (%2$s)</item>
+        <item quantity="one">Надіслати %1$d файл (%2$s)</item>
+        <item quantity="few">Надіслати %1$d файла (%2$s)</item>
+        <item quantity="many">Надіслати %1$d файлів (%2$s)</item>
+    </plurals>
+</resources>

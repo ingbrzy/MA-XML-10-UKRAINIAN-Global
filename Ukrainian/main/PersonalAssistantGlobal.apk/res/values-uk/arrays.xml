@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="stock_color_schema">
+        <item>Зелений - вгору, червоний - вниз</item>
+        <item>Червоний - вгору, зелений - вниз</item>
+    </string-array>
+    <string-array name="stock_title_schema">
+        <item>"Виділити ім'я"</item>
+        <item>Виділити код</item>
+    </string-array>
+</resources>

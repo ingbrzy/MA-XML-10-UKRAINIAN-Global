@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sniff_find_resource">
+        <item quantity="other">"Було знайдено %d об'єктів"</item>
+        <item quantity="one">"Було знайдено 1 об'єкт"</item>
+        <item quantity="few">"Було знайдено %d об'єкти"</item>
+    </plurals>
+    <plurals name="numberOfItemsAvailable">
+        <item quantity="other">"Видалити %d об'єктів?"</item>
+        <item quantity="one">"Видалити цей об'єкт?"</item>
+        <item quantity="few">"Видалити %d об'єкти?"</item>
+    </plurals>
+    <plurals name="sniff_find_result">
+        <item quantity="other">Було знайдено %d результатів</item>
+        <item quantity="one">Було знайдено 1 результат</item>
+        <item quantity="few">Було знайдено %d результати</item>
+    </plurals>
+</resources>

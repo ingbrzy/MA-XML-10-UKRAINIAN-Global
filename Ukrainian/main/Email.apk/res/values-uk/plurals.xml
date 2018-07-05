@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="actionbar_large_unread_count">
+        <item quantity="other">Непрочитаних: %1$d+</item>
+        <item quantity="one">Непрочитаних: %1$d+</item>
+        <item quantity="few">Непрочитаних: %1$d+</item>
+        <item quantity="many">%1$d+ unread</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">Непрочитаних: %1$d</item>
+        <item quantity="one">Непрочитаних: %1$d</item>
+        <item quantity="few">Непрочитаних: %1$d</item>
+        <item quantity="many">%1$d unread</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Архівувати діалоги? (%1$d)</item>
+        <item quantity="one">Архівувати діалог?</item>
+        <item quantity="few">Архівувати діалоги? (%1$d)</item>
+        <item quantity="many">Archive these %1$d conversations?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Видалити діалоги? (%1$d)</item>
+        <item quantity="one">Видалити діалог?</item>
+        <item quantity="few">Видалити діалоги? (%1$d)</item>
+        <item quantity="many">Delete these %1$d conversations?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation_with_sub">
+        <item quantity="other">Вибрані діалоги мають загальні вкладення, видалити їх усі?</item>
+        <item quantity="one">Діалог має загальні вкладення, видалити його?</item>
+        <item quantity="few">Вибрані діалоги мають загальні вкладення, видалити їх усі?</item>
+        <item quantity="many">These conversations contain merged items. Delete them anyway?</item>
+    </plurals>
+    <plurals name="confirm_delete_draft">
+        <item quantity="other">Видалити %1$d чернеток?</item>
+        <item quantity="one">Видалити %1$d чернетку?</item>
+        <item quantity="few">Видалити %1$d чернетки?</item>
+        <item quantity="many">Delete %1$d drafts?</item>
+    </plurals>
+    <plurals name="contact_num_selected">
+        <item quantity="other">Вибрано: %d</item>
+        <item quantity="one">Вибрано: %d</item>
+        <item quantity="few">Вибрано: %d</item>
+        <item quantity="many">%d selected</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&lt;b>%1$d&lt;/b> заархівовані.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> заархівовано.</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> заархівовані.</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> archived.</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> видалені.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> видалено.</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> видалені.</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> deleted.</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Папки змінені.</item>
+        <item quantity="one">Папка змінена.</item>
+        <item quantity="few">Папки змінені.</item>
+        <item quantity="many">Changed folders.</item>
+    </plurals>
+    <plurals name="conversation_msg_header_count">
+        <item quantity="other">+%1$d інших людей</item>
+        <item quantity="one">+%1$d інша людина</item>
+        <item quantity="few">+%1$d інших людей</item>
+        <item quantity="many">+%1$d other people</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> без звуку</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> без звуку.</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> без звуку</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> muted</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&lt;b>%1$d&lt;/b> видалені з папки \"Важливе\"</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> видалено з папки \"Важливе\"</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> видалені з папки \"Важливе\"</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b>" messages removed from 'important' folder"</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&lt;b>%1$d&lt;/b> видалені з папки \"Спам\"</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> видалено з папки \"Спам\"</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> видалені з папки \"Спам\"</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b>" removed from 'spam' folder"</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&lt;b>%1$d&lt;/b> повідомлень відмічених як спам</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> повідомлення відмічене як спам</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> повідомлення відмічені як спам</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> messages reported as spam</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&lt;b>%1$d&lt;/b> позначені як спам</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> позначено як спам</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> позначені як спам</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> marked as spam</item>
+    </plurals>
+    <plurals name="day">
+        <item quantity="other">%d днів</item>
+        <item quantity="one">%d день</item>
+        <item quantity="few">%d дні</item>
+        <item quantity="many">%d days</item>
+    </plurals>
+    <plurals name="day_after">
+        <item quantity="other">Через %d днів</item>
+        <item quantity="one">Через %d день</item>
+        <item quantity="few">Через %d дні</item>
+        <item quantity="many">In %d days</item>
+    </plurals>
+    <plurals name="day_before">
+        <item quantity="other">%d днів тому</item>
+        <item quantity="one">%d день тому</item>
+        <item quantity="few">%d дні тому</item>
+        <item quantity="many">%d days ago</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Чернетки</item>
+        <item quantity="one">Чернетка</item>
+        <item quantity="few">Чернетки</item>
+        <item quantity="many">Drafts</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">Повідомлень буде видалено: %1$d</item>
+        <item quantity="one">Повідомлень буде видалено: %1$d</item>
+        <item quantity="few">Повідомлень буде видалено: %1$d</item>
+        <item quantity="many">%1$d messages will be permanently deleted.</item>
+    </plurals>
+    <plurals name="hide_atts_remaining">
+        <item quantity="other">Приховати %1$d вкладень</item>
+        <item quantity="one">Приховати %1$d вкладення</item>
+        <item quantity="few">Приховати %1$d вкладення</item>
+        <item quantity="many">Hide %1$d attachments</item>
+    </plurals>
+    <plurals name="local_search_result">
+        <item quantity="other">Знайдено серед синхронізованих повідомлень: %s</item>
+        <item quantity="one">Знайдено серед синхронізованих повідомлень: %s</item>
+        <item quantity="few">Знайдено серед синхронізованих повідомлень: %s</item>
+        <item quantity="many">%s results in synced messages</item>
+    </plurals>
+    <plurals name="month">
+        <item quantity="other">%d місяців</item>
+        <item quantity="one">%d місяць</item>
+        <item quantity="few">%d місяці</item>
+        <item quantity="many">%d months</item>
+    </plurals>
+    <plurals name="more_atts_remaining">
+        <item quantity="other">Залишилося вкладень: %1$d</item>
+        <item quantity="one">Залишилося вкладень: %1$d</item>
+        <item quantity="few">Залишилося вкладень: %1$d</item>
+        <item quantity="many">%1$d attachments remaining</item>
+    </plurals>
+    <plurals name="move_conversation">
+        <item quantity="other">Перемістити діалоги (%1$d)</item>
+        <item quantity="one">Перемістити діалог</item>
+        <item quantity="few">Перемістити діалоги (%1$d)</item>
+        <item quantity="many">Move %1$d conversations</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">Нових повідомлень: %1$d</item>
+        <item quantity="one">Нових повідомлень: %1$d</item>
+        <item quantity="few">Нових повідомлень: %1$d</item>
+        <item quantity="many">Show %1$d new messages.</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">Нових повідомлень: %1$d</item>
+        <item quantity="one">Нових повідомлень: %1$d</item>
+        <item quantity="few">Нових повідомлень: %1$d</item>
+        <item quantity="many">%1$d new messages</item>
+    </plurals>
+    <plurals name="num_selected">
+        <item quantity="other">Вибрано: %d</item>
+        <item quantity="one">Вибрано: %d</item>
+        <item quantity="few">Вибрано: %d</item>
+        <item quantity="many">%d selected</item>
+    </plurals>
+    <plurals name="quick_reply_hint">
+        <item quantity="other">Відповісти %1$d людям</item>
+        <item quantity="one">Відповісти %1$d людині</item>
+        <item quantity="few">Відповісти %1$d людям</item>
+        <item quantity="many">Reply to %1$d people</item>
+    </plurals>
+    <plurals name="remote_search_result">
+        <item quantity="other">Знайдено результатів в усіх аккаунтах: %s</item>
+        <item quantity="one">Знайдено результатів в усіх аккаунтах: %s</item>
+        <item quantity="few">Знайдено результатів в усіх аккаунтах: %s</item>
+        <item quantity="many">%s results in all accounts</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">Старих повідомлень: %1$d</item>
+        <item quantity="one">Старих повідомлень: %1$d</item>
+        <item quantity="few">Старих повідомлень: %1$d</item>
+        <item quantity="many">%1$d older messages</item>
+    </plurals>
+    <plurals name="unsent_messages_in_outbox">
+        <item quantity="other">%1$s невідправлених повідомлень у %2$s</item>
+        <item quantity="one">%1$s невідправлене повідомлення у %2$s</item>
+        <item quantity="few">%1$s невідправлених повідомлення у %2$s</item>
+        <item quantity="many">%1$s unsent messages in %2$s</item>
+    </plurals>
+</resources>

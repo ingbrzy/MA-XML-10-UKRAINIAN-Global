@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hmode_app_groups">
+        <item>Власний</item>
+        <item>Економія заряду батареї</item>
+    </string-array>
+    <string-array name="thermal_entries">
+        <item>Температурний режим за замовчуванням</item>
+        <item>Режим продуктивності</item>
+    </string-array>
+    <string-array name="thermal_summaries">
+        <item>Поточний температурний режим</item>
+        <item>Поточний режим продуктивності</item>
+    </string-array>
+    <string-array name="power_mode_entries">
+        <item>Продуктивність</item>
+        <item>Збалансований</item>
+    </string-array>
+</resources>

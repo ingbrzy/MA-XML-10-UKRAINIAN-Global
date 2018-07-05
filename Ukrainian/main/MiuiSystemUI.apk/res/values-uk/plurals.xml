@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_recent_task_enter">
+        <item quantity="other">Відкрито Нещодавні, доступно програм: %d.</item>
+        <item quantity="one">Відкрито Нещодавні, доступно програм: %d.</item>
+        <item quantity="few">Відкрито Нещодавні, доступно програм: %d.</item>
+        <item quantity="many">Відкрито Нещодавні, доступно програм: %d.</item>
+    </plurals>
+    <plurals name="accessibility_recent_task_first_enter_tips">
+        <item quantity="other">Відкрито Нещодавні, доступно програм: %d. Проведіть вверх для видалення і вниз, щоб заблокувати.</item>
+        <item quantity="one">Відкрито Нещодавні, доступно програм: %d. Проведіть вверх для видалення і вниз, щоб заблокувати.</item>
+        <item quantity="few">Відкрито Нещодавні, доступно програм: %d. Проведіть вверх для видалення і вниз, щоб заблокувати.</item>
+        <item quantity="many">Відкрито Нещодавні, доступно програм: %d. Проведіть вверх для видалення і вниз, щоб заблокувати.</item>
+    </plurals>
+    <plurals name="block_record_notification_more_text">
+        <item quantity="other">Приховані сповіщення від %1$s &amp; %2$d програм.</item>
+        <item quantity="one">Приховані сповіщення від %1$s &amp; %2$d програми.</item>
+        <item quantity="few">Приховані сповіщення від %1$s &amp; %2$d програм.</item>
+        <item quantity="many">Приховані сповіщення від %1$s &amp; %2$d програм.</item>
+    </plurals>
+    <plurals name="disable_notification_confirm_title">
+        <item quantity="other">Вимкнути сповіщення %d програм?</item>
+        <item quantity="one">Вимкнути сповіщення програми?</item>
+        <item quantity="few">Вимкнути сповіщення %d програм?</item>
+        <item quantity="many">Вимкнути сповіщення %d програм?</item>
+    </plurals>
+    <plurals name="fold_tips_title">
+        <item quantity="other">%d неважливих сповіщень</item>
+        <item quantity="one">%d неважливе сповіщення</item>
+        <item quantity="few">%d неважливих сповіщення</item>
+        <item quantity="many">%d неважливих сповіщень</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Неправильний PIN-код SIM-карти. У вас залишилося %d спроби.</item>
+        <item quantity="one">Неправильний PIN-код SIM-карти. У вас залишилася %d спроба.</item>
+        <item quantity="few">Неправильний PIN-код SIM-карти. У вас залишилося %d спроби.</item>
+        <item quantity="many">Неправильний PIN-код SIM-карти. У вас залишилося %d спроб.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Неправильний PUK-код SIM-карти. У вас залишилося %d спроби. Після цього SIM-карту буде назавжди заблоковано.</item>
+        <item quantity="one">Неправильний PUK-код SIM-карти. У вас залишилася %d спроба. Після цього SIM-карту буде назавжди заблоковано.</item>
+        <item quantity="few">Неправильний PUK-код SIM-карти. У вас залишилося %d спроби. Після цього SIM-карту буде назавжди заблоковано.</item>
+        <item quantity="many">Неправильний PUK-код SIM-карти. У вас залишилося %d спроб. Після цього SIM-карту буде назавжди заблоковано.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_password">
+        <item quantity="other">Ви не розблоковували пристрій %d години. Підтвердьте пароль.</item>
+        <item quantity="one">Ви не розблоковували пристрій %d годину. Підтвердьте пароль.</item>
+        <item quantity="few">Ви не розблоковували пристрій %d години. Підтвердьте пароль.</item>
+        <item quantity="many">Ви не розблоковували пристрій %d годин. Підтвердьте пароль.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pattern">
+        <item quantity="other">Ви не розблоковували пристрій %d години. Підтвердьте ключ.</item>
+        <item quantity="one">Ви не розблоковували пристрій %d годину. Підтвердьте ключ.</item>
+        <item quantity="few">Ви не розблоковували пристрій %d години. Підтвердьте ключ.</item>
+        <item quantity="many">Ви не розблоковували пристрій %d годин. Підтвердьте ключ.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pin">
+        <item quantity="other">Ви не розблоковували пристрій %d години. Підтвердьте PIN-код.</item>
+        <item quantity="one">Ви не розблоковували пристрій %d годину. Підтвердьте PIN-код.</item>
+        <item quantity="few">Ви не розблоковували пристрій %d години. Підтвердьте PIN-код.</item>
+        <item quantity="many">Ви не розблоковували пристрій %d годин. Підтвердьте PIN-код.</item>
+    </plurals>
+    <plurals name="notification_channels_list_desc_2_and_others">
+        <item quantity="other">%1$s, %2$s і %3$d інших</item>
+        <item quantity="one">%1$s, %2$s і %3$d інший</item>
+        <item quantity="few">%1$s, %2$s і %3$d інших</item>
+        <item quantity="many">%1$s, %2$s і %3$d інших</item>
+    </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="other">Ще %s сповіщень.</item>
+        <item quantity="one">Ще %s сповіщення.</item>
+        <item quantity="few">Ще %s сповіщення.</item>
+        <item quantity="many">Ще %s сповіщень.</item>
+    </plurals>
+    <plurals name="notification_num_channels">
+        <item quantity="other">%d категорій сповіщень</item>
+        <item quantity="one">%d категорія сповіщень</item>
+        <item quantity="few">%d категорії сповіщень</item>
+        <item quantity="many">%d категорій сповіщень</item>
+    </plurals>
+    <plurals name="notification_num_channels_desc">
+        <item quantity="other">У цієї програми 1 з %d категорій сповіщень</item>
+        <item quantity="one">У цієї програми 1 з %d категорія сповіщень</item>
+        <item quantity="few">У цієї програми 1 з %d категорій сповіщень</item>
+        <item quantity="many">У цієї програми 1 з %d категорій сповіщень</item>
+    </plurals>
+    <plurals name="settings_toggle_position_divider_page">
+        <item quantity="other">%1$d перемикачів над цим рядком стану активні</item>
+        <item quantity="one">%1$d перемикач над цим рядком стану активний</item>
+        <item quantity="few">%1$d перемикача над цим рядком стану активні</item>
+        <item quantity="many">%1$d перемикачів над цим рядком стану активні</item>
+    </plurals>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">%d екранів в Огляді</item>
+        <item quantity="one">1 екран в Огляді</item>
+        <item quantity="few">%d екрана в Огляді</item>
+        <item quantity="many">%d екранів в Огляді</item>
+    </plurals>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">Ясно</item>
+        <item quantity="one">Ясно</item>
+        <item quantity="few">Ясно</item>
+        <item quantity="many">Ясно</item>
+    </plurals>
+</resources>
