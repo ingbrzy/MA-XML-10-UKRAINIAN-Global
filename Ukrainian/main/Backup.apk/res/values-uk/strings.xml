@@ -6,9 +6,6 @@
     <string name="xiaomi_update_dialog_message_diff">"Представлена версія %1$s
 Розмір Delta оновлення:%2$s"</string>
     <string name="xiaomi_external_storage_unavailable">Сховище недоступне, перевірте вашу SD-карту.</string>
-    <string name="xiaomi_bytes_unit">%1$sБ</string>
-    <string name="xiaomi_kilobytes_unit">%1$s кБ</string>
-    <string name="xiaomi_megabytes_unit">%1$s МБ</string>
     <string name="xiaomi_connect_download_manager_fail">Не вдалося запустити завантаження. Переконайтеся, що Менеджер завантажень працює нормально.</string>
     <string name="app_name">Бекап</string>
     <string name="local_app_name">Бекап</string>
@@ -228,7 +225,6 @@
     <string name="restore_backup">Відновлення</string>
     <string name="enable_encrypt_description">Шифрувати</string>
     <string name="disable_encrypt_description">Не шифрувати</string>
-    <string name="digit_percent">%</string>
     <string name="state_waiting">Секунду…</string>
     <string name="state_mounting">Отримання доступу до сховища роутера…</string>
     <string name="abort_backup_confirm">Створення бекапу не завершено. Відмінити процес?</string>
@@ -538,7 +534,6 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
 вам необхідно спочатку створити резервну копію у iCloud."</string>
     <string name="list_footer_tip_title">Поради:</string>
     <string name="import_tip_summary">Через проблеми з сумісністю ви можете передавати з пристроїв iOS тільки деякі дані. Перед початком передачі переконайтеся, що ви створили резервну копію у iCloud.</string>
-    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">Імпорт</string>
     <string name="select_empty">Виберіть елементи для імпорту</string>
     <string name="select_item_summary_wait">Очікування…</string>

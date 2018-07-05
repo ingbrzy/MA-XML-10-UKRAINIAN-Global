@@ -1055,7 +1055,6 @@
     <string name="power_remaining_charging_duration_only">До повного заряду залишилося %1$s</string>
     <string name="power_remaining_duration_only">Залишилося приблизно %1$s</string>
     <string name="power_remaining_duration_only_short">Залишилося %1$s</string>
-    <string name="process_kernel_label">ОС Android</string>
     <string name="profile_owned_footer">Профіль може відстежуватися</string>
     <string name="prompt_danger">Загроза</string>
     <string name="prompt_detecting">Визначення</string>
