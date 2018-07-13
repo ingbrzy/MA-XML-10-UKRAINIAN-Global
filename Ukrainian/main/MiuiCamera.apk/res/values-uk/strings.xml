@@ -380,6 +380,7 @@
     <string name="pref_camera_beauty">Покращення</string>
     <string name="pref_camera_beauty_deep">Покращення Pro</string>
     <string name="pref_camera_asd_night_title">Автоматично підвищувати освітленість фото</string>
+    <string name="pref_camera_super_resolution_title">Увімкнути SR</string>
     <string name="simple_mode_button_text_scene">Вимкнути режим \" Сюжет\"</string>
     <string name="pref_camera_peak_title">Виділення області фокусування</string>
     <string name="pref_camera_peak_entry_off">Вимк</string>
@@ -429,6 +430,7 @@
     <string name="portrait_mode_depth_effect_success_hint">Глибина різкості</string>
     <string name="portrait_mode_use_hint">"Режим \"Портрет\" розмиває фон
 і збільшує різкість переднього плану."</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="pref_camera_square_mode_title">Квадрат</string>
     <string name="simple_mode_button_text_square">Вимкнути режим \"Квадрат\"</string>
     <string name="face_beauty_smart">Розумний</string>
@@ -443,6 +445,7 @@
     <string name="pref_camera_beautify_entry_low">Низький</string>
     <string name="pref_camera_beautify_entry_normal">Середній</string>
     <string name="pref_camera_beautify_entry_high">Високий</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">Режими</string>
     <string name="button_front_camera_title">Зробити селфі</string>
     <string name="button_normal_video_title">Записати відео</string>
@@ -537,4 +540,17 @@
     <string name="lens_dirty_detected_title_front">Фронтальна камера забруднена</string>
     <string name="lens_dirty_detected_content">"Об'єктив камери забруднений.
 Очистіть об'єктив для поліпшення знімків."</string>
+    <string name="lighting_hint_title">Студійне освітлення</string>
+    <string name="lighting_hint_usage">"Ви можете використовувати студійне
+освітлення в режимі \"Портрет\""</string>
+    <string name="lighting_hint_needed">"Помісіть об'єкт у центр кола"</string>
+    <string name="lighting_hint_too_far">Піднесіть камеру ближче</string>
+    <string name="lighting_hint_too_close">Помістіть камеру трошки далі</string>
+    <string name="lighting_pattern_nature">Натуральний</string>
+    <string name="lighting_pattern_stage">Сцена</string>
+    <string name="lighting_pattern_movie">Кіно</string>
+    <string name="lighting_pattern_rainbow">Веселка</string>
+    <string name="lighting_pattern_leaf">Листя</string>
+    <string name="lighting_pattern_dot">Крапки</string>
+    <string name="lighting_pattern_shutter">Завіси</string>
 </resources>

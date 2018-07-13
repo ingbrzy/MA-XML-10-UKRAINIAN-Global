@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="add_alarm">Додати будильник</string>
+    <string name="add_clock">Add Clock</string>
     <string name="add_timezone_title">Додати часовий пояс</string>
     <string name="alarm_alert_alert_silenced">Відключення через %d хв</string>
     <string name="alarm_alert_snooze_set">Повтор через %d хв</string>
@@ -36,6 +37,7 @@
     <string name="close_alarm">Вимкнути</string>
     <string name="common_settings">Загальні</string>
     <string name="confirm_abort">ОК</string>
+    <string name="content_desc_keep_screen">\"Keep screen on\" button</string>
     <string name="control_set_alarm">Налаштування</string>
     <string name="control_set_alarm_with_existing">Будильник встановлено: %s</string>
     <string name="day">1 день</string>
@@ -54,6 +56,7 @@
     <string name="dialog_message_agree">Погодитися</string>
     <string name="dialog_message_for_contact_permission">Для встановлення нагадувань про дні народження, годиннику необхідний доступ до ваших контактів. Згодні?</string>
     <string name="dialog_message_negative">Не згоден</string>
+    <string name="dialog_message_not_remind">Більше не показувати</string>
     <string name="done">Зроблено</string>
     <string name="dynamic_alarm_speech">Розумний будильник</string>
     <string name="edit_alarm">Змінити будильник</string>
@@ -109,14 +112,14 @@
     <string name="menu_item_sort_by_name">Сортувати за іменем</string>
     <string name="minute">1 хвилина</string>
     <string name="minutes">%d хв</string>
-    <string name="module_download_cancel">Не зараз</string>
-    <string name="module_download_data_msg">Для того, щоб мати можливість встановлювати розумні будильники, звуки природи та нагадування про дні народження, годиннику необхідне підключення до інтернету та доступ до ваших контактів. Також вам буде необхідно завантажити додаткові аудіофайли. Використовувати мобільний інтернет для завантаження даних?</string>
-    <string name="module_download_data_msg_golbal">Для того, щоб мати можливість встановлювати розумні будильники та звуки природи, годиннику необхідно завантажити додаткові аудіофайли. Використовувати мобільний інтернет для завантаження даних?</string>
+    <string name="module_download_cancel">Ні, дякую</string>
+    <string name="module_download_data_msg">Программі \"Годинник\" необхідний доступ до інтернету для завантаження аудіофайлів (20МБ) звуків природи та розумних будильників. Ви використовуєте мобільний інтернет зараз. Дозволити?</string>
+    <string name="module_download_data_msg_golbal">Программі \"Годинник\" необхідно завантажити аудіофайли (20МБ) звуків природи та розумних будильників. Ви використовуєте мобільний інтернет зараз. Дозволити?</string>
     <string name="module_download_fail">Не вдалося завантажити додаткові аудіофайли</string>
-    <string name="module_download_msg">Для того, щоб мати можливість встановлювати розумні будильники, звуки природи та нагадування про дні народження, годиннику необхідне підключення до інтернету та доступ до ваших контактів. Також вам буде необхідно завантажити додаткові аудіофайли. Згодні?</string>
-    <string name="module_download_msg_golbal">Для того, щоб мати можливість встановлювати розумні будильники та звуки природи, годиннику необхідно завантажити додаткові аудіофайли. Згодні?</string>
+    <string name="module_download_msg">Программі \"Годинник\" необхідний доступ до інтернету для завантаження аудіофайлів звуків природи та розумних будильників. Дозволити?</string>
+    <string name="module_download_msg_golbal">Годиннику необхідно завантажити аудіофайли звуків природи та розумних будильників. Дозволити?</string>
     <string name="module_download_no_network">Не вдалося підключитися до мережі. Перевірте налаштування мережі та повторіть спробу.</string>
-    <string name="module_download_ok">Погодитися та завантажити</string>
+    <string name="module_download_ok">Дозволити</string>
     <string name="module_download_success">Успішно завантажено додаткові аудіофайли</string>
     <string name="module_download_title">Необхідні додаткові аудіофайли</string>
     <string name="module_downloading">Завантаження додаткових аудіофайлів…</string>
@@ -145,6 +148,7 @@
     <string name="shutdown_alarm_enable_summary">Будильник буде дзвонити після вимкнення пристрою</string>
     <string name="shutdown_alarm_title">Спрацювання при вимкненому пристрої</string>
     <string name="silent_alarm_summary">Без звуку</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Вимкнути один раз %s</string>
     <string name="slider_text">Посуньте вгору, щоб відключити</string>
     <string name="snooze_confirm_cancel">Вимкнути будильник</string>
@@ -153,6 +157,7 @@
     <string name="start_up">Старт</string>
     <string name="stopwatch_lap_empty_text">Немає кіл</string>
     <string name="stopwatch_title">Секундомір</string>
+    <string name="symbol_colon">:</string>
     <string name="system_time_setting">Налаштування</string>
     <string name="system_time_settings_category_title">Налаштування часу</string>
     <string name="temperature_unit">%1$s°</string>
@@ -183,10 +188,8 @@
     <string name="timer_item_picker_second">Сек</string>
     <string name="timer_new_item">Додати</string>
     <string name="timer_notify_text">Відкласти або відмінити таймер.</string>
-    <string name="timer_pause_hint">Пауза</string>
     <string name="timer_pause_timer">Зупинити таймер</string>
     <string name="timer_running">Таймер запущено</string>
-    <string name="timer_running_hint">Продовжити</string>
     <string name="timer_start_alarm">Таймер</string>
     <string name="timer_start_timer">Запустити таймер</string>
     <string name="timer_title">Таймер</string>
@@ -211,4 +214,6 @@
     <string name="worldcolock_timezone_date">d MMMM</string>
     <string name="worldcolock_timezone_gap">Година</string>
     <string name="worldcolock_timezone_local">Такий самий, як і місцевий час</string>
+    <string name="timer_pause_hint">Пауза</string>
+    <string name="timer_running_hint">Продовжити</string>
 </resources>

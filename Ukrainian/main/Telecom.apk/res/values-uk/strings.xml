@@ -68,6 +68,7 @@
     <string name="accessibility_wifi_two_bars">Дві смужки сигналу Wi-Fi.</string>
     <string name="accessibility_wifi_three_bars">Три смужки сигналу Wi-Fi.</string>
     <string name="accessibility_wifi_signal_full">Максимальний сигнал Wi-Fi.</string>
+    <string name="process_kernel_label">ОС Android</string>
     <string name="data_usage_uninstalled_apps">Видалені програми</string>
     <string name="data_usage_uninstalled_apps_users">Видалені програми та користувачі</string>
     <string name="tether_settings_title_usb">"Прив'язка USB"</string>
@@ -392,10 +393,10 @@
     <string name="decline_incoming_call">Відхилити</string>
     <string name="cant_call_due_to_ongoing_call">Неможливо здійснити виклик, поки не було завершено поточний виклик у програмі %1$s.</string>
     <string name="cant_call_due_to_ongoing_calls">Неможливо здійснити виклик, поки не було завершено поточні виклики у програмі %1$s.</string>
-    <string name="cant_call_due_to_ongoing_unknown_call">Неможоиво здійснити виклик, поки не завершено поточний виклик у іншій програмі.</string>
+    <string name="cant_call_due_to_ongoing_unknown_call">Неможливо здійснити виклик, поки не завершено поточний виклик у іншій програмі.</string>
     <string name="notification_channel_incoming_call">Вхідні виклики</string>
     <string name="notification_channel_missed_call">Пропущені виклики</string>
-    <string name="alert_outgoing_call">Якщо ви зателефонуєте, то викдик в %1$s буде завершено.</string>
+    <string name="alert_outgoing_call">Якщо ви зателефонуєте, то виклик в %1$s буде завершено.</string>
     <string name="voice_report_incoming_call">Вхідний виклик</string>
     <string name="voice_report_unknown_num">Невідомий номер</string>
     <string name="incall_error_call_failed">Не вдалося здійснити виклик.</string>
@@ -406,7 +407,7 @@
     <string name="can_not_dial_vt_while_voice_prompt">Неможливо здійснити відеовиклик під час голосового виклику</string>
     <string name="voice_dial_out">Голосовий виклик</string>
     <string name="notification_AllMissedCallTitle">Всі пропущені виклики</string>
-    <string name="close">Закрити</string>
+    <string name="close">Вимкнути</string>
     <string name="callFailed_simError">Помилка SIM-карти</string>
     <string name="incall_error_supp_service_unknown">Ця послуга не підтримується.</string>
     <string name="incall_error_power_off">Вимкніть Режим польоту, щоб здійснити виклик.</string>

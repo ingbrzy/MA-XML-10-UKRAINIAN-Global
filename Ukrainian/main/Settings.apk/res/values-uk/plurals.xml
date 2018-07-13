@@ -354,6 +354,12 @@
         <item quantity="few">Залишилося натиснень, для відправки звіту про помилки: %1$d.</item>
         <item quantity="many">Залишилося натиснень, для відправки звіту про помилки: %1$d.</item>
     </plurals>
+    <plurals name="show_reset_countdown">
+        <item quantity="other">Залишилося %1$d кроків до відновлення заводських налаштувань</item>
+        <item quantity="one">Залишився %1$d крок до відновлення заводських налаштувань</item>
+        <item quantity="few">Залишилося %1$d кроки до відновлення заводських налаштувань</item>
+        <item quantity="many">Залишилося %1$d кроків до відновлення заводських налаштувань</item>
+    </plurals>
     <plurals name="special_access_summary">
         <item quantity="other">%d додаток можуть без обмежень передавати дані</item>
         <item quantity="one">%d додаток може без обмежень передавати дані</item>

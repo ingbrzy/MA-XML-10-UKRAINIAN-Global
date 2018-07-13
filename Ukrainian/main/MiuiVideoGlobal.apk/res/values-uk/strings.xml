@@ -19,6 +19,7 @@
     <string name="abc_shareactionprovider_share_with">Надіслати через</string>
     <string name="abc_shareactionprovider_share_with_application">Надіслати через %s</string>
     <string name="abc_toolbar_collapse_description">Згорнути</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="airkan_control_device_des">Для управління відтворенням торкніться панелі внизу екрана.</string>
     <string name="airkan_device_xiaomi_phone">Мій телефон</string>
     <string name="airkan_playing">Трансляція на %s</string>

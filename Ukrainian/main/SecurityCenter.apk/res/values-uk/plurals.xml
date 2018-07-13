@@ -58,7 +58,7 @@
         <item quantity="other">%d програм з підключеням до мережі у фоні</item>
         <item quantity="one">%d програма з підключеням до мережі у фоні</item>
         <item quantity="few">%d програми з підключеням до мережі у фоні</item>
-        <item quantity="many">%d програм з підключеням до мережі у фоні</item>
+        <item quantity="many">%d програм з підключенням до мережі у фоні</item>
     </plurals>
     <plurals name="bg_network_restrict_count">
         <item quantity="other">%d програм не можуть підключатися до мережі у фоні</item>
@@ -247,6 +247,30 @@
         <item quantity="one">%s програма не захищена</item>
         <item quantity="few">%s програми не захищені</item>
         <item quantity="many">%s програм не захищені</item>
+    </plurals>
+    <plurals name="menu_text_antivirus_2">
+        <item quantity="other">"Об'єктів: %d"</item>
+        <item quantity="one">"Об'єктів: %d"</item>
+        <item quantity="few">"Об'єктів: %d"</item>
+        <item quantity="many">"Об'єктів: %d"</item>
+    </plurals>
+    <plurals name="menu_text_antivirus_3">
+        <item quantity="other">%d днів</item>
+        <item quantity="one">%d день</item>
+        <item quantity="few">%d дні</item>
+        <item quantity="many">%d днів</item>
+    </plurals>
+    <plurals name="menu_text_antispam_2">
+        <item quantity="other">"Об'єктів: %d"</item>
+        <item quantity="one">"Об'єктів: %d"</item>
+        <item quantity="few">"Об'єктів: %d"</item>
+        <item quantity="many">"Об'єктів: %d"</item>
+    </plurals>
+    <plurals name="menu_text_app_manager_2">
+        <item quantity="other">%d програм</item>
+        <item quantity="one">%d програма</item>
+        <item quantity="few">%d програми</item>
+        <item quantity="many">%d програм</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">Захищено: %1$d</item>

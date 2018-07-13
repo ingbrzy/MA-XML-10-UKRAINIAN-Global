@@ -898,6 +898,16 @@
     <string name="brightness_title">Яскравість</string>
     <string name="bt_hci_snoop_log">Журнал Bluetooth HCI</string>
     <string name="bt_hci_snoop_log_summary">Записувати усі пакети Bluetooth HCI до журналу</string>
+    <string name="bt_ldac_declaration">Якщо пристрій Bluetooth підтримує LDAC, то він буде увімкнений за замовчуванням. LDAC забезпечує високу якість звуку, але одночасно призводить до більш високих енергозатрат</string>
+    <string name="bt_ldac_dialog_summary">"LDAC забезпечує високу якість звуку, але також призводить до більш високого енергоспоживання
+Цю функцію можна вимкнути в [Налаштуваннях]"</string>
+    <string name="bt_ldac_dialog_title">Поточний пристрій підтримує LDAC, який був увімкнений за замовчуванням:</string>
+    <string name="bt_ldac_open_dialog_summary">LDAC забезпечує високу якість звуку, але одночасно призводить до більш високих енергозатрат</string>
+    <string name="bt_ldac_open_dialog_title">Увімкнути LDAC?</string>
+    <string name="bt_ldac_pre_summary">Забезпечує високоякісне звучання</string>
+    <string name="bt_ldac_property">Властивості</string>
+    <string name="bt_ldac_remember_choice">"Запам'ятати"</string>
+    <string name="bt_ldac_settings">Налаштування</string>
     <string name="bt_rarely_used_device_title">Рідко використовувані пристрої (%d)</string>
     <string name="bt_trace_log">Журнал відстеження передачі даних по Bluetooth</string>
     <string name="bt_trace_log_summary">Увімкнути журнал трасування Bluetooth</string>
@@ -1838,6 +1848,8 @@
     <string name="firewall_temp_rule_reason">Програма %2$s обмежила доступ до інтернету для %1$s</string>
     <string name="firewall_wifi_dialog_message">Коли перемикач вимкнено, встановлена програма не зможе підключитися до інтернету, використовуючи Wi-Fi.</string>
     <string name="firmware_version">Версія Android</string>
+    <string name="flash_drive_backup_restore">Резервування на USB</string>
+    <string name="flash_drive_backup_restore_summary">Підключіть USB-пристрій</string>
     <string name="floating_window_switch_label">Спливаючі вікна</string>
     <string name="floating_window_switch_label_disable">Приховати спливаючі вікна</string>
     <string name="fluency_mode">Системна анімація</string>
@@ -2222,6 +2234,7 @@
     <string name="lift_to_wake_title">Підняти, щоб активувати</string>
     <string name="line_breaking_summary">Виправити порушення пунктів абзацу</string>
     <string name="line_breaking_title">Оптимізація тексту</string>
+    <string name="link_speed">%1$d Мбіт/с</string>
     <string name="list_bg_header_text">При обмеженні фонових підключень нові програми після їх встановлення не зможуть підключитися до інтернету у фоновому режимі. Вони більше не зможуть отримувати повідомлення або оновлювати дані.</string>
     <string name="list_empty_text">Порожньо</string>
     <string name="loading_notification_apps">Завантаження додатків…</string>
@@ -2406,7 +2419,7 @@
     <string name="lockpattern_pattern_same_with_owner">Повинен відрізнятися від пароля для Першого сховища</string>
     <string name="lockpattern_pattern_same_with_security_space">Повинен відрізнятися від пароля для Другого сховища</string>
     <string name="lockpattern_recording_incorrect_too_short">З’єднайте не менше %d точок. Повторіть спробу.</string>
-    <string name="lockpattern_recording_inprogress">Відпустіть палець, коли завершете</string>
+    <string name="lockpattern_recording_inprogress">Відпустіть палець, коли закінчите</string>
     <string name="lockpattern_recording_intro_footer">Натисніть кнопку \"Меню\" для довідки.</string>
     <string name="lockpattern_recording_intro_header">Намалюйте графічний ключ:</string>
     <string name="lockpattern_recording_intro_header_second_space">Намалюйте графічний ключ для Другого сховища:</string>
@@ -2615,7 +2628,7 @@
     <string name="miui_allow_vibrate">Вібрація</string>
     <string name="miui_data_usage_menu_metered">Мобільні точки доступу</string>
     <string name="miui_experience_optimization">Увімкнути оптимізацію MIUI</string>
-    <string name="miui_lab_ai_cloud_closed">Попереднє завагтаження ще недоступне.</string>
+    <string name="miui_lab_ai_cloud_closed">Попереднє завантаження ще недоступне.</string>
     <string name="miui_lab_ai_preload_desc">Попереднє завантаження АІ збільшує швидкість запуску програм</string>
     <string name="miui_lab_ai_preload_title">Попереднє завантаження Аl</string>
     <string name="miui_lab_drive_mode_desc">Використовуйте управління голосом та прослуховуйте повідомлення у WeChat</string>
@@ -2813,6 +2826,7 @@
     <string name="nfc_how_it_works_got_it">Зрозуміло</string>
     <string name="nfc_how_it_works_title">Оплата через термінал</string>
     <string name="nfc_more_title">Більше…</string>
+    <string name="nfc_payment_app_and_desc">%1$s – %2$s</string>
     <string name="nfc_payment_default">Додаток для платежів за умовчанням</string>
     <string name="nfc_payment_default_not_set">Не вибрано</string>
     <string name="nfc_payment_favor_default">Завжди</string>
@@ -3017,6 +3031,7 @@
     <string name="overlay_display_devices_title">Емуляція додаткових екранів</string>
     <string name="overlay_settings">Показувати поверх додатків</string>
     <string name="owner_info_settings_edit_text_hint">Наприклад, \"Android Олега\".</string>
+    <string name="owner_info_settings_status">%1$d/%2$d</string>
     <string name="owner_info_settings_summary">Немає</string>
     <string name="owner_info_settings_title">Інформація про власника на екрані блокування</string>
     <string name="owner_space">Перше сховище</string>
@@ -3306,6 +3321,7 @@
     <string name="private_sms_recording_intro_header">Намалюйте графічний ключ:</string>
     <string name="private_sms_reset_by_account">Увійдіть до Mi аккаунту для відновлення пароля</string>
     <string name="process_dex2oat_label">Оптимізація додатка</string>
+    <string name="process_kernel_label">ОС Android</string>
     <string name="process_mediaserver_label">Медіа-сервер</string>
     <string name="process_provider_in_use_description">Постачальник %1$s використ.</string>
     <string name="process_service_in_use_description">Служба %1$s використов.</string>
@@ -3892,6 +3908,9 @@
     <string name="second_space">Друге сховище</string>
     <string name="secondspace_category">Друге сховище</string>
     <string name="secondspace_delete_space_title">Видалити Друге сховище</string>
+    <string name="secspace_fod_finger_tips">Не вдалося підтвердити. Повторіть спробу.</string>
+    <string name="secspace_fod_finger_title">Підтвердіть відбиток пальця</string>
+    <string name="secspace_fod_use_password">Введіть пароль</string>
     <string name="secure_keyguard_business_title">Блокування екрана</string>
     <string name="secure_lock_encryption_warning">Оскільки ви ввімкнули службу доступності, дані на пристрої не захищатимуться екраном блокування.</string>
     <string name="security_dashboard_summary">Блокування екрана, відбиток пальця</string>
@@ -4153,6 +4172,7 @@
     <string name="sim_reenter_new">Повторіть новий PIN-код</string>
     <string name="sim_select_card">Виберіть SIM-карту</string>
     <string name="sim_selection_required_pref">Потрібно вибрати</string>
+    <string name="sim_settings_summary">%1$s – %2$s</string>
     <string name="sim_settings_title">SIM-карти</string>
     <string name="sim_setup_wizard_title">SIM-карти</string>
     <string name="sim_signal_strength">%1$d дБм %2$d asu</string>
@@ -4256,10 +4276,11 @@
     <string name="status_bar_settings_show_carrier_summary">Назва оператора відображатиметься на екрані блокування та в панелі сповіщень, коли цю функцію вимкнуто</string>
     <string name="status_bar_settings_show_carrier_under_keyguard">"Показувати ім'я оператора, коли пристрій заблоковано"</string>
     <string name="status_bar_settings_show_floating_notification">Спливаючі сповіщення</string>
-    <string name="status_bar_settings_show_floating_notification_summary">Спливаючі сповіщення автоматично зникнуть після відображення у верхній частині екрану</string>
+    <string name="status_bar_settings_show_floating_notification_summary">Дозволити важливі сповіщення у верхній частині екрана</string>
     <string name="status_bar_settings_show_flow_info">Показувати трафік</string>
     <string name="status_bar_settings_show_home_message">Іконка програми</string>
     <string name="status_bar_settings_show_keyguard_notification">Сповіщення на екрані блокування</string>
+    <string name="status_bar_settings_show_keyguard_notification_summary">Дозволити важливі сповіщення на екрані блокування</string>
     <string name="status_bar_settings_show_network_speed">Показувати швидкість мережі</string>
     <string name="status_bar_settings_show_notification_icon">Показувати іконки сповіщень</string>
     <string name="status_bar_settings_show_wifi_name">Показати Wi-Fi</string>
@@ -4456,6 +4477,7 @@
     <string name="suggestion_remove">Видалити</string>
     <string name="suggestions_title">Пропозиції</string>
     <string name="sum_carrier_select">Виберіть оператора мережі</string>
+    <string name="summary_range_symbol_combination">%1$s – %2$s</string>
     <string name="summary_range_verbal_combination">%1$s – %2$s</string>
     <string name="super_resolution_access_title">Доступні програми</string>
     <string name="super_resolution_desc">Робіть зображення чіткішими завдяки алгоритму AI</string>

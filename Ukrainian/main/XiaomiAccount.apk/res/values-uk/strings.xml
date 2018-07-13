@@ -146,7 +146,7 @@
     <string name="passport_license_host_unreachable">Не вдається підключитися до мережі. Для перегляду інформації перейдіть: %s.</string>
     <string name="passport_login_failed">Помилка авторизації</string>
     <string name="passport_reg_failed">Помилка реєстрації</string>
-    <string name="passport_verification_failed">Помилка перевірки</string>
+    <string name="passport_verification_failed">Не вдалося підтвердити аккаунт</string>
     <string name="passport_reset_fail_title">Не вдалося скинути пароль</string>
     <string name="passport_identification_expired">Термін дії коду закінчився, почніть спочатку</string>
     <string name="passport_bad_authentication">"Неправильне ім'я користувача або пароль"</string>
@@ -429,7 +429,7 @@
     <string name="find_device_owner_phone">Пристрій заблоковано. Зателефонуйте: %1$s.</string>
     <string name="find_device_prompt_message">Пристрій заблоковано. Повідомлення: %1$s.</string>
     <string name="find_device_activate_account">Активувати аккаунт</string>
-    <string name="login_check_find_device">Отримання інформації про безпеку пристроя…</string>
+    <string name="login_check_find_device">Отримання інформації про безпеку пристрою…</string>
     <string name="unlock_help_notice">"Довідка:
 1. Якщо ви забули свій пароль, то перейдіть на id.mi.com для його скидання.
 2. Якщо ви не можете скинути пароль або хтось заблокував ваш пристрій, перейдіть на i.mi.com для його розблокування

@@ -13,6 +13,7 @@
     <string name="no_network_btn">Спробуйте знову</string>
     <string name="main_toolbar_purchase">Поповнити</string>
     <string name="usage_sorted_loading_text">Хвилинку…</string>
+    <string name="empty">" "</string>
     <string name="share">Поділитися</string>
     <string name="open_browser">Відкрити у браузері</string>
     <string name="title_share_link">Поділитися посиланням</string>
