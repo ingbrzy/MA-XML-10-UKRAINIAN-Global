@@ -91,7 +91,6 @@
     <string name="hints_apk_header_left">Пакети</string>
     <string name="hints_residual_header_left">Залишкові файли</string>
     <string name="hints_memory_header_left">"Пам'ять"</string>
-    <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">Великі файли: %d</string>
     <string name="hints_installed_apps_header_left">Встановлені програми: %d</string>
     <string name="toast_resolve_apk_error">Виправити помилку файлу apk</string>
@@ -299,7 +298,6 @@
     <string name="downloading">Завантаження</string>
     <string name="installing">Встановлення</string>
     <string name="start_install">Встановити</string>
-    <string name="empty">" "</string>
     <string name="open_browser">Відкрити у браузері</string>
     <string name="title_share_link">Поділитися посиланням</string>
     <string name="connecting">Підключення…</string>

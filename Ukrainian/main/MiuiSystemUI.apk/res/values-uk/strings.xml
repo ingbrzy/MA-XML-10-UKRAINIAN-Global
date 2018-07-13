@@ -763,7 +763,6 @@
     <string name="keyguard_charged">Заряджено</string>
     <string name="keyguard_charging_info_battery_used_time_text">Робота від батареї</string>
     <string name="keyguard_charging_info_click_to_detail">Переглянути деталі</string>
-    <string name="keyguard_charging_info_data_ma">%s mA</string>
     <string name="keyguard_charging_info_drained_power_percent_text">Зниження заряду</string>
     <string name="keyguard_charging_info_last_charge_time">d.MM H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">Сьогодні %s</string>
@@ -1198,7 +1197,6 @@
     <string name="power_remaining_charging_duration_only">До повного заряду залишилося %1$s</string>
     <string name="power_remaining_duration_only">Залишилося приблизно %1$s</string>
     <string name="power_remaining_duration_only_short">Залишилося %1$s</string>
-    <string name="process_kernel_label">ОС Android</string>
     <string name="profile_owned_footer">Профіль може відстежуватися</string>
     <string name="prompt_danger">Загроза</string>
     <string name="prompt_detecting">Визначення</string>

@@ -35,8 +35,6 @@
     <string name="mx_sub_dspt_provision_with_voip">Інтернет-телефонія</string>
     <string name="phone_number_required_dspt_provision">"Цей сервіс запитує ваш номер телефону. "</string>
     <string name="sync_dspt_provision">"Синхронізувати Ваші фото, контакти, нотатки та інші дані між пристроями або Ви можете переглядати дані з "</string>
-    <string name="sync_dspt_provision2">i.mi.com</string>
-    <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
     <string name="sync_dspt_provision3">". Відключити цю функцію можна в налаштуваннях.
 "</string>
     <string name="sync_dspt_entrance_provision">"Синхронізовуйте фото, контакти, журнали викликів та повідомлення на усіх пристроях і переглядайте об'єкти, що синхронізуються, у будь-якому браузері на %s. "</string>
@@ -47,8 +45,6 @@
     <string name="sync_dspt_entrance_provision_skip">Пропустити цей крок</string>
     <string name="sync_dspt_entrance_provision_network">Для нормальної роботи програми необхідне підключення до інтернету. Синхронізація можлива через мобільну мережу та Wi-Fi.</string>
     <string name="find_device_dspt_provision">Якщо ви втратите свій пристрій, то ви зможете виявити, заблокувати або перезапустити його на %s. Функцію можна активувати в Налаштуваннях у будь-який час.</string>
-    <string name="find_device_dspt_provision_2">i.mi.com</string>
-    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_send_sms_alert">Якщо ви замінили SIM-картку, SMS для повторної активації буде відправлено автоматично.</string>
     <string name="mx_dspt_provision">"Mi повідомлення дозволяють вам відправляти повідомлення іншим користувачам MIUI без стягування плати мобільним оператором, при підключенні до Wi-Fi.
 
@@ -283,7 +279,6 @@
     <string name="micloud_find_device_opened">Пошук пристрою увімкнено</string>
     <string name="micloud_find_device_open_fail">Не вдалося увімкнути пошук пристрою</string>
     <string name="micloud_find_device_opened_content">Знайдіть свій пристрій на %s</string>
-    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
     <string name="micloud_find_device_verify_fail">Не вдалося активувати Пошук пристрою</string>
     <string name="micloud_find_device_close_fail">Не вдалося вимкнути Пошук пристрою</string>
     <string name="micloud_find_device_finish">Зроблено</string>
@@ -349,8 +344,6 @@
     <string name="micloud_main_head_menu_state_close">Вимк</string>
     <string name="micloud_main_head_menu_state_unavailable">Не підтримується</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">Ви не можете використовувати свій пристрій, як додаткове сховище, ви можете використовувати його тільки, як основне сховище.</string>
-    <string name="micloud_footer_normal_url">i.mi.com</string>
-    <string name="micloud_footer_international_url">mi.com/micloud</string>
     <string name="ks_fingerprint_payment">Оплата відбитком пальця</string>
     <string name="ks_name_fido">FIDO</string>
     <string name="ks_name_alipay">IFAA</string>
