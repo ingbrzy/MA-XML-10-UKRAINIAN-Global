@@ -2088,7 +2088,7 @@
     <string name="instant_app_details_summary">Докладніше про додаток %1$s</string>
     <string name="instant_apps_account">Обліковий запис додатків із миттєвим запуском</string>
     <string name="instruction_privacy_password">"Цей пароль захищає наступні об'єкти"</string>
-    <string name="instruction_title">Інструкції</string>
+    <string name="instruction_title">Важлива інформація щодо безпеки</string>
     <string name="insufficient_storage">Недостатньо пам’яті.</string>
     <string name="intent_sender_account_label">Обл. запис:</string>
     <string name="intent_sender_sendbroadcast_text">Надісл. broadcast</string>
@@ -2234,6 +2234,7 @@
     <string name="lift_to_wake_title">Підняти, щоб активувати</string>
     <string name="line_breaking_summary">Виправити порушення пунктів абзацу</string>
     <string name="line_breaking_title">Оптимізація тексту</string>
+    <string name="link_speed">%1$d Мбіт/с</string>
     <string name="list_bg_header_text">При обмеженні фонових підключень нові програми після їх встановлення не зможуть підключитися до інтернету у фоновому режимі. Вони більше не зможуть отримувати повідомлення або оновлювати дані.</string>
     <string name="list_empty_text">Порожньо</string>
     <string name="loading_notification_apps">Завантаження додатків…</string>
@@ -2825,6 +2826,7 @@
     <string name="nfc_how_it_works_got_it">Зрозуміло</string>
     <string name="nfc_how_it_works_title">Оплата через термінал</string>
     <string name="nfc_more_title">Більше…</string>
+    <string name="nfc_payment_app_and_desc">%1$s – %2$s</string>
     <string name="nfc_payment_default">Додаток для платежів за умовчанням</string>
     <string name="nfc_payment_default_not_set">Не вибрано</string>
     <string name="nfc_payment_favor_default">Завжди</string>
@@ -3029,6 +3031,7 @@
     <string name="overlay_display_devices_title">Емуляція додаткових екранів</string>
     <string name="overlay_settings">Показувати поверх додатків</string>
     <string name="owner_info_settings_edit_text_hint">Наприклад, \"Android Олега\".</string>
+    <string name="owner_info_settings_status">%1$d/%2$d</string>
     <string name="owner_info_settings_summary">Немає</string>
     <string name="owner_info_settings_title">Інформація про власника на екрані блокування</string>
     <string name="owner_space">Перше сховище</string>
@@ -3318,6 +3321,7 @@
     <string name="private_sms_recording_intro_header">Намалюйте графічний ключ:</string>
     <string name="private_sms_reset_by_account">Увійдіть до Mi аккаунту для відновлення пароля</string>
     <string name="process_dex2oat_label">Оптимізація додатка</string>
+    <string name="process_kernel_label">ОС Android</string>
     <string name="process_mediaserver_label">Медіа-сервер</string>
     <string name="process_provider_in_use_description">Постачальник %1$s використ.</string>
     <string name="process_service_in_use_description">Служба %1$s використов.</string>
@@ -3515,6 +3519,7 @@
     <string name="retail_demo_reset_next">Далі</string>
     <string name="retail_demo_reset_title">Необхідний пароль</string>
     <string name="retry">Повторити спробу</string>
+    <string name="rgb_manage_facerecoginition_text">Керування 2D даними про обличчя</string>
     <string name="ring_volume_option_title">Гучність дзвінка</string>
     <string name="ring_volume_title">Гучність дзвінка</string>
     <string name="ringtone_slot_setting_title">Налаштування однієї SIM-картки</string>
@@ -4168,6 +4173,7 @@
     <string name="sim_reenter_new">Повторіть новий PIN-код</string>
     <string name="sim_select_card">Виберіть SIM-карту</string>
     <string name="sim_selection_required_pref">Потрібно вибрати</string>
+    <string name="sim_settings_summary">%1$s – %2$s</string>
     <string name="sim_settings_title">SIM-карти</string>
     <string name="sim_setup_wizard_title">SIM-карти</string>
     <string name="sim_signal_strength">%1$d дБм %2$d asu</string>
@@ -4216,6 +4222,8 @@
     <string name="sound_settings_summary">Гучність дзвінка: %1$s</string>
     <string name="sound_settings_summary_silent">Звук дзвінка вимкнено</string>
     <string name="sound_settings_summary_vibrate">Вібрацію під час дзвінка ввімкнено</string>
+    <string name="sound_stereo_mode_summary">Доступно тільки при відтворенні звуку через динамік</string>
+    <string name="sound_stereo_mode_title">Звук стерео</string>
     <string name="sound_vibrate_settings">Звук та вібрація</string>
     <string name="sound_work_settings">Звуки робочого профілю</string>
     <string name="special_access">Спеціальний доступ</string>
@@ -4461,6 +4469,9 @@
     <string name="strict_mode">Суворий режим</string>
     <string name="strict_mode_summary">Блимати екраном під час тривалих операцій</string>
     <string name="structure_add_facerecoginition_text">Додавання 3D даних про обличчя</string>
+    <string name="structure_face_enroll_not_able_low_electric_itle">Неможливо використовувати цю функцію через низький заряд батареї</string>
+    <string name="structure_face_enroll_not_able_low_electric_msg">Для початку запису заряд батареї повинен бути не менше 5%.</string>
+    <string name="structure_manage_facerecoginition_text">Керування 3D даними про обличчя</string>
     <string name="suggest_unrestrict_max_aspect_ratio_title">Ці програми найкраще працюють у повноекранному режимі</string>
     <string name="suggested_fingerprint_lock_settings_summary">Розблоковувати пристрій відбитком пальця</string>
     <string name="suggested_fingerprint_lock_settings_title">Використовуйте відбиток пальця</string>
@@ -4472,6 +4483,7 @@
     <string name="suggestion_remove">Видалити</string>
     <string name="suggestions_title">Пропозиції</string>
     <string name="sum_carrier_select">Виберіть оператора мережі</string>
+    <string name="summary_range_symbol_combination">%1$s – %2$s</string>
     <string name="summary_range_verbal_combination">%1$s – %2$s</string>
     <string name="super_resolution_access_title">Доступні програми</string>
     <string name="super_resolution_desc">Робіть зображення чіткішими завдяки алгоритму AI</string>

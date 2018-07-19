@@ -148,6 +148,7 @@
     <string name="shutdown_alarm_enable_summary">Будильник буде дзвонити після вимкнення пристрою</string>
     <string name="shutdown_alarm_title">Спрацювання при вимкненому пристрої</string>
     <string name="silent_alarm_summary">Без звуку</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Вимкнути один раз %s</string>
     <string name="slider_text">Посуньте вгору, щоб відключити</string>
     <string name="snooze_confirm_cancel">Вимкнути будильник</string>
@@ -156,6 +157,7 @@
     <string name="start_up">Старт</string>
     <string name="stopwatch_lap_empty_text">Немає кіл</string>
     <string name="stopwatch_title">Секундомір</string>
+    <string name="symbol_colon">:</string>
     <string name="system_time_setting">Налаштування</string>
     <string name="system_time_settings_category_title">Налаштування часу</string>
     <string name="temperature_unit">%1$s°</string>

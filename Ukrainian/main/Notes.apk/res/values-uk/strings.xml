@@ -110,6 +110,7 @@
     <string name="menu_title_select_folder">Виберіть папку</string>
     <string name="menu_unhide">Скасувати приховання</string>
     <string name="menu_unstick">Відкріпити</string>
+    <string name="micloud_state_total_count">%1$s</string>
     <string name="not_now">Скасувати</string>
     <string name="note_description_content">"Нотатки - це чудова програма для запису ваших ідей. Вона включає вбудовані нагадування та синхронізує ваші об'єкти з Mi Cloud, щоб ви могли мати до них доступ в будь-який час та з будь-якого місця. Перед видаленням переконайтеся, що ви зможете працювати без цих функцій."</string>
     <string name="note_description_title">Про програму</string>

@@ -298,7 +298,7 @@
     <string name="xspace_default_setting_label">Програма за замовчуванням</string>
     <string name="xspace_default_app_title">Програма за замовчуванням</string>
     <string name="xspace_default_app_summary">Встановити програму за замовчуванням для платежів, спільного використання, обраних і т.д.</string>
-    <string name="xspace_default_setting_dialog_title">За замовчуванням</string>
+    <string name="xspace_default_setting_dialog_title">за замовчуванням</string>
     <string name="xspace_default_guide_notification_content">Натисніть, щоб змінити</string>
     <string name="xspace_default_guide_notification_main_title">Використання програми за замовчуванням</string>
     <string name="xspace_default_guide_notification_xspace_title">Використання клонованої програми</string>
@@ -332,7 +332,7 @@
     <string name="can_not_delete_when_calling">Неможливо видалити сховища під час виклику</string>
     <string name="support_desc">Послуги безпеки надаються Spaces Mobile</string>
     <string name="sdcardfs_dialog_title">Важливе оновлення</string>
-    <string name="sdcardfs_dialog_message">Це оновлення включає в себе нову файлову систему. Старі дані можуть бути несумісні з нею. Для вирішення цієї проблеми виконайте дії для встановлення оновлення. В ході оновлення ваш пристрій буде двічі перезагружено.</string>
+    <string name="sdcardfs_dialog_message">Це оновлення включає в себе нову файлову систему. Старі дані можуть бути несумісні з нею. Для вирішення цієї проблеми виконайте дії для встановлення оновлення. В ході оновлення ваш пристрій буде двічі перезавантажено.</string>
     <string name="do_not_ask">Більше не запитувати</string>
     <string name="gpg_message">Створення клонованих програм для ігор вимагає роботу з Google Play Games. Створити клоновану програму для Google Play Games?</string>
     <string name="gpg_title">Клонована програма для Google Play Games</string>
@@ -390,7 +390,7 @@
     <string name="green_guard">Батьківський контроль</string>
     <string name="bind_device">Додати пристрої</string>
     <string name="green_guard_des1">Додавайте пристрої, щоб керувати ними на відстані</string>
-    <string name="green_guard_title2">Перелянути інформацію про місцерозташування</string>
+    <string name="green_guard_title2">Переглянути інформацію про місцерозташування</string>
     <string name="green_guard_des2">Відстежуйте місцезнаходження всіх керованих пристроїв</string>
     <string name="green_guard_title3">Управління програмами</string>
     <string name="green_guard_des3">Контролюйте програми та обмежуйте їх використання</string>

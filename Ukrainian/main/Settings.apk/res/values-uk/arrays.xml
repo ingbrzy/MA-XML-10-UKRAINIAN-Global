@@ -862,6 +862,10 @@
         <item>Повільна швидкість через слабкий сигнал</item>
         <item>Переміщення…</item>
     </string-array>
+    <string-array name="notch_battery_indicator_style_entries">
+        <item>Графічний</item>
+        <item>Відсотковий</item>
+    </string-array>
     <string-array name="organized_locales">
         <item>dz</item>
         <item>ao</item>

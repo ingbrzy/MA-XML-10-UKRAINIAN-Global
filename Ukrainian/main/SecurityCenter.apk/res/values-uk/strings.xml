@@ -419,7 +419,7 @@
     <string name="root">ROOT доступ</string>
     <string name="app_detail">Деталі</string>
     <string name="app_version">Версія:</string>
-    <string name="app_mobile">Мобільний</string>
+    <string name="app_mobile">Мобільний інтернет</string>
     <string name="app_wifi">Wi-Fi</string>
     <string name="traffic_none">Немає</string>
     <string name="sorted_dialog_title">Сортувати за</string>
@@ -433,6 +433,7 @@
     <string name="managed_user_title">Корпоративні програми</string>
     <string name="pref_about_traffic_title">Налаштування трафіку</string>
     <string name="pref_traffic_manage_title">Мобільний інтернет</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">Тарифний план</string>
     <string name="pref_adjust_traffic_data">Задати трафік</string>
     <string name="pref_category_title_other">Додаткові налаштування</string>
@@ -958,6 +959,7 @@ Rolled over extra data"</string>
     <string name="om_formatted_percent_string">%s%%</string>
     <string name="om_cpu_usage_warn_title_text">"Ця програма може сповільнити
 роботу вашого пристрою"</string>
+    <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_ill_proc_handle_unstaill_title">Видалити %s?</string>
     <string name="om_ill_proc_handle_uninstall_prompt">Видаліть цю програму, щоб вирішити проблеми з батареєю.</string>
     <string name="om_ill_proc_type_wakelock_title">Програма блокує режим сну та розряджає батарею</string>
@@ -974,7 +976,7 @@ Rolled over extra data"</string>
     <string name="om_ill_proc_type_radio_detail">Вирішіть проблеми з підключенням до мережі</string>
     <string name="om_ill_proc_activity_title">Проблеми</string>
     <string name="power_center_title">Споживання батареї</string>
-    <string name="power_center_back">Назад до Споживання батареї</string>
+    <string name="power_center_back">Кнопка \"Назад\"</string>
     <string name="power_center_auto_shutdown">Таймер живлення</string>
     <string name="power_center_ontime_boot">Вмикати за розкладом</string>
     <string name="power_center_time_to_boot">Час вмикання</string>
@@ -1016,6 +1018,7 @@ Rolled over extra data"</string>
     <string name="usage_type_data_send">Відправлено мобільний інтернет</string>
     <string name="usage_type_no_coverage">Час відсутності сигналу</string>
     <string name="usage_type_gps">GPS</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Сервер медіа</string>
     <string name="power_screen">Екран</string>
     <string name="power_wifi">Wi-Fi</string>
@@ -1362,11 +1365,13 @@ Rolled over extra data"</string>
     <string name="menu_text_optimize_manage">Збільшити швидкість</string>
     <string name="menu_text_networkassistants">Трафік</string>
     <string name="menu_summary_networkassistants">Керуйте своїм тарифом</string>
+    <string name="menu_text_networkassistants_2">%s</string>
     <string name="menu_summary_networkassistants_2">Межа трафіку перевищена</string>
     <string name="menu_summary_networkassistants_3">Достатньо трафіку</string>
     <string name="menu_summary_networkassistants_4">Трафік закінчується</string>
     <string name="menu_text_networkassistants_remain">Залишилося: %s</string>
     <string name="menu_text_networkassistants_danger">Перевищення: %s</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_unit_gb">ГБ</string>
     <string name="menu_text_networkassistants_unit_mb">МБ</string>
     <string name="menu_text_networkassistants_unit_kb">кБ</string>
@@ -1379,12 +1384,14 @@ Rolled over extra data"</string>
     <string name="menu_summary_garbage_cleanup">Сміття не знайдено</string>
     <string name="menu_summary_garbage_cleanup_2">Розмір сміття</string>
     <string name="menu_summary_garbage_cleanup_3">Очистити сміття зараз</string>
+    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_power_manager">Керування живленням</string>
     <string name="menu_summary_power_manager">Економія енергії збільшує час між зарядками</string>
     <string name="menu_summary_power_manager_1">Батарея заряджена</string>
     <string name="menu_summary_power_manager_2">Залишилося: %s</string>
     <string name="menu_summary_power_manager_3">Підключіть зарядний пристрій</string>
     <string name="menu_summary_power_manager_4">До повного заряду %s</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="last_check_canceled">Попередня перевірка була скасована до завершення</string>
     <string name="examination_score_100">Перевірка не потрібна!</string>
     <string name="examination_score_80_100">Деякі елементи можуть бути оптимізовані</string>
@@ -1750,6 +1757,7 @@ Rolled over extra data"</string>
     <string name="card_main_deepclean_wechat_action">Очистити</string>
     <string name="card_main_sectool_title">Інструменти</string>
     <string name="card_main_monthreport_action">Переглянути</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">Діагностика мережі</string>
     <string name="card_main_netcheck_summary">Протестуйте мережу на наявність проблем</string>
     <string name="card_main_netcheck_action">Тест</string>
@@ -1903,7 +1911,7 @@ Rolled over extra data"</string>
     <string name="applock_not_login_account">Вхід не здійснено</string>
     <string name="applock_bind_account_title">Забули пароль</string>
     <string name="applock_close_dialog_title">Відключити захист?</string>
-    <string name="applock_close_dialog_summary">Програми не будуть захищені, а ваш пароль буде видалено після відключення захисту.</string>
+    <string name="applock_close_dialog_summary">Після відключення захисту програм ваш пароль буде видалено, а програми більше не будуть захищені.</string>
     <string name="applock_header_text_less_than_half">Дуже мало місця. Посуньте роздільник подалі.</string>
     <string name="quite_all_string">Скасувати</string>
     <string name="delete_input">Видалити</string>
@@ -2105,7 +2113,7 @@ Rolled over extra data"</string>
     <string name="app_manager_mobile_slot1">Мобільний інтернет (SIM 1)</string>
     <string name="app_manager_mobile_slot2">Мобільний інтернет (SIM 2)</string>
     <string name="app_manager_details_title">Інформація про програму</string>
-    <string name="manage_hybrid_permissions">"Manage app's permissions"</string>
+    <string name="manage_hybrid_permissions">Керувати дзволами програми</string>
     <string name="ad_btn_default_text">Дізнатися більше</string>
     <string name="open_activity_err">Заявку не знайдено</string>
     <string name="low_memory_warning_dialog_title">Недостатньо вільного місця</string>
@@ -2160,7 +2168,7 @@ Rolled over extra data"</string>
     <string name="no_game">Не вдалося знайти ігри</string>
     <string name="gamebooster_network_dialog_title">Деякі функції недоступні</string>
     <string name="gamebooster_network_dialog_message">Дозволити програмі підключатися до інтернету для використання всіх функцій Прискорення ігор?</string>
-    <string name="ask_create_shortcut">Create a Home screen shortcut?</string>
+    <string name="ask_create_shortcut">Створити ярлик на робочому столі?</string>
     <string name="create_shortcut">Створити ярлик на робочому столі для Прискорювача ігор</string>
     <string name="i_know">Зрозуміло</string>
     <string name="open_game">Відкрити</string>
@@ -2283,17 +2291,17 @@ Rolled over extra data"</string>
     <string name="gamebox_type_close">Не показувати</string>
     <string name="gamebox_type_float">Фіксована</string>
     <string name="gamebox_type_gesture">Провести, щоб показати</string>
-    <string name="gb_first_window_title">Game speed booster</string>
-    <string name="gb_first_window_summary">Boost speed and performance on a system level</string>
-    <string name="gb_first_window_gamebox_summary_four">Clear cache, make screen recordings and screenshots</string>
-    <string name="gb_first_window_gamebox_summary_six">Use quick replies, make screen recordings and screenshots</string>
-    <string name="gb_first_window_handsfree_title">Hands-free calls</string>
-    <string name="gb_first_window_handsfree_summary">Turn on speaker automatically</string>
-    <string name="gb_first_window_antimsg_title">Convenient notifications</string>
-    <string name="gb_first_window_antimsg_summary_quick_answer">Use quick replies</string>
-    <string name="gb_first_window_antimsg_summary_transparent_show">See text on transparent background</string>
-    <string name="gb_first_window_start">Start playing</string>
-    <string name="gb_create_icon_summary">Create Home screen shortcut</string>
+    <string name="gb_first_window_title">Збільшення швидкості ігор</string>
+    <string name="gb_first_window_summary">Збільшуйте продуктивність на системному рівні</string>
+    <string name="gb_first_window_gamebox_summary_four">Використовуйте швидкі відповіді, робіть записи та знімки екрана</string>
+    <string name="gb_first_window_gamebox_summary_six">"Звільняйте пам'ять, робіть записи та знімки екрана"</string>
+    <string name="gb_first_window_handsfree_title">Вільні руки</string>
+    <string name="gb_first_window_handsfree_summary">Динамік вмикається автоматично</string>
+    <string name="gb_first_window_antimsg_title">Зручні сповіщення</string>
+    <string name="gb_first_window_antimsg_summary_quick_answer">Використовуйте швидкі відповіді</string>
+    <string name="gb_first_window_antimsg_summary_transparent_show">Читайте текст на прозорому фоні</string>
+    <string name="gb_first_window_start">Почати гру</string>
+    <string name="gb_create_icon_summary">Створити ярлик на робочому столі</string>
     <string name="notify_channel_name_security">Безпека системи</string>
     <string name="power_center_consume_rank">Використання</string>
     <string name="power_center_custom_title">Економія батареї</string>

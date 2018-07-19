@@ -19,6 +19,7 @@
     <string name="abc_shareactionprovider_share_with">Надіслати через</string>
     <string name="abc_shareactionprovider_share_with_application">Надіслати через %s</string>
     <string name="abc_toolbar_collapse_description">Згорнути</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="passport_access_denied">Доступ заборонений</string>
     <string name="passport_account_hint_text">Електронна пошта, номер телефону або ID Mi аккаунту</string>
     <string name="passport_account_identity_title">Підтвердити достовірність аккаунту</string>

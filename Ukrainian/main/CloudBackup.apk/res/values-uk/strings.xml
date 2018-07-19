@@ -163,4 +163,12 @@
     <string name="notification_channel_remind">Нагадування</string>
     <string name="done_remove">Видалено успішно</string>
     <string name="doing_restore_home">Відновлення робочогу столу та налаштувань…</string>
+    <string name="title_alert_cancel_restore">Зупинити відновлення</string>
+    <string name="msg_alert_cancel_restore">Відновлення хмарного сховища, зупинити?</string>
+    <string name="btn_restore_cancel">Скасувати</string>
+    <string name="btn_restore_resume">Продовжити</string>
+    <string name="title_alert_restore_error">Помилка відновлення</string>
+    <string name="msg_alert_restore_error">Помилка відновлення, повторіть спробу ще раз.</string>
+    <string name="btn_restore_retry">Повторити ще раз</string>
+    <string name="btn_restore_abort">Скасувати</string>
 </resources>
