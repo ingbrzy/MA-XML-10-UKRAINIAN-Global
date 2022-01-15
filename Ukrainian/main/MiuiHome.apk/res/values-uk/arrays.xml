@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="cell_layout_size_entries">
-        <item>4x4</item>
-        <item>4x5</item>
-    </string-array>
-    <string-array name="cell_layout_size_values">
-        <item>4x4</item>
-        <item>4x5</item>
-    </string-array>
     <string-array name="editing_mode_entries">
         <item>Шпалери</item>
         <item>Віджети</item>
@@ -44,14 +36,17 @@
         <item>За замовчуванням</item>
         <item>Класичний</item>
     </string-array>
+    <string-array name="quality_business_devices">
+        <item>Літій</item>
+    </string-array>
     <string-array name="transformation_entries">
         <item>Слайд</item>
-        <item>Згасання</item>
-        <item>Поворот</item>
-        <item>Перегортання</item>
+        <item>Накладення</item>
+        <item>Мельниця</item>
+        <item>Книга</item>
         <item>Каскад</item>
         <item>Обертання</item>
-        <item>3D куб</item>
+        <item>3D-куб</item>
     </string-array>
     <string-array name="wallpaper_scroll_entries">
         <item>Увімкнена</item>

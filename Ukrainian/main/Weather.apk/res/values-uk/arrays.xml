@@ -1,5 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="alphabet_table">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
     <string-array name="aqi_detail_title">
         <item>Нормальне</item>
         <item>Помірне</item>
@@ -7,22 +66,6 @@
         <item>Шкідливе</item>
         <item>Дуже шкідливе</item>
         <item>Ризиковане</item>
-    </string-array>
-    <string-array name="aqi_title">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-    </string-array>
-    <string-array name="aqi_title_append">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
     </string-array>
     <string-array name="aqi_title_prefix">
         <item>ІЯП %1$s</item>
@@ -40,13 +83,6 @@
         <item>Дуже забруднений</item>
         <item>Небезпечний</item>
         <item>Поза індексом</item>
-    </string-array>
-    <string-array name="breeze">
-        <item>&lt;2 бали</item>
-        <item>&lt;6.0 км/год</item>
-        <item>&lt;1.7 м/с</item>
-        <item>&lt;3.7 миль/год</item>
-        <item>&lt;3&amp;2 мор.миль/год</item>
     </string-array>
     <string-array name="hot_city">
         <item>Beijing</item>
@@ -76,15 +112,6 @@
         <item>Сильний</item>
         <item>Середній</item>
         <item>Невеликий</item>
-    </string-array>
-    <string-array name="pollution_level_desc_arr">
-        <item>Відмінно</item>
-        <item>Нормально</item>
-        <item>Слабо забруднене</item>
-        <item>Помірно забруднене</item>
-        <item>Дуже забруднене</item>
-        <item>Небезпечно забруднене</item>
-        <item>Поза індексом</item>
     </string-array>
     <string-array name="weather_type">
         <item>Ясно</item>
@@ -116,13 +143,13 @@
         <item></item>
     </string-array>
     <string-array name="wind_direction">
-        <item>Пн</item>
+        <item>Пн </item>
         <item>Пн-Сх</item>
-        <item>Сх</item>
+        <item>Сх </item>
         <item>Пд-Сх</item>
-        <item>Пд</item>
+        <item>Пд </item>
         <item>Пд-Зх</item>
-        <item>Зх</item>
+        <item>Зх </item>
         <item>Пн-Зх</item>
     </string-array>
     <string-array name="wind_direction_simple">
@@ -134,21 +161,6 @@
         <item>ПдЗх</item>
         <item>Зх</item>
         <item>ПнЗх</item>
-    </string-array>
-    <string-array name="wind_power">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-        <item>9</item>
-        <item>10</item>
-        <item>11</item>
-        <item>12</item>
     </string-array>
     <string-array name="wind_unit_detail">
         <item>Шкала Бофорта</item>

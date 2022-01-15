@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="height_array">
+        <item>Сантиметри</item>
+        <item>Метри</item>
+        <item>Фут</item>
+        <item>Дюйми</item>
+    </string-array>
     <string-array name="mortgage_repayment">
         <item>Рівними внесками</item>
         <item>Зниження розстрочки</item>
@@ -26,8 +32,10 @@
     <string-array name="unit_data_order_currency_">
         <item>Долар</item>
         <item>Євро</item>
-        <item>HKD</item>
         <item>Єна</item>
-        <item>Юань</item>
+    </string-array>
+    <string-array name="weight_array">
+        <item>Кілограми</item>
+        <item>Фунти</item>
     </string-array>
 </resources>

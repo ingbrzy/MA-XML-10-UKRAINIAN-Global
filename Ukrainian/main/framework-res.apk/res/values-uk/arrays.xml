@@ -25,8 +25,8 @@
         <item>Дом.</item>
         <item>Мобільний</item>
         <item>Роб.</item>
-        <item>Роб. факс</item>
-        <item>Дом. факс</item>
+        <item>Робочий факс</item>
+        <item>Домашній факс</item>
         <item>Пейджер</item>
         <item>Інше</item>
         <item>Указати</item>
@@ -37,6 +37,8 @@
         <item>Інше</item>
         <item>Указати</item>
     </string-array>
+    <array name="face_acquired_vendor" />
+    <array name="face_error_vendor" />
     <array name="fingerprint_acquired_vendor" />
     <array name="fingerprint_error_vendor" />
     <string-array name="imAddressTypes">
@@ -53,13 +55,9 @@
         <item>Мережа VPN</item>
     </string-array>
     <string-array name="wfcOperatorErrorAlertMessages">
-        <item>Щоб телефонувати або надсилати повідомлення через Wi-Fi, спочатку попросіть свого оператора налаштувати цю послугу. Після цього ввімкніть дзвінки через Wi-Fi у налаштуваннях.</item>
+        <item>Щоб телефонувати або надсилати повідомлення через Wi-Fi, спершу попросіть свого оператора налаштувати цю послугу. Після цього знову ввімкніть дзвінки через Wi-Fi у налаштуваннях. (Код помилки: %1$s)</item>
     </string-array>
     <string-array name="wfcOperatorErrorNotificationMessages">
-        <item>Зареєструйтеся в оператора</item>
-    </string-array>
-    <string-array name="wfcSpnFormats">
-        <item>%s</item>
-        <item>Дзвінок через Wi-Fi від оператора %s</item>
+        <item>Проблема з реєстрацією дзвінків через Wi‑Fi у вашого оператора: %1$s</item>
     </string-array>
 </resources>
