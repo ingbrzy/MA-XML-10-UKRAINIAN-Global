@@ -9,40 +9,16 @@
         <item>Б</item>
         <item>В</item>
         <item>Г</item>
+        <item>Ґ</item>
         <item>Д</item>
         <item>Е</item>
+        <item>Є</item>
         <item>Ж</item>
         <item>З</item>
         <item>И</item>
-        <item>К</item>
-        <item>Л</item>
-        <item>М</item>
-        <item>Н</item>
-        <item>О</item>
-        <item>П</item>
-        <item>Р</item>
-        <item>С</item>
-        <item>Т</item>
-        <item>У</item>
-        <item>Ф</item>
-        <item>Х</item>
-        <item>Ц</item>
-        <item>Ч</item>
-        <item>Ш</item>
-        <item>Э</item>
-        <item>Ю</item>
-        <item>Я</item>
-    </string-array>
-    <string-array name="alphabet_table_with_starred">
-        <item>А</item>
-        <item>Б</item>
-        <item>В</item>
-        <item>Г</item>
-        <item>Д</item>
-        <item>Е</item>
-        <item>Ж</item>
-        <item>З</item>
-        <item>И</item>
+        <item>І</item>
+        <item>Ї</item>
+        <item>Й</item>
         <item>К</item>
         <item>Л</item>
         <item>М</item>
@@ -59,9 +35,47 @@
         <item>Ч</item>
         <item>Ш</item>
         <item>Щ</item>
-        <item>Э</item>
+        <item>Ь</item>
         <item>Ю</item>
         <item>Я</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Ґ</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Є</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>І</item>
+        <item>Ї</item>
+        <item>Й</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Ь</item>
+        <item>Ю</item>
+        <item>Я</item>
+        <item>\#</item>
     </string-array>
     <string-array name="menu_theme_setting">
         <item>Білий</item>
@@ -71,12 +85,20 @@
         <item>Зелений</item>
         <item>Синій</item>
     </string-array>
+    <string-array name="nf_ad_feedback_reason">
+        <item>Нецікаво</item>
+        <item>Повторення</item>
+        <item>Низька якість</item>
+        <item>Неприпустиме зображення</item>
+        <item>Шахрайська інформація</item>
+    </string-array>
     <string-array name="nf_feedback_reason">
         <item>Нецензурний вміст</item>
         <item>Неправдиві відомості</item>
         <item>Старі новини</item>
         <item>Екстремізм</item>
         <item>Реклама через навіювання</item>
+        <item>Не подобається</item>
     </string-array>
     <string-array name="pref_fling_on_border_gesture_entries">
         <item>Перейти на попередню/наступну сторінку</item>
@@ -96,9 +118,9 @@
         <item>Горизонтальний вид</item>
     </string-array>
     <string-array name="pref_security_do_not_track_keys">
-        <item>Увімк</item>
-        <item>Тільки в Режимі інкогніто</item>
-        <item>Вимк</item>
+        <item>Увімк.</item>
+        <item>Тільки в Анонімному режимі</item>
+        <item>Вимк.</item>
     </string-array>
     <string-array name="pref_text_zoom_choices">
         <item>Дрібний</item>
@@ -112,11 +134,6 @@
         <item>Робочий стіл</item>
         <item>iPhone</item>
         <item>iPad</item>
-    </string-array>
-    <string-array name="protection_name">
-        <item>Авто</item>
-        <item>Без ефекту</item>
-        <item>Новий користувач</item>
     </string-array>
     <string-array name="setting_swipe_up_target">
         <item>Пошук</item>
@@ -135,11 +152,11 @@
         <item>Слідкуйте за новинами Олімпійських ігор разом з Mi</item>
     </string-array>
     <string-array name="speed_result_tips">
-        <item>"Поточне підключення до мережі дуже повільне. Схоже, що ви знаходитеся у зоні поганого покриття."</item>
+        <item>Поточне підключення до мережі дуже повільне. Схоже, що ви знаходитеся у зоні поганого покриття.</item>
         <item>Поточне підключення до мережі дуже повільне.</item>
         <item>Не виявлено проблем з підключенням до мережі.</item>
-        <item>"Швидкість підключення до мережі швидка. Її вистачить, щоб переглядати фільми!"</item>
-        <item>"Поточне підключення до мережі дуже швидка! Ви маєте всі шанси на перемогу."</item>
+        <item>Швидкість підключення до мережі швидка. Її вистачить, щоб переглядати фільми!</item>
+        <item>Поточне підключення до мережі дуже швидка! Ви маєте всі шанси на перемогу.</item>
     </string-array>
     <string-array name="user_guide_info_array">
         <item>Завантажуйте відео та фото із соціальних мереж</item>

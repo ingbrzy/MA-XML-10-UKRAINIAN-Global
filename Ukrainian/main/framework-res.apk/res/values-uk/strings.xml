@@ -3,7 +3,7 @@
     <string name="cancel">Скасувати</string>
     <string name="copy">Копіювати</string>
     <string name="copyUrl">Копіювати URL</string>
-    <string name="cut">Виріз.</string>
+    <string name="cut">Вирізати</string>
     <string name="defaultVoiceMailAlphaTag">Голосова пошта</string>
     <string name="defaultMsisdnAlphaTag">MSISDN1</string>
     <string name="emptyPhoneNumber">(Немає номера тел.)</string>
@@ -346,12 +346,12 @@
     <string name="battery_saver_charged_notification_summary">Телефон має достатньо заряду акумулятора. Функції вже не обмежено.</string>
     <string name="battery_saver_description">"Щоб подовжити час роботи акумулятора, режим енергозбереження:
 
-•вмикає темну тему;
-•припиняє або обмежує фонову активність, вимикає деякі візуальні ефекти та інші енергозатратні функції, зокрема команду \"Ok Google\"."</string>
+• вмикає темну тему;
+• припиняє або обмежує фонову активність, вимикає деякі візуальні ефекти та інші енергозатратні функції, зокрема команду \"Ok Google\"."</string>
     <string name="battery_saver_description_with_learn_more">"Щоб подовжити час роботи акумулятора, режим енергозбереження:
 
-•вмикає темну тему;
-•припиняє або обмежує фонову активність, вимикає деякі візуальні ефекти та інші енергозатратні функції, зокрема команду \"Ok Google\".
+• вмикає темну тему;
+• припиняє або обмежує фонову активність, вимикає деякі візуальні ефекти та інші енергозатратні функції, зокрема команду \"Ok Google\".
 
 "<annotation id="url">Докладніше</annotation></string>
     <string name="battery_saver_notification_channel_name">Режим енергозбереження</string>
@@ -1755,6 +1755,7 @@
     <string name="terabyteShort">ТБ</string>
     <string name="test_harness_mode_notification_message">Щоб вимкнути режим автоматизованого тестування, відновіть заводські налаштування.</string>
     <string name="test_harness_mode_notification_title">Увімкнено режим автоматизованого тестування</string>
+    <string name="tethered_notification_message">Натисніть для налаштування.</string>
     <string name="tethered_notification_multi_device_message">%1$s підключених пристроїв</string>
     <string name="tethered_notification_no_device_message">Підключені пристрої відсутні</string>
     <string name="tethered_notification_one_device_message">%1$s підключений пристрій</string>
@@ -1819,11 +1820,11 @@
     <string name="user_logging_out_message">Вихід з облікового запису користувача %1$s…</string>
     <string name="user_owner_label">Перейти в особистий профіль</string>
     <string name="user_switched">Поточний користувач: %1$s.</string>
-    <string name="user_switching_message">Перехід в обліковий запис \"%1$s\"…</string>
+    <string name="user_switching_message">Перехід у режим \"%1$s\"…</string>
     <string name="validity_period">Чинність:</string>
-    <string name="volume_alarm">Гучн. сповіщ.</string>
-    <string name="volume_bluetooth_call">Обсяг вхідних Bluetooth</string>
-    <string name="volume_call">Обсяг вхідних</string>
+    <string name="volume_alarm">Гучність будильника</string>
+    <string name="volume_bluetooth_call">Гучність у викликах Bluetooth</string>
+    <string name="volume_call">Гучність під час розмови</string>
     <string name="volume_dialog_ringer_guidance_silent">Звуковий сигнал для викликів і сповіщень вимкнено</string>
     <string name="volume_dialog_ringer_guidance_vibrate">Вібросигнал для викликів і сповіщень увімкнено</string>
     <string name="volume_icon_description_bluetooth">Bluetooth</string>
@@ -1870,7 +1871,7 @@
     <string name="wfc_mode_cellular_preferred_summary">Телефонувати через мобільну мережу</string>
     <string name="wfc_mode_wifi_only_summary">Лише Wi-Fi</string>
     <string name="wfc_mode_wifi_preferred_summary">Телефонувати через Wi-Fi</string>
-    <string name="whichApplication">Завершити дію за доп.</string>
+    <string name="whichApplication">Що використовувати?</string>
     <string name="whichApplicationLabel">Завершити дію</string>
     <string name="whichApplicationNamed">Завершити дію за допомогою %1$s</string>
     <string name="whichEditApplication">Редагувати за допомогою</string>

@@ -38,7 +38,7 @@
     <string name="add_remote">Додати віддалений пристрій</string>
     <string name="agree_all">Я прочитав і погоджуюся з наступними правилами та умовами.</string>
     <string name="all">Всі</string>
-    <string name="already_latest_version">Оновлення не потрібне.</string>
+    <string name="already_latest_version">Оновлення не потрібно.</string>
     <string name="anonymous">Анонімний</string>
     <string name="anonymous_type">Портативний (небезпечно)</string>
     <string name="app_name">Провідник</string>
@@ -53,6 +53,7 @@
     <string name="app_name_miuiringtone">Мелодія</string>
     <string name="app_name_miuiwallpaper">Шпалери</string>
     <string name="app_name_screenshot">Скріншоти</string>
+    <string name="app_name_transport">Bluetooth та завантаження</string>
     <string name="app_permissions">Дозволи програми</string>
     <string name="app_permissions_desc">Для нормальної роботи Провіднику необхідні декілька дозволів.</string>
     <string name="authorization_item_desc">Дозвіл можна надати або відкликати шляхом натискання на перемикач</string>
@@ -89,6 +90,7 @@
     <string name="category_picture">Фото</string>
     <string name="category_recent">Останні</string>
     <string name="category_theme">Теми</string>
+    <string name="category_transport">Bluetooth та завантаження</string>
     <string name="category_type_other">Інше</string>
     <string name="category_video">Відео</string>
     <string name="category_zip">Архіви</string>
@@ -97,8 +99,10 @@
     <string name="choose_connect_type">Тип підключення</string>
     <string name="clean_found_trash">Знайдено %1$s сміття</string>
     <string name="clean_marquee_text">Відскануйте, щоб знайти ще більше непотрібних файлів</string>
-    <string name="click_to_switch_volume">"Натисніть тут, щоб перемикатися між вбудованою пам'яттю та SD картою"</string>
+    <string name="click_to_switch_volume">"Натисніть тут, щоб перемикатися між вбудованою пам'яттю та SD-картою"</string>
     <string name="click_to_switch_volume_pad">"Натисніть, щоб перемикатися між внутрішньою пам'яттю та SD-картою"</string>
+    <string name="columbus_ad_flag_text">Реклама</string>
+    <string name="columbus_skip_ad">Пропустити</string>
     <string name="common_google_play_services_enable_button">Увімкнути</string>
     <string name="common_google_play_services_enable_text">Додаток %1$s не працюватиме, якщо не ввімкнути сервіси Google Play.</string>
     <string name="common_google_play_services_enable_title">Увімкнути сервіси Google Play</string>
@@ -128,7 +132,7 @@
     <string name="connection_lost">Відключено</string>
     <string name="copy_failed">Не вдалося скопіювати</string>
     <string name="copy_to">Скопіювати до…</string>
-    <string name="copy_to_internal_storage_first">"Спочатку копіювати елементи до внутрішньої пам'яті."</string>
+    <string name="copy_to_internal_storage_first">"Спочатку скопіюйте елементи до внутрішньої пам'яті."</string>
     <string name="dark_mode">Темний режим</string>
     <string name="dark_mode_notice_message">Доступний Темний режим!</string>
     <string name="decompress_cancel">Скасувати</string>
@@ -144,9 +148,9 @@
     <string name="decompress_to">Витягнути в…</string>
     <string name="decompress_to_here">Витягнути в поточну папку</string>
     <string name="decrypt">Скасувати приховання</string>
-    <string name="decrypt_error">Не вдалося видалити</string>
+    <string name="decrypt_error">Не вдалося скасувати приховання</string>
     <string name="decrypt_to">Розшифрувати та зберегти до…</string>
-    <string name="decrypting">Видалення…</string>
+    <string name="decrypting">Скасування приховання…</string>
     <string name="default_change_log">Оновіть програму, щоб спробувати нові функції.</string>
     <string name="delete_dialog_button">Видалити</string>
     <string name="delete_error">Не вдалося видалити файли. Повторіть спробу.</string>
@@ -167,9 +171,9 @@
     <string name="display_name">"Показувати ім'я"</string>
     <string name="domain">Домен</string>
     <string name="download_success">Завантажено успішно</string>
-    <string name="empty_by_forbid_access">Зміст цієї папки не може бути відображений через обмеження у Android 11.</string>
+    <string name="empty_by_forbid_access">Зміст цієї папки не може бути відображений через обмеження у Android .</string>
     <string name="enable_documentsui">Увімкніть %s у Налаштування > Всі програми</string>
-    <string name="enable_sd_card">Підключіть SD -карту або відключіть USB-пристрій.</string>
+    <string name="enable_sd_card">SD-карта пошкоджена або відключена</string>
     <string name="enable_usb">Підключіть SD-​​карту або відключіть USB-пристрій.</string>
     <string name="encoding">Кодування</string>
     <string name="encoding_auto">Авто</string>
@@ -189,46 +193,6 @@
     <string name="error_invalid_path">Неправильний шлях</string>
     <string name="error_not_support">Не підтримується</string>
     <string name="error_open_file_failed_no_app_found">Немає програм для відкриття цього файлу</string>
-    <string name="exo_controls_fastforward_description">Перемотати вперед</string>
-    <string name="exo_controls_fullscreen_description">Повноекранний режим</string>
-    <string name="exo_controls_hide">Сховати елементи керування програвачем</string>
-    <string name="exo_controls_next_description">Наступна композиція</string>
-    <string name="exo_controls_pause_description">Призупинити</string>
-    <string name="exo_controls_play_description">Відтворити</string>
-    <string name="exo_controls_previous_description">Попередня композиція</string>
-    <string name="exo_controls_repeat_all_description">Повторити всі</string>
-    <string name="exo_controls_repeat_off_description">Не повторювати</string>
-    <string name="exo_controls_repeat_one_description">Повторити 1</string>
-    <string name="exo_controls_rewind_description">Перемотати назад</string>
-    <string name="exo_controls_show">Показувати елементи керування програвачем</string>
-    <string name="exo_controls_shuffle_off_description">Перемішування вимкнено</string>
-    <string name="exo_controls_shuffle_on_description">Перемішування ввімкнено</string>
-    <string name="exo_controls_stop_description">Припинити</string>
-    <string name="exo_controls_vr_description">Режим віртуальної реальності</string>
-    <string name="exo_download_completed">Завантаження завершено</string>
-    <string name="exo_download_description">Завантажити</string>
-    <string name="exo_download_downloading">Завантажується</string>
-    <string name="exo_download_failed">Не вдалося завантажити</string>
-    <string name="exo_download_notification_channel_name">Завантаження</string>
-    <string name="exo_download_removing">Завантаження видаляються</string>
-    <string name="exo_item_list">%1$s, %2$s</string>
-    <string name="exo_track_bitrate">%1$.2f Мбіт/с</string>
-    <string name="exo_track_mono">Моно</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
-    <string name="exo_track_role_alternate">Альтернативна</string>
-    <string name="exo_track_role_closed_captions">Субтитри</string>
-    <string name="exo_track_role_commentary">Коментарі</string>
-    <string name="exo_track_role_supplementary">Додаткова</string>
-    <string name="exo_track_selection_auto">Автоматично</string>
-    <string name="exo_track_selection_none">Нічого</string>
-    <string name="exo_track_selection_title_audio">Аудіо</string>
-    <string name="exo_track_selection_title_text">Текст</string>
-    <string name="exo_track_selection_title_video">Відео</string>
-    <string name="exo_track_stereo">Стерео</string>
-    <string name="exo_track_surround">Об’ємний звук</string>
-    <string name="exo_track_surround_5_point_1">Об’ємний звук у форматі 5.1</string>
-    <string name="exo_track_surround_7_point_1">Об’ємний звук у форматі 7.1</string>
-    <string name="exo_track_unknown">Невідомо</string>
     <string name="explicit">Явний</string>
     <string name="extended_storage_file_can_not_open">"Не вдалося відкрити файл. Скопіюйте його до пам'яті пристрою."</string>
     <string name="extract">Витягнути</string>
@@ -256,7 +220,7 @@
     <string name="folder_name_empty">"Ім'я папки не може бути порожнім"</string>
     <string name="folder_name_illegal">Некоректна назва папки</string>
     <string name="found_usb">USB-накопичувач підключений</string>
-    <string name="ftp_account_req_notice">4-16 символів, включаючи цифри, букви, чутливий до регістру</string>
+    <string name="ftp_account_req_notice">"Ім'я користувача та пароль чутливі до регістру та моють містити від %1$d до %2$d символів. Ви можете комбінувати англійські літери, спеціальні символи та цифри."</string>
     <string name="ftp_anonymous_login">Увійти анонімно</string>
     <string name="ftp_invalid_username_or_password">"Введено неправильне ім'я користувача або пароль."</string>
     <string name="ftp_open_port_error">Не вдалося відкрити порт. Перевірте підключення до мережі або скиньте номер порту.</string>
@@ -264,7 +228,7 @@
     <string name="ftp_port_number">Номер порту</string>
     <string name="ftp_random_port">Випадковий порт</string>
     <string name="ftp_transfer_secure">Безпека</string>
-    <string name="ftp_username_and_passworld">Авторизація</string>
+    <string name="ftp_username_and_passworld">"Введіть ім'я користувача та пароль"</string>
     <string name="ftp_username_hint">"Ім'я користувача"</string>
     <string name="gbk_summary">Стандартне кодування у спрощеній китайській версії Windows</string>
     <string name="gigabyteShort">ГБ</string>
@@ -273,7 +237,7 @@
     <string name="host">Хост</string>
     <string name="hot_sticker">Наклейки</string>
     <string name="ic_remove_desc">Провідник - це системна програма, яка дозволяє вам переглядати та керувати файлами на пристрої. Видалити її все одно?</string>
-    <string name="ic_remove_title">Видалити \"Провідник\" з робочого екрану?</string>
+    <string name="ic_remove_title">Видалити \"Провідник\" з робочого екрана?</string>
     <string name="if_cancel">Скасувати цю дію?</string>
     <string name="image_loading_error">Не вдалося завантажити зображення</string>
     <string name="implicit">Неявний</string>
@@ -287,6 +251,7 @@
     <string name="invalid_name_or_password">"Недійсне ім'я користувача або пароль"</string>
     <string name="just_now">Щойно</string>
     <string name="kilobyteShort">кБ</string>
+    <string name="lack_perm_dialog_title">Необхідні дозволи</string>
     <string name="list_order">Список</string>
     <string name="load_more">Ще</string>
     <string name="loading">Секунду…</string>
@@ -312,7 +277,7 @@
     <string name="menu_item_usb">USB</string>
     <string name="mi_router_label">Роутер</string>
     <string name="mode">Режим</string>
-    <string name="month_day_format">d MMMM</string>
+    <string name="month_day_format">dd MMMM</string>
     <string name="more">Ще</string>
     <string name="more_option">Додаткові параметри</string>
     <string name="move_failed">Не вдалося перемістити</string>
@@ -395,6 +360,7 @@
     <string name="partial_delete_failure">Не вдалося видалити деякі файли. Повторіть спробу.</string>
     <string name="partial_encrypt_success">Не вдалося приховати деякі файли. Повторіть спробу.</string>
     <string name="passive">Пасивний</string>
+    <string name="perm_manage_external_storage">Необхідно дозволити Провіднику доступ до фото та відео, щоб скористатися цією функцією. Ви можете зробити це в Налаштуваннях.</string>
     <string name="permission_denial">Немає доступу до файлів. Дозвольте Провіднику доступ до файлів у Налаштуваннях.</string>
     <string name="permission_phone">Телефон</string>
     <string name="permission_phone_desc">Доступ до IMEI для визначання, зберігання та обробки прихованих файлів</string>
@@ -418,14 +384,6 @@
     <string name="phone_storage_zip_title">Архіви: </string>
     <string name="pick_file">Оберіть файли</string>
     <string name="pick_folder">Виберіть папку</string>
-    <string name="player_tips_brightness">Налаштування яскравості</string>
-    <string name="player_tips_double_click">Двічі натисніть на екран</string>
-    <string name="player_tips_landscape">Проведіть по горизонталі</string>
-    <string name="player_tips_pause_player">Пауза/відтворення</string>
-    <string name="player_tips_rewind">Перемотування</string>
-    <string name="player_tips_up_down_left">Посуньте по вертикалі вліво</string>
-    <string name="player_tips_up_down_right">Проведіть по вертикалі вправо</string>
-    <string name="player_tips_volume">Налаштування гучності</string>
     <string name="port">Порт</string>
     <string name="port_range">Номер порту має бути між значеннями 1024 та 65535</string>
     <string name="possible_permissions">"Необов'язкові дозволи"</string>
@@ -435,7 +393,7 @@
     <string name="privacy_experience_statement">Приєднуйтесь до нашої Програми поліпшення якості, щоб поділитися з нами своїми даними користувача, які допоможуть нам покращити наші продукти та послуги.</string>
     <string name="privacy_item1">Категоризація нещодавно використаних файлів</string>
     <string name="privacy_item2">Перегляд та редагування файлів</string>
-    <string name="privacy_message">&lt;Data>Провіднику потрібно здійснювати збір необхідної особистої інформації, щоб надавати вам основні послуги, які генерують статистику використання. Ви можете дізнатися детальніше про те, як ми обробляємо зібрану інформацію в нашій &lt;a href=\"%1$s\">Політиці конфіденційності&lt;/a>. Перед початком використання програми \"Провідник\", ознайомтеся і погодьтеся з нашими &lt;a href=\"%2$s\">Умовами використання&lt;/a> та &lt;a href=\"%1$s\">Політикою конфіденційності&lt;/a>. Ви можете в будь-який час відкликати свою згоду з Політикою конфіденційності програми \"Провідник\" в Налаштуваннях. Якщо ви не згодні з нашою Політикою конфіденційності, ви не зможете використовувати деякі функції цієї програми, однак основні функції залишаться доступними для вас.&lt;/Data></string>
+    <string name="privacy_message">&lt;Data>Провіднику потрібно здійснювати збір необхідної особистої інформації, щоб надавати вам основні послуги, які генерують статистику використання. Ви можете дізнатися детальніше про те, як ми обробляємо зібрану інформацію в нашій &lt;a href=\"%1$s\">Політиці конфіденційності&lt;/a>. Перед початком використання програми Провідник, ознайомтеся і погодьтеся з нашими &lt;a href=\"%2$s\">Умовами використання&lt;/a> та &lt;a href=\"%1$s\">Політикою конфіденційності&lt;/a>. Ви можете в будь-який час відкликати свою згоду з Політикою конфіденційності програми Провідник в Налаштуваннях. Якщо ви не згодні з нашою Політикою конфіденційності, ви не зможете використовувати деякі функції цієї програми, однак основні функції залишаться доступними для вас.&lt;/Data></string>
     <string name="privacy_title">Ласкаво просимо в Провідник</string>
     <string name="private_files">Приховані</string>
     <string name="private_folder">Приховані файли</string>
@@ -483,8 +441,6 @@
     <string name="s7">Тестове оголошення</string>
     <string name="save_seven_day">Очищувати раз на тиждень</string>
     <string name="scan_code_download_from_play">Відскануйте QR-код, щоб завантажити з Play Store</string>
-    <string name="screenshot_fail">Не вдалося зробити знімок</string>
-    <string name="screenshot_success">Знімок збережено у %1$s</string>
     <string name="search_description">Знайти усі файли на пристрої</string>
     <string name="search_empty_view_hint">Не вдалося нічого знайти</string>
     <string name="search_error_hint">Пошук</string>
@@ -514,7 +470,7 @@
     <string name="set_pattern_msg">Задайте пароль ще раз. Пароль для захисту конфіденційності працює також для фото, повідомлень та нотаток.</string>
     <string name="setting">Налаштування</string>
     <string name="settings_about">Про програму</string>
-    <string name="settings_feedback">Відгук</string>
+    <string name="settings_feedback">Звіт</string>
     <string name="settings_score">Оцінити Провідник</string>
     <string name="share_facebook">Facebook</string>
     <string name="share_file_manger">Поділіться Провідником</string>
@@ -543,8 +499,6 @@
     <string name="terabyteShort">ТБ</string>
     <string name="terms_conditions">Правила та умови</string>
     <string name="terms_conditions_desc">Уважно прочитайте наступні пункти перед тим, як погодитися.</string>
-    <string name="time_am">AM</string>
-    <string name="time_pm">PM</string>
     <string name="time_to_upgrade">Доступне оновлення</string>
     <string name="tip">Увага</string>
     <string name="tips_by_forbid_access">Вміст цієї папки більше не буде доступний через системні обмеження Android R. Якомога швидше видаліть ваші особисті файли з цієї папки.</string>
@@ -574,11 +528,13 @@
     <string name="user_notice_term_of_service">Угода користувача</string>
     <string name="utf8_summary">Тип кодування за замовчуванням</string>
     <string name="version_name">Версія</string>
-    <string name="video_replay_btn">Повторити</string>
     <string name="view_by_document">Переглянути у Файлах</string>
     <string name="wechat_video">Відео з %s</string>
+    <string name="whatsapp_cache_garbage">Кеш</string>
+    <string name="whatsapp_cache_garbage_cleanup">Очистити</string>
+    <string name="whatsapp_cache_garbage_tip">Під час очищення кешу видалення важливих даних не відбувається. Ви можете використовувати програму як звичайно.</string>
     <string name="wifi_state">Статус Wi-Fi</string>
-    <string name="year_month_day_format">d MMMM yyyy</string>
+    <string name="year_month_day_format">dd MMMM yyyy</string>
     <string name="yes">Так</string>
     <string name="yesterday">Вчора</string>
 </resources>

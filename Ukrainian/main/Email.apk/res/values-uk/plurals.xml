@@ -1,58 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="a_hour_ago">
-        <item quantity="one">1 годину тому</item>
-        <item quantity="few">1 годину тому</item>
-        <item quantity="many">1 годину тому</item>
-        <item quantity="other">1 годину тому</item>
+        <item quantity="other">Годину тому</item>
+        <item quantity="one">Годину тому</item>
+        <item quantity="few">Годину тому</item>
+        <item quantity="many">Годину тому</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">1 годину тому</item>
-        <item quantity="few">1 годину тому</item>
-        <item quantity="many">1 годину тому</item>
-        <item quantity="other">1 годину тому</item>
+        <item quantity="other">Годину тому</item>
+        <item quantity="one">Годину тому</item>
+        <item quantity="few">Годину тому</item>
+        <item quantity="many">Годину тому</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Півгодини тому</item>
         <item quantity="one">Півгодини тому</item>
         <item quantity="few">Півгодини тому</item>
         <item quantity="many">Півгодини тому</item>
-        <item quantity="other">Півгодини тому</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="one">Через 1 годину</item>
-        <item quantity="few">Через 1 годину</item>
-        <item quantity="many">Через 1 годину</item>
-        <item quantity="other">Через 1 годину</item>
+        <item quantity="other">Через годину</item>
+        <item quantity="one">Через годину</item>
+        <item quantity="few">Через годину</item>
+        <item quantity="many">Через годину</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
-        <item quantity="one">За півгодини</item>
-        <item quantity="few">За півгодини</item>
-        <item quantity="many">За півгодини</item>
-        <item quantity="other">За півгодини</item>
+        <item quantity="other">Через півгодини</item>
+        <item quantity="one">Через півгодини</item>
+        <item quantity="few">Через півгодини</item>
+        <item quantity="many">Через півгодини</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Негайно</item>
         <item quantity="one">Негайно</item>
         <item quantity="few">Негайно</item>
         <item quantity="many">Негайно</item>
-        <item quantity="other">Негайно</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">за %d хв</item>
-        <item quantity="one">за 1 хв</item>
-        <item quantity="few">за %d хв</item>
-        <item quantity="many">за %d хв</item>
+        <item quantity="other">через %d хв</item>
+        <item quantity="one">через 1 хв</item>
+        <item quantity="few">через %d хв</item>
+        <item quantity="many">через %d хв</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="one">Щойно</item>
-        <item quantity="few">Щойно</item>
-        <item quantity="many">Щойно</item>
-        <item quantity="other">Щойно</item>
+        <item quantity="other">Тільки що</item>
+        <item quantity="one">Тільки що</item>
+        <item quantity="few">Тільки що</item>
+        <item quantity="many">Тільки що</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d хв. тому</item>
-        <item quantity="one">1 хвилину тому</item>
-        <item quantity="few">%d хв. тому</item>
-        <item quantity="many">%d хв. тому</item>
+        <item quantity="other">%d хв тому</item>
+        <item quantity="one">1 хв тому</item>
+        <item quantity="few">%d хв тому</item>
+        <item quantity="many">%d хв тому</item>
     </plurals>
     <plurals name="actionbar_large_unread_count">
         <item quantity="other">Непрочитаних: %1$d+</item>
@@ -97,16 +97,16 @@
         <item quantity="many">Додано %d контактів</item>
     </plurals>
     <plurals name="conversation_archived">
-        <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; заархівовані.</item>
-        <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt; заархівовано.</item>
-        <item quantity="few">&lt;b&gt;%1$d&lt;/b&gt; заархівовані.</item>
-        <item quantity="many">&lt;b&gt;%1$d&lt;/b&gt; заархівовані.</item>
+        <item quantity="other">&lt;b>%1$d&lt;/b> заархівовані.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> заархівовано.</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> заархівовані.</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> заархівовані.</item>
     </plurals>
     <plurals name="conversation_deleted">
-        <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; видалені.</item>
-        <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt; видалено.</item>
-        <item quantity="few">&lt;b&gt;%1$d&lt;/b&gt; видалені.</item>
-        <item quantity="many">&lt;b&gt;%1$d&lt;/b&gt; видалені.</item>
+        <item quantity="other">&lt;b>%1$d&lt;/b> видалені.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> видалено.</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> видалені.</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> видалені.</item>
     </plurals>
     <plurals name="conversation_folder_changed">
         <item quantity="other">Папки змінені.</item>
@@ -121,34 +121,34 @@
         <item quantity="many">+%1$d інших людей</item>
     </plurals>
     <plurals name="conversation_muted">
-        <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; без звуку</item>
-        <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt; без звуку.</item>
-        <item quantity="few">&lt;b&gt;%1$d&lt;/b&gt; без звуку</item>
-        <item quantity="many">&lt;b&gt;%1$d&lt;/b&gt; без звуку</item>
+        <item quantity="other">&lt;b>%1$d&lt;/b> без звуку</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> без звуку.</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> без звуку</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> без звуку</item>
     </plurals>
     <plurals name="conversation_not_important">
-        <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; видалені з папки \"Важливе\"</item>
-        <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt; видалено з папки \"Важливе\"</item>
-        <item quantity="few">&lt;b&gt;%1$d&lt;/b&gt; видалені з папки \"Важливе\"</item>
-        <item quantity="many">&lt;b&gt;%1$d&lt;/b&gt; видалені з папки \"Важливе\"</item>
+        <item quantity="other">&lt;b>%1$d&lt;/b> видалені з папки \"Важливе\"</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> видалено з папки \"Важливе\"</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> видалені з папки \"Важливе\"</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> видалені з папки \"Важливе\"</item>
     </plurals>
     <plurals name="conversation_not_spam">
-        <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; видалені з папки \"Спам\"</item>
-        <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt; видалено з папки \"Спам\"</item>
-        <item quantity="few">&lt;b&gt;%1$d&lt;/b&gt; видалені з папки \"Спам\"</item>
-        <item quantity="many">&lt;b&gt;%1$d&lt;/b&gt; видалені з папки \"Спам\"</item>
+        <item quantity="other">&lt;b>%1$d&lt;/b> видалені з папки \"Спам\"</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> видалено з папки \"Спам\"</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> видалені з папки \"Спам\"</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> видалені з папки \"Спам\"</item>
     </plurals>
     <plurals name="conversation_phished">
-        <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; повідомлень відмічених як спам</item>
-        <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt; повідомлення відмічене як спам</item>
-        <item quantity="few">&lt;b&gt;%1$d&lt;/b&gt; повідомлення відмічені як спам</item>
-        <item quantity="many">&lt;b&gt;%1$d&lt;/b&gt; повідомлень відмічених як спам</item>
+        <item quantity="other">&lt;b>%1$d&lt;/b> повідомлень відмічених як спам</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> повідомлення відмічене як спам</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> повідомлення відмічені як спам</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> повідомлень відмічених як спам</item>
     </plurals>
     <plurals name="conversation_spammed">
-        <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; позначені як спам</item>
-        <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt; позначено як спам</item>
-        <item quantity="few">&lt;b&gt;%1$d&lt;/b&gt; позначені як спам</item>
-        <item quantity="many">&lt;b&gt;%1$d&lt;/b&gt; позначені як спам</item>
+        <item quantity="other">&lt;b>%1$d&lt;/b> позначені як спам</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> позначено як спам</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> позначені як спам</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> позначені як спам</item>
     </plurals>
     <plurals name="day">
         <item quantity="other">%d днів</item>
@@ -181,10 +181,10 @@
         <item quantity="many">Буде видалено повідомлень: %1$d</item>
     </plurals>
     <plurals name="half_hour_ago">
+        <item quantity="other">Півгодини тому</item>
         <item quantity="one">Півгодини тому</item>
         <item quantity="few">Півгодини тому</item>
         <item quantity="many">Півгодини тому</item>
-        <item quantity="other">Півгодини тому</item>
     </plurals>
     <plurals name="hide_atts_remaining">
         <item quantity="other">Приховати %1$d вкладень</item>
@@ -193,34 +193,34 @@
         <item quantity="many">Приховати %1$d вкладень</item>
     </plurals>
     <plurals name="in_a_hour">
-        <item quantity="one">Через 1 годину</item>
-        <item quantity="few">Через 1 годину</item>
-        <item quantity="many">Через 1 годину</item>
-        <item quantity="other">Через 1 годину</item>
+        <item quantity="other">Через годину</item>
+        <item quantity="one">Через годину</item>
+        <item quantity="few">Через годину</item>
+        <item quantity="many">Через годину</item>
     </plurals>
     <plurals name="in_half_hour">
-        <item quantity="one">За півгодини</item>
-        <item quantity="few">За півгодини</item>
-        <item quantity="many">За півгодини</item>
-        <item quantity="other">За півгодини</item>
+        <item quantity="other">Через півгодини</item>
+        <item quantity="one">Через півгодини</item>
+        <item quantity="few">Через півгодини</item>
+        <item quantity="many">Через півгодини</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
+        <item quantity="other">Негайно</item>
         <item quantity="one">Негайно</item>
         <item quantity="few">Негайно</item>
         <item quantity="many">Негайно</item>
-        <item quantity="other">Негайно</item>
     </plurals>
     <plurals name="in_num_minutes">
-        <item quantity="other">через %d хвилин</item>
-        <item quantity="one">протягом 1 хвилини</item>
-        <item quantity="few">через %d хвилин</item>
-        <item quantity="many">через %d хвилин</item>
+        <item quantity="other">через %d хв</item>
+        <item quantity="one">через 1 хв</item>
+        <item quantity="few">через %d хв</item>
+        <item quantity="many">через %d хв</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="one">Щойно</item>
-        <item quantity="few">Щойно</item>
-        <item quantity="many">Щойно</item>
-        <item quantity="other">Щойно</item>
+        <item quantity="other">Тільки що</item>
+        <item quantity="one">Тільки що</item>
+        <item quantity="few">Тільки що</item>
+        <item quantity="many">Тільки що</item>
     </plurals>
     <plurals name="local_search_result">
         <item quantity="other">Знайдено серед синхронізованих повідомлень: %s</item>
@@ -229,10 +229,10 @@
         <item quantity="many">Знайдено серед синхронізованих повідомлень: %s</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">%d елементів вибрано</item>
-        <item quantity="one">%d елемент обрано</item>
-        <item quantity="few">%d елементів вибрано</item>
-        <item quantity="many">%d елементів вибрано</item>
+        <item quantity="other">Обрано: %d</item>
+        <item quantity="one">Обрано: %d</item>
+        <item quantity="few">Обрано: %d</item>
+        <item quantity="many">Обрано: %d</item>
     </plurals>
     <plurals name="more_atts_remaining">
         <item quantity="other">Залишилося вкладень: %1$d</item>
@@ -253,16 +253,16 @@
         <item quantity="many">Нових повідомлень: %1$d</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">%d хвилин тому</item>
-        <item quantity="one">1 хвилину тому</item>
-        <item quantity="few">%d хвилин тому</item>
-        <item quantity="many">%d хвилин тому</item>
+        <item quantity="other">%d хв тому</item>
+        <item quantity="one">1 хв тому</item>
+        <item quantity="few">%d хв тому</item>
+        <item quantity="many">%d хв тому</item>
     </plurals>
     <plurals name="num_selected">
-        <item quantity="other">%d обрано</item>
+        <item quantity="other">Вибрано: %d</item>
         <item quantity="one">Вибрано: %d</item>
-        <item quantity="few">%d обрано</item>
-        <item quantity="many">%d обрано</item>
+        <item quantity="few">Вибрано: %d</item>
+        <item quantity="many">Вибрано: %d</item>
     </plurals>
     <plurals name="number_of_day_after">
         <item quantity="other">%1$d дн потому</item>

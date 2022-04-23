@@ -1,58 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="a_hour_ago">
-        <item quantity="one">1 годину тому</item>
-        <item quantity="few">1 годину тому</item>
-        <item quantity="many">1 годину тому</item>
-        <item quantity="other">1 годину тому</item>
+        <item quantity="other">Годину тому</item>
+        <item quantity="one">Годину тому</item>
+        <item quantity="few">Годину тому</item>
+        <item quantity="many">Годину тому</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">1 годину тому</item>
-        <item quantity="few">1 годину тому</item>
-        <item quantity="many">1 годину тому</item>
-        <item quantity="other">1 годину тому</item>
+        <item quantity="other">Годину тому</item>
+        <item quantity="one">Годину тому</item>
+        <item quantity="few">Годину тому</item>
+        <item quantity="many">Годину тому</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Півгодини тому</item>
         <item quantity="one">Півгодини тому</item>
         <item quantity="few">Півгодини тому</item>
         <item quantity="many">Півгодини тому</item>
-        <item quantity="other">Півгодини тому</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="one">Через 1 годину</item>
-        <item quantity="few">Через 1 годину</item>
-        <item quantity="many">Через 1 годину</item>
-        <item quantity="other">Через 1 годину</item>
+        <item quantity="other">Через годину</item>
+        <item quantity="one">Через годину</item>
+        <item quantity="few">Через годину</item>
+        <item quantity="many">Через годину</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
-        <item quantity="one">За півгодини</item>
-        <item quantity="few">За півгодини</item>
-        <item quantity="many">За півгодини</item>
-        <item quantity="other">За півгодини</item>
+        <item quantity="other">Через півгодини</item>
+        <item quantity="one">Через півгодини</item>
+        <item quantity="few">Через півгодини</item>
+        <item quantity="many">Через півгодини</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Негайно</item>
         <item quantity="one">Негайно</item>
         <item quantity="few">Негайно</item>
         <item quantity="many">Негайно</item>
-        <item quantity="other">Негайно</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">за %d хв</item>
-        <item quantity="one">за 1 хв</item>
-        <item quantity="few">за %d хв</item>
-        <item quantity="many">за %d хв</item>
+        <item quantity="other">через %d хв</item>
+        <item quantity="one">через 1 хв</item>
+        <item quantity="few">через %d хв</item>
+        <item quantity="many">через %d хв</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="one">Щойно</item>
-        <item quantity="few">Щойно</item>
-        <item quantity="many">Щойно</item>
-        <item quantity="other">Щойно</item>
+        <item quantity="other">Тільки що</item>
+        <item quantity="one">Тільки що</item>
+        <item quantity="few">Тільки що</item>
+        <item quantity="many">Тільки що</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d хв. тому</item>
-        <item quantity="one">1 хвилину тому</item>
-        <item quantity="few">%d хв. тому</item>
-        <item quantity="many">%d хв. тому</item>
+        <item quantity="other">%d хв тому</item>
+        <item quantity="one">1 хв тому</item>
+        <item quantity="few">%d хв тому</item>
+        <item quantity="many">%d хв тому</item>
     </plurals>
     <plurals name="abc_slice_duration_days">
         <item quantity="other">%d дня тому</item>
@@ -145,20 +145,20 @@
         <item quantity="many">Обмежити %1$d додатків?</item>
     </plurals>
     <plurals name="battery_tip_restrict_handled_summary">
-        <item quantity="other">"Ці додатки не можуть працювати у фоновому режимі"</item>
-        <item quantity="one">"Ці додатки не можуть працювати у фоновому режимі"</item>
-        <item quantity="few">"Ці додатки не можуть працювати у фоновому режимі"</item>
-        <item quantity="many">"Ці додатки не можуть працювати у фоновому режимі"</item>
+        <item quantity="other">Ці додатки не можуть працювати у фоновому режимі</item>
+        <item quantity="one">Ці додатки не можуть працювати у фоновому режимі</item>
+        <item quantity="few">Ці додатки не можуть працювати у фоновому режимі</item>
+        <item quantity="many">Ці додатки не можуть працювати у фоновому режимі</item>
     </plurals>
     <plurals name="battery_tip_restrict_handled_title">
         <item quantity="other">Нещодавно обмежено %2$d додатка</item>
-        <item quantity="one">%1$s нещодавно обмежені</item>
+        <item quantity="one">Нещодавно обмежено %2$d додаток</item>
         <item quantity="few">Нещодавно обмежено %2$d додатки</item>
         <item quantity="many">Нещодавно обмежено %2$d додатків</item>
     </plurals>
     <plurals name="battery_tip_restrict_summary">
         <item quantity="other">%2$d додатка інтенсивно споживають заряд акумулятора у фоновому режимі</item>
-        <item quantity="one">%1$s додаток інтенсивно споживає заряд акумулятора у фоновому режимі</item>
+        <item quantity="one">%2$d додаток інтенсивно споживає заряд акумулятора у фоновому режимі</item>
         <item quantity="few">%2$d додатки інтенсивно споживають заряд акумулятора у фоновому режимі</item>
         <item quantity="many">%2$d додатків інтенсивно споживають заряд акумулятора у фоновому режимі</item>
     </plurals>
@@ -175,10 +175,10 @@
         <item quantity="many">%d програм можуть підключатися до мережі</item>
     </plurals>
     <plurals name="bg_network_restrict_count">
-        <item quantity="other">"%d програм не можуть підключатися до мережі"</item>
-        <item quantity="one">"%d програма не може підключатися до мережі"</item>
-        <item quantity="few">"%d програми не можуть підключатися до мережі"</item>
-        <item quantity="many">"%d програм не можуть підключатися до мережі"</item>
+        <item quantity="other">%d програм не можуть підключатися до мережі</item>
+        <item quantity="one">%d програма не може підключатися до мережі</item>
+        <item quantity="few">%d програми не можуть підключатися до мережі</item>
+        <item quantity="many">%d програм не можуть підключатися до мережі</item>
     </plurals>
     <plurals name="billing_cycle_days_left">
         <item quantity="other">Залишилося %d дня</item>
@@ -193,10 +193,10 @@
         <item quantity="many">Доступно пристроїв: %d</item>
     </plurals>
     <plurals name="color_game_led_freq_entries">
-        <item quantity="other">Кожні %d секунд</item>
-        <item quantity="one">Кожну %d секунду</item>
-        <item quantity="few">Кожні %d секунд</item>
-        <item quantity="many">Кожні %d секунд</item>
+        <item quantity="other">Кожні %d сек</item>
+        <item quantity="one">Кожну %d сек</item>
+        <item quantity="few">Кожні %d сек</item>
+        <item quantity="many">Кожні %d сек</item>
     </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">%d пристроїв</item>
@@ -283,10 +283,10 @@
         <item quantity="many">Підключено %1$d людей</item>
     </plurals>
     <plurals name="half_hour_ago">
+        <item quantity="other">Півгодини тому</item>
         <item quantity="one">Півгодини тому</item>
         <item quantity="few">Півгодини тому</item>
         <item quantity="many">Півгодини тому</item>
-        <item quantity="other">Півгодини тому</item>
     </plurals>
     <plurals name="hours">
         <item quantity="other">%s години</item>
@@ -295,28 +295,28 @@
         <item quantity="many">%s годин</item>
     </plurals>
     <plurals name="in_a_hour">
-        <item quantity="one">Через 1 годину</item>
-        <item quantity="few">Через 1 годину</item>
-        <item quantity="many">Через 1 годину</item>
-        <item quantity="other">Через 1 годину</item>
+        <item quantity="other">Через годину</item>
+        <item quantity="one">Через годину</item>
+        <item quantity="few">Через годину</item>
+        <item quantity="many">Через годину</item>
     </plurals>
     <plurals name="in_half_hour">
-        <item quantity="one">За півгодини</item>
-        <item quantity="few">За півгодини</item>
-        <item quantity="many">За півгодини</item>
-        <item quantity="other">За півгодини</item>
+        <item quantity="other">Через півгодини</item>
+        <item quantity="one">Через півгодини</item>
+        <item quantity="few">Через півгодини</item>
+        <item quantity="many">Через півгодини</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
+        <item quantity="other">Негайно</item>
         <item quantity="one">Негайно</item>
         <item quantity="few">Негайно</item>
         <item quantity="many">Негайно</item>
-        <item quantity="other">Негайно</item>
     </plurals>
     <plurals name="in_num_minutes">
-        <item quantity="other">через %d хвилин</item>
-        <item quantity="one">протягом 1 хвилини</item>
-        <item quantity="few">через %d хвилин</item>
-        <item quantity="many">через %d хвилин</item>
+        <item quantity="other">через %d хв</item>
+        <item quantity="one">через 1 хв</item>
+        <item quantity="few">через %d хв</item>
+        <item quantity="many">через %d хв</item>
     </plurals>
     <plurals name="interact_across_profiles_number_of_connected_apps">
         <item quantity="other">%d додатка підключено</item>
@@ -325,10 +325,10 @@
         <item quantity="many">%d додатків підключено</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="one">Щойно</item>
-        <item quantity="few">Щойно</item>
-        <item quantity="many">Щойно</item>
-        <item quantity="other">Щойно</item>
+        <item quantity="other">Тільки що</item>
+        <item quantity="one">Тільки що</item>
+        <item quantity="few">Тільки що</item>
+        <item quantity="many">Тільки що</item>
     </plurals>
     <plurals name="location_app_permission_summary_location_on">
         <item quantity="other">Кількість додатків із доступом до геоданих: %1$d з %2$d</item>
@@ -415,10 +415,10 @@
         <item quantity="many">Введіть принаймні %d цифр</item>
     </plurals>
     <plurals name="lockpattern_recording_incorrect_too_short">
-        <item quantity="other">З\'єднайте принаймні %d точок. Повторіть спробу.</item>
-        <item quantity="one">З\'єднайте принаймні %d точку. Повторіть спробу.</item>
-        <item quantity="few">З\'єднайте принаймні %d точки. Повторіть спробу.</item>
-        <item quantity="many">З\'єднайте принаймні %d точок. Повторіть спробу.</item>
+        <item quantity="other">"З'єднайте принаймні %d точок. Повторіть спробу."</item>
+        <item quantity="one">"З'єднайте принаймні %d точку. Повторіть спробу."</item>
+        <item quantity="few">"З'єднайте принаймні %d точки. Повторіть спробу."</item>
+        <item quantity="many">"З'єднайте принаймні %d точок. Повторіть спробу."</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts">
         <item quantity="other">Забагато невдалих спроб. Повторіть спробу через %d сек.</item>
@@ -446,7 +446,7 @@
     </plurals>
     <plurals name="memory_usage_apps_summary">
         <item quantity="other">За ост. %2$s пам’ять використовувало %1$d додатка</item>
-        <item quantity="one">1 додаток використав пам\'ять за останній %2$s</item>
+        <item quantity="one">За ост. %2$s пам’ять використовував %1$d додаток</item>
         <item quantity="few">За ост. %2$s пам’ять використовували %1$d додатки</item>
         <item quantity="many">За ост. %2$s пам’ять використовувало %1$d додатків</item>
     </plurals>
@@ -469,10 +469,10 @@
         <item quantity="many">Wi-Fi буде автоматично вмикатися, коли пристрій виявить поблизу одну зі збережених мереж і відключатися, якщо протягом %d хв підключення не буде встановлено.</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">%d елементів вибрано</item>
-        <item quantity="one">%d елемент обрано</item>
-        <item quantity="few">%d елементів вибрано</item>
-        <item quantity="many">%d елементів вибрано</item>
+        <item quantity="other">Обрано: %d</item>
+        <item quantity="one">Обрано: %d</item>
+        <item quantity="few">Обрано: %d</item>
+        <item quantity="many">Обрано: %d</item>
     </plurals>
     <plurals name="mobile_network_summary_count">
         <item quantity="other">%1$d SIM-карти</item>
@@ -523,10 +523,10 @@
         <item quantity="many">~%d сповіщень на тиждень</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">%d хвилин тому</item>
-        <item quantity="one">1 хвилину тому</item>
-        <item quantity="few">%d хвилин тому</item>
-        <item quantity="many">%d хвилин тому</item>
+        <item quantity="other">%d хв тому</item>
+        <item quantity="one">1 хв тому</item>
+        <item quantity="few">%d хв тому</item>
+        <item quantity="many">%d хв тому</item>
     </plurals>
     <plurals name="number_of_device_admins">
         <item quantity="other">%d активного додатка</item>
@@ -548,13 +548,13 @@
     </plurals>
     <plurals name="power_high_usage_summary">
         <item quantity="other">%2$d додатка працюють неправильно</item>
-        <item quantity="one">%1$s поводиться ненормально</item>
+        <item quantity="one">%2$d додаток працює неправильно</item>
         <item quantity="few">%2$d додатки працюють неправильно</item>
         <item quantity="many">%2$d додатків працюють неправильно</item>
     </plurals>
     <plurals name="power_high_usage_title">
         <item quantity="other">Додатки, які розряджають акумулятор</item>
-        <item quantity="one">%1$s розрядження акумулятора</item>
+        <item quantity="one">Додатки, які розряджають акумулятор</item>
         <item quantity="few">Додатки, які розряджають акумулятор</item>
         <item quantity="many">Додатки, які розряджають акумулятор</item>
     </plurals>
@@ -595,10 +595,10 @@
         <item quantity="many">Надано %1$d дозволів із %2$d</item>
     </plurals>
     <plurals name="saved_network_checked_num">
-        <item quantity="other">Вибрано об\'єктів: %d</item>
-        <item quantity="one">Вибрано об\'єктів: %d</item>
-        <item quantity="few">Вибрано об\'єктів: %d</item>
-        <item quantity="many">Вибрано об\'єктів: %d</item>
+        <item quantity="other">"Вибрано об'єктів: %d"</item>
+        <item quantity="one">"Вибрано об'єктів: %d"</item>
+        <item quantity="few">"Вибрано об'єктів: %d"</item>
+        <item quantity="many">"Вибрано об'єктів: %d"</item>
     </plurals>
     <plurals name="seconds">
         <item quantity="other">%s секунди</item>
@@ -625,10 +625,10 @@
         <item quantity="many">Показати %d схованих елементів</item>
     </plurals>
     <plurals name="show_cit_countdown">
-        <item quantity="other">"Залишилося %1$d натиснень для відкриття інженерного меню."</item>
-        <item quantity="one">"Залишилося %1$d натиснення для відкриття інженерного меню."</item>
-        <item quantity="few">"Залишилося %1$d натиснення для відкриття інженерного меню."</item>
-        <item quantity="many">"Залишилося %1$d натиснень для відкриття інженерного меню."</item>
+        <item quantity="other">Залишилося %1$d натиснень для відкриття інженерного меню.</item>
+        <item quantity="one">Залишилося %1$d натиснення для відкриття інженерного меню.</item>
+        <item quantity="few">Залишилося %1$d натиснення для відкриття інженерного меню.</item>
+        <item quantity="many">Залишилося %1$d натиснень для відкриття інженерного меню.</item>
     </plurals>
     <plurals name="show_dev_countdown">
         <item quantity="other">Залишилося ще %1$d кроку, щоб стати розробником.</item>
@@ -643,16 +643,16 @@
         <item quantity="many">Збережено %1$d слухових апаратів</item>
     </plurals>
     <plurals name="show_pho_countdown">
-        <item quantity="other">"Залишилося кроків для відкриття інформації про телефон: %1$d."</item>
-        <item quantity="one">"Залишилося кроків для відкриття інформації про телефон: %1$d."</item>
-        <item quantity="few">"Залишилося кроків для відкриття інформації про телефон: %1$d."</item>
-        <item quantity="many">"Залишилося кроків для відкриття інформації про телефон: %1$d."</item>
+        <item quantity="other">Залишилося кроків для відкриття інформації про телефон: %1$d.</item>
+        <item quantity="one">Залишилося кроків для відкриття інформації про телефон: %1$d.</item>
+        <item quantity="few">Залишилося кроків для відкриття інформації про телефон: %1$d.</item>
+        <item quantity="many">Залишилося кроків для відкриття інформації про телефон: %1$d.</item>
     </plurals>
     <plurals name="show_rep_countdown">
-        <item quantity="other">"Залишилося %1$d натиснень для відправки звіту про помилки."</item>
-        <item quantity="one">"Залишилося %1$d натиснення для відправки звіту про помилки."</item>
-        <item quantity="few">"Залишилося %1$d натиснення для відправки звіту про помилки."</item>
-        <item quantity="many">"Залишилося %1$d натиснень для відправки звіту про помилки."</item>
+        <item quantity="other">Залишилося %1$d натиснень для відправки звіту про помилки.</item>
+        <item quantity="one">Залишилося %1$d натиснення для відправки звіту про помилки.</item>
+        <item quantity="few">Залишилося %1$d натиснення для відправки звіту про помилки.</item>
+        <item quantity="many">Залишилося %1$d натиснень для відправки звіту про помилки.</item>
     </plurals>
     <plurals name="special_access_summary">
         <item quantity="other">%d додатка з необмеженим доступом до даних</item>
@@ -701,10 +701,10 @@
         <item quantity="many">Перевірити сертифікати</item>
     </plurals>
     <plurals name="status_bar_settings_disabled_header_title">
-        <item quantity="other">"%d програм не можуть показувати сповіщення"</item>
-        <item quantity="one">"%d програма не може показувати сповіщення"</item>
-        <item quantity="few">"%d програми не можуть показувати сповіщення"</item>
-        <item quantity="many">"%d програм не можуть показувати сповіщення"</item>
+        <item quantity="other">%d програм не можуть показувати сповіщення</item>
+        <item quantity="one">%d програма не може показувати сповіщення</item>
+        <item quantity="few">%d програми не можуть показувати сповіщення</item>
+        <item quantity="many">%d програм не можуть показувати сповіщення</item>
     </plurals>
     <plurals name="status_bar_settings_enabled_header_title">
         <item quantity="other">%d програм можуть показувати сповіщення</item>
@@ -930,13 +930,13 @@
     </plurals>
     <plurals name="zen_mode_summary_alarms_only_by_hour">
         <item quantity="other">Вибрати сигнали лише на %1$d години до %2$s</item>
-        <item quantity="one">Змінити будильники лише на одну годину до %2$s</item>
+        <item quantity="one">Вибрати сигнали лише на %1$d годину до %2$s</item>
         <item quantity="few">Вибрати сигнали лише на %1$d години до %2$s</item>
         <item quantity="many">Вибрати сигнали лише на %1$d годин до %2$s</item>
     </plurals>
     <plurals name="zen_mode_summary_alarms_only_by_minute">
         <item quantity="other">Вибрати сигнали лише на %1$d хвилини до %2$s</item>
-        <item quantity="one">Змінити будильники лише на одну хвилину до %2$s</item>
+        <item quantity="one">Вибрати сигнали лише на %1$d хвилину до %2$s</item>
         <item quantity="few">Вибрати сигнали лише на %1$d хвилини до %2$s</item>
         <item quantity="many">Вибрати сигнали лише на %1$d хвилин до %2$s</item>
     </plurals>

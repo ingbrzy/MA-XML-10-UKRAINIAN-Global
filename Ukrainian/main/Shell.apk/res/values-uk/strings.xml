@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_label">Оболонка</string>
-    <string name="bugreport_add_details_to_zip_failed">"Не вдалося додати деталі звіту про помилку у файл .zip"</string>
-    <string name="bugreport_confirm">"Звіти про помилки містять дані з різних файлів журналів системи, зокрема відомості, які ви вважаєте конфіденційними (як-от інформація про місцезнаходження та використання додатка). Діліться звітами про помилки лише з людьми та в додатках, яким довіряєте."</string>
-    <string name="bugreport_confirm_dont_repeat">"Більше не показувати"</string>
+    <string name="bugreport_add_details_to_zip_failed">Не вдалося додати деталі звіту про помилку у файл .zip</string>
+    <string name="bugreport_confirm">Звіти про помилки містять дані з різних файлів журналів системи, зокрема відомості, які ви вважаєте конфіденційними (як-от інформація про місцезнаходження та використання додатка). Діліться звітами про помилки лише з людьми та в додатках, яким довіряєте.</string>
+    <string name="bugreport_confirm_dont_repeat">Більше не показувати</string>
     <string name="bugreport_finished_pending_screenshot_text">Торкніться, щоб надіслати звіт про помилку без знімка екрана, або зачекайте, доки буде збережено знімок</string>
     <string name="bugreport_finished_text">Торкніться, щоб надіслати звіт про помилку</string>
     <string name="bugreport_finished_title">Звіт про помилку #%d створено</string>
@@ -24,18 +24,5 @@
     <string name="bugreport_updating_title">У звіт про помилку додаються деталі</string>
     <string name="bugreport_updating_wait">Зачекайте…</string>
     <string name="save">Зберегти</string>
-
-
-  <string name="fmt_date_long_month">MMMM</string>
-  <string name="fmt_date_long_month_day">d MMMM</string>
-  <string name="fmt_date_long_year_month">MMMM, yyyy</string>
-  <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
-  <string name="fmt_date_numeric_month_day">d.M.</string>
-  <string name="fmt_date_numeric_year">yyyy</string>
-  <string name="fmt_date_numeric_year_month">M-yyyy</string>
-  <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
-  <string name="fmt_date_short_month">MMM</string>
-  <string name="fmt_date_short_month_day">d MMM</string>
-  <string name="fmt_date_short_year_month">MMM, yyyy</string>
-  <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
-</resources>  
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

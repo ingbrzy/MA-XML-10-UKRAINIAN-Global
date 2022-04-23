@@ -15,17 +15,17 @@
         <item>Щоденно</item>
         <item>У робочі дні</item>
         <item>У вихідні дні</item>
-        <item>з Пн до Пт</item>
+        <item>З Пн по Пт</item>
         <item>Власний</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
         <item>Один раз</item>
         <item>Щоденно</item>
-        <item>По буднях</item>
+        <item>З Пн по Пт</item>
         <item>Вибрати дні</item>
     </string-array>
     <string-array name="alarm_set">
-        <item>Будильник задзвонить менш ніж за 1 хвилину.</item>
+        <item>Будильник спрацює менш ніж за 1 хвилину.</item>
         <item>Час до будильника: %1$s.</item>
         <item>Час до будильника: %2$s.</item>
         <item>Час до будильника: %1$s і %2$s.</item>
@@ -39,40 +39,16 @@
         <item>Б</item>
         <item>В</item>
         <item>Г</item>
+        <item>Ґ</item>
         <item>Д</item>
         <item>Е</item>
+        <item>Є</item>
         <item>Ж</item>
         <item>З</item>
         <item>И</item>
-        <item>К</item>
-        <item>Л</item>
-        <item>М</item>
-        <item>Н</item>
-        <item>О</item>
-        <item>П</item>
-        <item>Р</item>
-        <item>С</item>
-        <item>Т</item>
-        <item>У</item>
-        <item>Ф</item>
-        <item>Х</item>
-        <item>Ц</item>
-        <item>Ч</item>
-        <item>Ш</item>
-        <item>Э</item>
-        <item>Ю</item>
-        <item>Я</item>
-    </string-array>
-    <string-array name="alphabet_table_with_starred">
-        <item>А</item>
-        <item>Б</item>
-        <item>В</item>
-        <item>Г</item>
-        <item>Д</item>
-        <item>Е</item>
-        <item>Ж</item>
-        <item>З</item>
-        <item>И</item>
+        <item>І</item>
+        <item>Ї</item>
+        <item>Й</item>
         <item>К</item>
         <item>Л</item>
         <item>М</item>
@@ -89,9 +65,47 @@
         <item>Ч</item>
         <item>Ш</item>
         <item>Щ</item>
-        <item>Э</item>
+        <item>Ь</item>
         <item>Ю</item>
         <item>Я</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Ґ</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Є</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>І</item>
+        <item>Ї</item>
+        <item>Й</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Ь</item>
+        <item>Ю</item>
+        <item>Я</item>
+        <item>\#</item>
     </string-array>
     <string-array name="aqi_value">
         <item>Нормальний</item>
@@ -118,7 +132,7 @@
     </string-array>
     <string-array name="bedtime_repeat_entries">
         <item>Кожного дня</item>
-        <item>Пн-Пт</item>
+        <item>По буднях</item>
         <item>По буднях</item>
         <item>Налаштувати</item>
     </string-array>
@@ -170,7 +184,7 @@
         <item>Едмонтон</item>
         <item>Сальвадор</item>
         <item>Форталеза</item>
-        <item>"Сент-Джорджес"</item>
+        <item>Сент-Джорджес</item>
         <item>Гватемала</item>
         <item>Джорджтаун</item>
         <item>Галіфакс</item>
@@ -213,7 +227,7 @@
         <item>Торонто</item>
         <item>Ванкувер</item>
         <item>Вінніпег</item>
-        <item>Лонг\'їр</item>
+        <item>"Лонг'їр"</item>
         <item>Алмати</item>
         <item>Амман</item>
         <item>Анадир</item>
@@ -257,7 +271,7 @@
         <item>Гамільтон</item>
         <item>Канарські острови</item>
         <item>Прая</item>
-        <item>Рейк\'явік</item>
+        <item>"Рейк'явік"</item>
         <item>Стенлі</item>
         <item>Аделаїда</item>
         <item>Брісбен</item>
@@ -305,7 +319,7 @@
         <item>Сан-Марино</item>
         <item>Сараєво</item>
         <item>Сімферополь</item>
-        <item>Скоп\'є</item>
+        <item>"Скоп'є"</item>
         <item>Софія</item>
         <item>Стокгольм</item>
         <item>Таллінн</item>
@@ -344,7 +358,7 @@
         <item>Сіетл</item>
         <item>Сент-Луїс</item>
         <item>Вашингтон</item>
-        <item>Х\'юстон</item>
+        <item>"Х'юстон"</item>
         <item>Сан-Антоніо</item>
         <item>Джексонвілл</item>
         <item>Балтімор</item>
@@ -361,7 +375,7 @@
         <item>Тампа</item>
         <item>Піттсбург</item>
         <item>Цинциннаті</item>
-        <item>Маунтін-В\'ю</item>
+        <item>"Маунтін-В'ю"</item>
         <item>Ріно</item>
         <item>Блек Рок Сіті</item>
         <item>Доха</item>
@@ -371,7 +385,7 @@
         <item>Нью-Делі</item>
         <item>Осака</item>
         <item>Лахор</item>
-        <item>"Сана"</item>
+        <item>Сана</item>
         <item>Барселона</item>
         <item>Мюнхен</item>
         <item>Мілан</item>
@@ -519,10 +533,10 @@
         <item>Індія</item>
         <item>Сирія</item>
         <item>Бангладеш</item>
-        <item>Об\'єднані Арабські Емірати</item>
+        <item>"Об'єднані Арабські Емірати"</item>
         <item>Палестина</item>
         <item>Палестина</item>
-        <item>В\'єтнам</item>
+        <item>"В'єтнам"</item>
         <item>Китай</item>
         <item>Індонезія</item>
         <item></item>
@@ -537,7 +551,7 @@
         <item>Камбоджа</item>
         <item>Північна Корея</item>
         <item>Катар</item>
-        <item>М\'янма</item>
+        <item>"М'янма"</item>
         <item>Саудівська Аравія</item>
         <item>Південна Корея</item>
         <item>Китай</item>
@@ -669,7 +683,7 @@
         <item>Німеччина</item>
         <item>Італія</item>
         <item>Німеччина</item>
-        <item>В\'єтнам</item>
+        <item>"В'єтнам"</item>
         <item>Туреччина</item>
         <item>Індія</item>
         <item>Бразилія</item>
@@ -728,6 +742,24 @@
         <item>25 хвилин</item>
         <item>30 хвилин</item>
     </string-array>
+    <string-array name="snooze_duration_values">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="time">
+        <item>%1$s</item>
+        <item>%2$s</item>
+        <item>%1$s%2$s</item>
+        <item>%3$s</item>
+        <item>%1$s%3$s</item>
+        <item>%2$s%3$s</item>
+        <item>%1$s%2$s%3$s</item>
+    </string-array>
     <string-array name="timer_duration">
         <item>Всього %1$s</item>
         <item>Всього %2$s</item>
@@ -737,37 +769,14 @@
         <item>Всього %2$s/%3$s</item>
         <item>Всього %1$s-%2$s %3$s</item>
     </string-array>
-    <string-array name="timezone_alphabet_table">
-        <item>А</item>
-        <item>Б</item>
-        <item>В</item>
-        <item>Г</item>
-        <item>Д</item>
-        <item>Е</item>
-        <item>Ж</item>
-        <item>З</item>
-        <item>И</item>
-        <item>К</item>
-        <item>Л</item>
-        <item>М</item>
-        <item>Н</item>
-        <item>О</item>
-        <item>П</item>
-        <item>Р</item>
-        <item>С</item>
-        <item>Т</item>
-        <item>У</item>
-        <item>Ф</item>
-        <item>Х</item>
-        <item>Ц</item>
-        <item>Ч</item>
-        <item>Ш</item>
-        <item>Э</item>
-        <item>Ю</item>
-    </string-array>
     <string-array name="volume_button_setting_entries">
         <item>Нічого не робити</item>
         <item>Відкласти</item>
         <item>Відключити</item>
+    </string-array>
+    <string-array name="volume_button_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
     </string-array>
 </resources>

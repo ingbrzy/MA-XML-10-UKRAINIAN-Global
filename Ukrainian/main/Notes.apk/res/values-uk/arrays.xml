@@ -5,40 +5,16 @@
         <item>Б</item>
         <item>В</item>
         <item>Г</item>
+        <item>Ґ</item>
         <item>Д</item>
         <item>Е</item>
+        <item>Є</item>
         <item>Ж</item>
         <item>З</item>
         <item>И</item>
-        <item>К</item>
-        <item>Л</item>
-        <item>М</item>
-        <item>Н</item>
-        <item>О</item>
-        <item>П</item>
-        <item>Р</item>
-        <item>С</item>
-        <item>Т</item>
-        <item>У</item>
-        <item>Ф</item>
-        <item>Х</item>
-        <item>Ц</item>
-        <item>Ч</item>
-        <item>Ш</item>
-        <item>Э</item>
-        <item>Ю</item>
-        <item>Я</item>
-    </string-array>
-    <string-array name="alphabet_table_with_starred">
-        <item>А</item>
-        <item>Б</item>
-        <item>В</item>
-        <item>Г</item>
-        <item>Д</item>
-        <item>Е</item>
-        <item>Ж</item>
-        <item>З</item>
-        <item>И</item>
+        <item>І</item>
+        <item>Ї</item>
+        <item>Й</item>
         <item>К</item>
         <item>Л</item>
         <item>М</item>
@@ -55,13 +31,60 @@
         <item>Ч</item>
         <item>Ш</item>
         <item>Щ</item>
-        <item>Э</item>
+        <item>Ь</item>
         <item>Ю</item>
         <item>Я</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Ґ</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Є</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>І</item>
+        <item>Ї</item>
+        <item>Й</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Ь</item>
+        <item>Ю</item>
+        <item>Я</item>
+        <item>\#</item>
     </string-array>
     <string-array name="attachment_chooser">
         <item>Камера</item>
         <item>Галерея</item>
+    </string-array>
+    <string-array name="big_screen_layouts">
+        <item>@string/setting_big_screen_layout_flat</item>
+        <item>@string/setting_big_screen_layout_columns</item>
+    </string-array>
+    <string-array name="common_folder_operations">
+        <item>新建</item>
+        <item>重命名</item>
+        <item>删除</item>
     </string-array>
     <string-array name="contact_entries">
         <item>Ім’я</item>
@@ -82,7 +105,7 @@
         <item>Ви можете використовувати текст, зображення та голосові записи у своїх нотатках. Широкий вибір різноманітних стилів та шрифтів зроблять ваші прості записи просто приголомшливими.</item>
         <item>Списки та нагадування стануть у нагоді, коли вам необхідні прості та ефективні інструменти для планування ваших мандрівок або складання списку покупок.</item>
         <item>Поділитися нотатками</item>
-        <item>Ви можете автоматично створювати довгі скріншоти у Нотатках, а потім ділитися ними з вашими друзями.</item>
+        <item>Ви можете автоматично створювати скріншоти з прокручуванням у Нотатках, а потім ділитися ними з вашими друзями.</item>
         <item>Створюйте папки та керуйте ними</item>
         <item>Натисніть на стрілку нижче, щоб створити нову папку або переключитися між вже існуючими.</item>
     </string-array>
@@ -107,5 +130,8 @@
     <string-array name="second_guide_contents_pad_or_inter">
         <item>Готосові нотатки</item>
         <item>Тепер ви можете створювати голосові нотатки. Натисніть на значок, запишіть свій голос та прикріпіть аудіофайл до нотатки.</item>
+    </string-array>
+    <string-array name="system_folder_operations">
+        <item>新建</item>
     </string-array>
 </resources>

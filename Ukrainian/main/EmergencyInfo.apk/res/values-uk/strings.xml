@@ -219,7 +219,7 @@
     <string name="cached_apps_freezer_reboot_dialog_text">Щоб застосувати ці зміни, потрібний перезапуск. Перезапустіть пристрій або скасуйте зміни.</string>
     <string name="cancel">Скасувати</string>
     <string name="category_personal">Особисте</string>
-    <string name="category_work">Робота</string>
+    <string name="category_work">Робоче</string>
     <string name="charge_length_format">%1$s тому</string>
     <string name="choose_profile">Вибрати профіль</string>
     <string name="clear">Очистити</string>
@@ -302,7 +302,6 @@
     <string name="enable_verbose_vendor_logging">Увімкнути докладну реєстрацію постачальника</string>
     <string name="enable_verbose_vendor_logging_summary">"Включати у звіти про помилки додаткові записи про постачальника пристрою, які можуть містити особисті дані, призводити до надмірного споживання заряду акумулятора та/або використовувати більший обсяг пам'яті."</string>
     <string name="enabled_by_admin">Увімкнено адміністратором</string>
-    <string name="enhanced_connectivity">"Покращене з'єднання"</string>
     <string name="enhanced_connectivity_summary">"Вмикає функцію покращеного з'єднання."</string>
     <string name="expand_button_title">Додатково</string>
     <string name="external_source_trusted">Дозволено</string>
@@ -335,7 +334,7 @@
     <string name="ims_reg_status_not_registered">Не зареєстровано</string>
     <string name="ims_reg_status_registered">Зареєстровано</string>
     <string name="ims_reg_title">Статус реєстрації IMS</string>
-    <string name="imsi_protection_warning">Ця мережа отримує унікальний ідентифікатор, за допомогою якого можна відстежити місцезнаходження пристрою. <annotation id="url">Докладніше</annotation></string>
+    <string name="imsi_protection_warning">Ця мережа отримує ідентифікатор SIM-карти, за допомогою якого можна відстежити місцезнаходження пристрою. <annotation id="url">Докладніше</annotation></string>
     <string name="inactive_app_active_summary">Активний додаток. Торкніться, щоб дезактивувати.</string>
     <string name="inactive_app_inactive_summary">Неактивний додаток. Торкніться, щоб активувати.</string>
     <string name="inactive_apps_title">Додатки в режимі очікування</string>
@@ -609,6 +608,7 @@
     <string name="wifi_cant_connect">Не вдається під’єднатись</string>
     <string name="wifi_cant_connect_to_ap">Не вдається під’єднатися до мережі %1$s</string>
     <string name="wifi_check_password_try_again">Перевірте пароль і повторіть спробу</string>
+    <string name="wifi_connected_low_quality">Низька якість</string>
     <string name="wifi_connected_no_internet">Немає Інтернету</string>
     <string name="wifi_disabled_by_recommendation_provider">Не під’єднано через низьку якість мережі</string>
     <string name="wifi_disabled_generic">Вимкнено</string>

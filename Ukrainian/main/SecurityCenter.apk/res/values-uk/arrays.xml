@@ -4,13 +4,13 @@
         <item>Один раз</item>
         <item>Кожного дня</item>
         <item>У робочі дні</item>
-        <item>По буднях</item>
+        <item>Будні</item>
         <item>Власний</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
         <item>Один раз</item>
         <item>Кожного дня</item>
-        <item>По буднях</item>
+        <item>У будні</item>
         <item>Власний</item>
     </string-array>
     <string-array name="alphabet_table">
@@ -18,40 +18,16 @@
         <item>Б</item>
         <item>В</item>
         <item>Г</item>
+        <item>Ґ</item>
         <item>Д</item>
         <item>Е</item>
+        <item>Є</item>
         <item>Ж</item>
         <item>З</item>
         <item>И</item>
-        <item>К</item>
-        <item>Л</item>
-        <item>М</item>
-        <item>Н</item>
-        <item>О</item>
-        <item>П</item>
-        <item>Р</item>
-        <item>С</item>
-        <item>Т</item>
-        <item>У</item>
-        <item>Ф</item>
-        <item>Х</item>
-        <item>Ц</item>
-        <item>Ч</item>
-        <item>Ш</item>
-        <item>Э</item>
-        <item>Ю</item>
-        <item>Я</item>
-    </string-array>
-    <string-array name="alphabet_table_with_starred">
-        <item>А</item>
-        <item>Б</item>
-        <item>В</item>
-        <item>Г</item>
-        <item>Д</item>
-        <item>Е</item>
-        <item>Ж</item>
-        <item>З</item>
-        <item>И</item>
+        <item>І</item>
+        <item>Ї</item>
+        <item>Й</item>
         <item>К</item>
         <item>Л</item>
         <item>М</item>
@@ -68,9 +44,47 @@
         <item>Ч</item>
         <item>Ш</item>
         <item>Щ</item>
-        <item>Э</item>
+        <item>Ь</item>
         <item>Ю</item>
         <item>Я</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Ґ</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Є</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>І</item>
+        <item>Ї</item>
+        <item>Й</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Ь</item>
+        <item>Ю</item>
+        <item>Я</item>
+        <item>\#</item>
     </string-array>
     <string-array name="app_behavior_type_menu">
         <item>Всі записи</item>
@@ -78,36 +92,6 @@
         <item>Взаємний запуск</item>
         <item>Використання дозволів</item>
         <item>Конфіденційні дії</item>
-    </string-array>
-    <string-array name="app_initials_label">
-        <item>!</item>
-        <item>Ля</item>
-        <item>Сі</item>
-        <item>До</item>
-        <item>Ре</item>
-        <item>Мі</item>
-        <item>Фа</item>
-        <item>Соль</item>
-        <item>Н</item>
-        <item>Я</item>
-        <item>Джей</item>
-        <item>Кб</item>
-        <item>Лу</item>
-        <item>М-ль</item>
-        <item>Н</item>
-        <item>О</item>
-        <item>Пн</item>
-        <item>Q</item>
-        <item>Р</item>
-        <item>Пд</item>
-        <item>Т</item>
-        <item>У</item>
-        <item>V</item>
-        <item>Пт</item>
-        <item>Ікс</item>
-        <item>РР</item>
-        <item>Дзета</item>
-        <item>\#</item>
     </string-array>
     <string-array name="applock_password_types">
         <item>Графічний ключ</item>
@@ -141,7 +125,7 @@
         <item>"Сьогодні (3G/4G) "</item>
         <item>"За минулий місяць (3G/4G) "</item>
         <item>"За місяць (3G/4G) "</item>
-        <item>"Вчора (Wi-Fi)"</item>
+        <item>"Вчора (Wi-Fi) "</item>
         <item>"Сьогоднi (Wi-Fi) "</item>
         <item>"За минулий мiсяць (Wi-Fi) "</item>
         <item>"За мiсяць (Wi-Fi) "</item>
@@ -169,26 +153,42 @@
         <item>"За місяць: "</item>
     </string-array>
     <string-array name="debug_open_intercept">
-        <item>Ви зможете отримати доступ до файлів на вашому пристрої і редагувати їх за допомогою комп\'ютера.</item>
+        <item>"Ви зможете отримати доступ до файлів на вашому пристрої і редагувати їх за допомогою комп'ютера."</item>
         <item>Буде дозволено встановлення програм на вашому пристрої без вашого явного дозволу</item>
-        <item>"Ви зможете віддалено контролювати і записувати вміст вашого екрану."</item>
+        <item>Ви зможете віддалено контролювати і записувати вміст вашого екрана.</item>
         <item>Буде можливо отримати детальну інформацію про ваш пристрій.</item>
     </string-array>
-    <string-array name="ew_emergency_organ_donation_arrays">
-        <item>Так</item>
-        <item>Ні</item>
-    </string-array>
     <string-array name="gb_adv_touch_custom_level">
-        <item>Дуже низька</item>
-        <item>Низька</item>
-        <item>Нормальна</item>
-        <item>Висока</item>
-        <item>Дуже висока</item>
+        <item>Дуже низький</item>
+        <item>Низький</item>
+        <item>Середній</item>
+        <item>Високий</item>
+        <item>Найвищий</item>
+    </string-array>
+    <string-array name="gb_voice_change_gender">
+        <item>@string/gb_voice_changer_gender_man</item>
+        <item>@string/gb_voice_changer_gender_female</item>
+    </string-array>
+    <string-array name="input_package_names">
+        <item>com.baidu.input_mi</item>
+        <item>com.iflytek.inputmethod.miui</item>
+        <item>com.sohu.inputmethod.sogou.xiaomi</item>
+    </string-array>
+    <string-array name="key_app_info">
+        <item>install_source</item>
+        <item>install_time</item>
+        <item>update_source</item>
+        <item>update_time</item>
     </string-array>
     <string-array name="lock_mode">
         <item>Коли пристрій заблоковано</item>
         <item>Коли пристрій заблоковано або після виходу з програми</item>
         <item>Коли пристрій заблоковано або через 1 хвилину після виходу з програми</item>
+    </string-array>
+    <string-array name="lock_mode_value">
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
     </string-array>
     <string-array name="mi_service_traffic_type">
         <item>"Трафік 3G/4G "</item>
@@ -198,9 +198,57 @@
         <item>Важливо: декілька системних програм можуть перестати працювати належним чином.</item>
         <item>Текст, акаунти і контент можуть відображатися неправильно.</item>
     </string-array>
+    <string-array name="operate_entries">
+        <item>@string/auto_task_operation_open</item>
+        <item>@string/auto_task_operation_close</item>
+        <item>@string/auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="operate_memory_entries">
+        <item>@string/auto_task_operation_open</item>
+        <item>@string/auto_task_operation_close</item>
+        <item>@string/auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_memory_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
     <string-array name="over_limit_traffic_waring_style">
         <item>Показувати попередження</item>
         <item>Попереджувати та відключати мобільний інтернет</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice">
+        <item>@string/pc_battery_history_consume_rank_menu_item</item>
+        <item>@string/power_center_battery_all</item>
+        <item>@string/power_center_battery_software</item>
+        <item>@string/power_center_battery_hardware</item>
+        <item>@string/pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice_new">
+        <item>@string/pc_battery_history_consume_rank_menu_item</item>
+        <item>@string/power_center_battery_all</item>
+        <item>@string/power_center_battery_software</item>
+        <item>@string/power_center_battery_hardware</item>
+        <item>@string/pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_fast_charge_entry">
+        <item>10%</item>
+        <item>20%</item>
+        <item>30%</item>
+        <item>40%</item>
+        <item>50%</item>
+    </string-array>
+    <string-array name="pc_fast_charge_entry_value">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
     </string-array>
     <string-array name="pc_settings_thermal_entries">
         <item>За замовчуванням</item>
@@ -211,22 +259,22 @@
         <item>Пріоритет продуктивності</item>
     </string-array>
     <string-array name="perm_intercept_notification">
-        <item>Читати всі ваші сповіщення, включаючи повідомлення та інші об\'єкти, які можуть містити особисту інформацію.</item>
+        <item>"Читати всі ваші сповіщення, включаючи повідомлення та інші об'єкти, які можуть містити особисту інформацію."</item>
         <item>Обмежити дозволи сповіщень для деяких програм</item>
         <item>Імітація натискання повідомлень і відкриття програм</item>
         <item>Вмикання та вимикання Режиму \"Не турбувати\"</item>
     </string-array>
     <string-array name="perm_intercept_statitics">
         <item>Збирати дані про ваші інтереси та поведінку, вивчивши, які програми та як часто ви використовуєте</item>
-        <item>Отримайте доступ до ваших налаштувань, пов\'язаних з оператором і мовою, а також до інших деталей</item>
+        <item>"Отримайте доступ до ваших налаштувань, пов'язаних з оператором і мовою, а також до інших деталей"</item>
     </string-array>
     <string-array name="perm_intercept_unknown_source">
-        <item>"Сторонні програми, які не є перевіреними, можуть викликати безліч проблем і знизити стабільність системи."</item>
+        <item>Сторонні програми, які не є перевіреними, можуть викликати безліч проблем і знизити стабільність системи.</item>
         <item>Деякі сторонні програми можуть містити шкідливі програми, які піддають ризику ваші персональні дані.</item>
     </string-array>
     <string-array name="priority_storage_entries">
-        <item>Внутрішня пам\'ять</item>
-        <item>Зовнішня пам\'ять</item>
+        <item>"Внутрішня пам'ять"</item>
+        <item>"Зовнішня пам'ять"</item>
     </string-array>
     <string-array name="roaming_network_type">
         <item>Завжди</item>
@@ -246,7 +294,7 @@
     </string-array>
     <string-array name="sort_type">
         <item>Статус</item>
-        <item>Ім\'я програми</item>
+        <item>"Ім'я програми"</item>
         <item>Частота використання</item>
         <item>Займане місце</item>
         <item>Час встановлення</item>
