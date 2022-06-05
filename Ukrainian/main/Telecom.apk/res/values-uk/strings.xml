@@ -627,7 +627,6 @@
     <string name="private_dns_mode_provider">Ім’я хосту постачальника приватного DNS-сервера</string>
     <string name="private_dns_mode_provider_failure">Не вдалося під’єднатися</string>
     <string name="private_dns_mode_provider_hostname_hint">Введіть ім’я хосту постачальника послуг DNS</string>
-    <string name="process_kernel_label">ОС Android</string>
     <string name="profile_connect_timeout_subtext">Не вдається підключитися. Перезавантажте пристрій.</string>
     <string name="profile_info_settings_title">Інформація профілю</string>
     <string name="remaining_length_format">Залишилося %1$s</string>

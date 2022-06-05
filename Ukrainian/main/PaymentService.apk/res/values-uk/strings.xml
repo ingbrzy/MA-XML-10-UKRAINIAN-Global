@@ -359,7 +359,6 @@ ID:%s
     <string name="sns_access_token_expired_warning">Час сесії закінчився. Увійдіть ще раз для повторного підключення аккаунту.</string>
     <string name="sns_bind_limit">Забагато спроб. Спробуйте інші способи входу.</string>
     <string name="sns_sign_in">Інші способи авторизації</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sunday">Неділя</string>
     <string name="sunday_short">Нед</string>
     <string name="sunday_shortest">Нд</string>

@@ -39,7 +39,6 @@
     <string name="date_picker_lunar">Традиційний китайський календар</string>
     <string name="date_time_picker_dialog_title">Встановити дату та час</string>
     <string name="early_morning">Ранок</string>
-    <string name="empty" />
     <string name="eras_ad">н. е.</string>
     <string name="eras_bc">до н. е.</string>
     <string name="evening">Після обіду</string>

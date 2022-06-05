@@ -695,7 +695,6 @@
     <string name="unit_data_display_currency_btn">Бутанський нгултрум</string>
     <string name="unit_data_display_currency_bwp">Ботсванська пула</string>
     <string name="unit_data_display_currency_byn">Білоруський рубль</string>
-    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">Канадський долар</string>
     <string name="unit_data_display_currency_cdf">Конголезький франк</string>
     <string name="unit_data_display_currency_chf">Швейцарський франк</string>
@@ -1038,15 +1037,12 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
-    <string name="xiaomi_bytes_unit">%1$sБ</string>
     <string name="xiaomi_calculator_delete_description">Програма \"Калькулятор\" являється системною. Ви не зможете використовувати декілька конвертерів та додаткових функцій після видалення програми.</string>
     <string name="xiaomi_calculator_delete_title">Видалити програму \"Калькулятор\"?</string>
     <string name="xiaomi_calculator_remove_icon_description">\"Калькулятор\" - це системна програма. Після видалення ярлика з робочого столу ви не зможете користуватися конвертерами та додатковими функціями цієї програми.</string>
     <string name="xiaomi_calculator_remove_icon_title">Видалити \"Калькулятор\" з робочого столу?</string>
     <string name="xiaomi_connect_download_manager_fail">Не вдалося підключитися до Завантажень. Переконайтеся, що програма всі необхідні дозволи, перейшовши до Налаштування > Встановлені програми.</string>
     <string name="xiaomi_external_storage_unavailable">Сховище недоступне. Перевірте SD-карту.</string>
-    <string name="xiaomi_kilobytes_unit">%1$sкБ</string>
-    <string name="xiaomi_megabytes_unit">%1$sМБ</string>
     <string name="xiaomi_update_dialog_message">"Доступна версія %1$s
 Розмір: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Доступна версія %1$s
