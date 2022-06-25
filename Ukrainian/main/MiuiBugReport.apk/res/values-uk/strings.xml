@@ -697,7 +697,7 @@ Read and agree to the new version of %3$s before you continue."</string>
     <string name="system_app_select">Система</string>
     <string name="system_error_info">Система зайнята. Зачекайте хвилинку або дві та повторіть спробу.</string>
     <string name="tab_title_chat">Запитання та відповіді</string>
-    <string name="tab_title_my_reports">Мої звіти</string>
+    <string name="tab_title_my_reports">Мій відгук</string>
     <string name="tab_title_preferences">Налаштування</string>
     <string name="tab_title_report">Звіт</string>
     <string name="temporary_not_available">Функція недоступна</string>

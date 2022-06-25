@@ -37,7 +37,6 @@
     <string name="add_clock">Додати годинник</string>
     <string name="add_common_timer">Додати таймер</string>
     <string name="add_timer">Нещодавні таймери</string>
-    <string name="add_timer_dialog_title">Додати таймер</string>
     <string name="add_timezone_title">Додати часовий пояс</string>
     <string name="afternoon">Після обіду</string>
     <string name="agree">Погодитися</string>
@@ -498,6 +497,7 @@
     <string name="shutdown_alarm_enable_summary">Будильник буде дзвонити, якщо час дзвінка не менше ніж на 10 хвилин пізніше моменту відключення пристрою</string>
     <string name="shutdown_alarm_title">Спрацювання при вимкненому пристрої</string>
     <string name="silent_alarm_summary">Без звуку</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Вимкнути один раз %s</string>
     <string name="sleep_analysis">Статистика</string>
     <string name="sleep_analysis_chart_date_format">dd.MM</string>
@@ -518,7 +518,7 @@
     <string name="sleep_record">Аналіз сну</string>
     <string name="sleep_record_desc">Увімкніть для початку запису аналізу сну</string>
     <string name="sleep_record_desc_detailed">"Аналіз сну здійснюється за допомогою програми Xiaomi Здоров'я. Після увімкнення цієї функції програма Xiaomi Здоров'я буде автоматично здійснювати збір даних про сон на основі інформації про використання телефону, статистики активності, а також обраному часу відходу до сну і пробудження. Статистика буде відображатися у вигляді графіків. Для більш точного аналізу сну дозвольте програмі Xiaomi Здоров'я автозапуск. Всі пов'язані дані будуть зберігатися локально на вашому пристрої, що дозволяє легко управляти ними."</string>
-    <string name="sleep_record_desc_detailed_new">Sleep tracking is provided by the Mi Fitness Sleep feature. If you turn this feature on, Mi Fitness will automatically collect and display data on your sleep based on your phone usage, activity, and the bedtime and wake-up time you set. To track sleep more accurately, allow Mi Fitness to autostart.</string>
+    <string name="sleep_record_desc_detailed_new">Відстеження сну забезпечується функцією Mi Fitness Sleep. Якщо ви ввімкнете цю функцію, Mi Fitness автоматично збиратиме та відображатиме дані про ваш сон на основі використання вашого телефону, активності, а також часу сну та часу пробудження, які ви встановили. Щоб точніше відстежувати сон, дозвольте Mi Fitness автозапуск.</string>
     <string name="sleep_record_no_data">"Ваша статистика з'явиться тут після того, як Xiaomi Здоров'я проаналізує достатньо даних"</string>
     <string name="sleep_remind">Нагадування йти до ліжка</string>
     <string name="sleep_time">Початок сну</string>
@@ -543,6 +543,7 @@
     <string name="status_bar_clock_date_time_format">H:mm:ss</string>
     <string name="status_bar_clock_date_time_format_12">h:mm:ss aa</string>
     <string name="status_bar_clock_date_time_format_seconds_12">h:mm:ss</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stopwatch_lap_empty_text">Немає кіл</string>
     <string name="stopwatch_reset_notification">Секундомір було скинуто</string>
     <string name="stopwatch_running_notification">Секундомір</string>
@@ -551,6 +552,7 @@
     <string name="sunday">Неділя</string>
     <string name="sunday_short">Нед</string>
     <string name="sunday_shortest">Нд</string>
+    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">Дозволити цій програмі доступ до інтернету для доступу до всіх функцій.</string>
     <string name="system_permission_main_purpose">Перегляд часу, встановлення будильників і таймерів, використання секундоміра</string>
     <string name="system_permission_purpose">Створення будильників в робочі дні та встановлення власних мелодій</string>
@@ -618,7 +620,6 @@
     <string name="timer_alert_type_beach">Пляж</string>
     <string name="timer_alert_type_forest">Ліс</string>
     <string name="timer_alert_type_mute">За замовчуванням</string>
-    <string name="timer_alert_type_no">Немає</string>
     <string name="timer_alert_type_rain">Мряка</string>
     <string name="timer_alert_type_spring_rain">Літній дощ</string>
     <string name="timer_alert_type_stove_fire">Піч</string>
@@ -630,9 +631,6 @@
     <string name="timer_continue">Далі</string>
     <string name="timer_continue_timer">Відновити таймер</string>
     <string name="timer_created">Таймер додано успішно</string>
-    <string name="timer_desc_use_brush_teeth">Чищення зубів</string>
-    <string name="timer_desc_use_facial_mask">Маска на обличчя</string>
-    <string name="timer_desc_use_sleep">Дрімання</string>
     <string name="timer_end_time">Таймер зупиниться о %s</string>
     <string name="timer_end_time_format">HH:mm d MMM</string>
     <string name="timer_end_time_format_today">HH:mm</string>
@@ -641,7 +639,6 @@
     <string name="timer_is_paused">Таймер зупинено</string>
     <string name="timer_item_delete">Видалити</string>
     <string name="timer_item_duration_display">%1$d хв %2$d сек</string>
-    <string name="timer_item_edit">Змінити</string>
     <string name="timer_item_label_hint">Опис</string>
     <string name="timer_item_picker_hour">Год</string>
     <string name="timer_item_picker_minute">Хв</string>
@@ -671,8 +668,8 @@
     <string name="upcoming_alarm_hint">Ви можете відключити його</string>
     <string name="update_health_app">"Оновити Xiaomi Здоров'я"</string>
     <string name="update_health_app_desc">"Функція відстеження сну надається програмою Xiaomi Здоров'я. Оновіть програму до останньої версії, щоб мати доступ до нових функцій."</string>
-    <string name="update_health_app_desc_new">The sleep tracking feature is provided by Mi Fitness. Update Mi Fitness to its latest version to access related features.</string>
-    <string name="update_health_app_new">Update Mi Fitness</string>
+    <string name="update_health_app_desc_new">Функція відстеження сну надається Mi Fitness. Оновіть Mi Fitness до останньої версії, щоб отримати доступ до пов’язаних функцій.</string>
+    <string name="update_health_app_new">Оновіть Mi Fitness</string>
     <string name="update_it">Оновити</string>
     <string name="update_notification_info">Оновлення даних у фоні…</string>
     <string name="usage_start">Почати</string>
@@ -697,7 +694,6 @@
     <string name="wednesday_shortest">Ср</string>
     <string name="week_ringtone_recommend_desc">Будильник зі звуками природи відтворює різні мелодії в залежності від поточної дати. Встановити його як будильник за замовчуванням?</string>
     <string name="white_noise">Навколишній шум</string>
-    <string name="white_noise_guide_desc">Додайте фоновий звук для концентрації</string>
     <string name="white_noise_selector">Вибрати аудіо</string>
     <string name="workday_alarm_clock">По робочих днях</string>
     <string name="worldclock_edit_label">Світовий годинник</string>

@@ -35,13 +35,138 @@
     <string name="app_pkg_name">com.milink.service</string>
     <string name="app_ver_code">1</string>
     <string name="app_ver_name">1.0</string>
+    <string name="appcirculate_alert_busy_negative">Скасувати</string>
+    <string name="appcirculate_alert_busy_positive">Перервати</string>
+    <string name="appcirculate_alert_busy_text">Схоже, що інший пристрій зараз передає файли. Перервати передачу зараз?</string>
+    <string name="appcirculate_alert_busy_title">Перервати передачу</string>
+    <string name="appcirculate_fragment_circulate_app_content_description">Попередній перегляд: %1$s</string>
+    <string name="appcirculate_fragment_circulate_device_card_button">Увімкнути</string>
+    <string name="appcirculate_fragment_circulate_device_card_subtitle">Переглянути довідку</string>
+    <string name="appcirculate_fragment_circulate_device_card_switch_subtitle">"Увімкніть для пошуку пристроїв неподалік
+та для відтворення аудіо та відео на них"</string>
+    <string name="appcirculate_fragment_circulate_device_card_switch_title_1">Turn on WLAN and Bluetooth</string>
+    <string name="appcirculate_fragment_circulate_device_card_switch_title_1_global">Увімкніть Wi-Fi та Bluetooth</string>
+    <string name="appcirculate_fragment_circulate_device_card_switch_title_2">Увімкніть Bluetooth</string>
+    <string name="appcirculate_fragment_circulate_device_card_switch_title_3">Turn on WLAN</string>
+    <string name="appcirculate_fragment_circulate_device_card_switch_title_3_global">Увімкніть Wi-Fi</string>
+    <string name="appcirculate_fragment_circulate_device_card_title">"Не можете знайти
+пристрій?"</string>
+    <string name="appcirculate_fragment_circulate_device_content_description">Відкрити на іншому пристрої: %1$s</string>
+    <string name="appcirculate_fragment_circulate_device_list_app_deliver">Відкрийте \"%1$s\" на іншому пристрої</string>
+    <string name="appcirculate_fragment_circulate_device_list_button_cancel">Скасувати</string>
+    <string name="appcirculate_fragment_circulate_device_list_button_confirm">Шукати ще раз</string>
+    <string name="appcirculate_fragment_circulate_device_list_text_none"><u>Не можете знайти пристрій?</u></string>
+    <string name="appcirculate_fragment_circulate_device_list_text_searching">Пошук пристроїв неподалік…</string>
+    <string name="appcirculate_toast_busy">Схоже, що інший пристрій зараз передає файли. Зачекайте, поки передача буде завершена та повторіть спробу.</string>
+    <string name="appcirculate_toast_cancel">Скасовано</string>
+    <string name="appcirculate_toast_fail">Не вдалося змінити на інший пристрій</string>
+    <string name="appcirculate_toast_loading">Зміна на інший пристрій…</string>
+    <string name="appcirculate_toast_not_support_device_pad">Неможливо відкрити цю програму на планшеті</string>
+    <string name="appcirculate_toast_not_support_device_pc">"Неможливо відкрити цю програму на комп'ютері"</string>
+    <string name="appcirculate_toast_not_support_device_tv">Неможливо відкрити цю програму на телевізорі</string>
+    <string name="appcirculate_toast_not_support_device_tv_connected">Вже підключено до цього телевізора</string>
+    <string name="appcirculate_toast_success_1">Змінено успішно</string>
+    <string name="appcirculate_toast_success_2">Трансляція у прихованому режимі…</string>
+    <string name="appcirculate_toast_success_3">Трансляція…</string>
+    <string name="auth_MIUI_and_phone_model">"Ця сторінка доступна тільки для тестувальників
+betа-версії MIUI 13."</string>
+    <string name="auth_check_loading">Хвилинку…</string>
+    <string name="auth_no_user">"Ця сторінка доступна тільки для тестувальників betа-версії.
+Увійдіть до вашого мі акаунту у Налаштування > Мі акаунт для синхронізації дозволів."</string>
+    <string name="auth_phone_model">Цю сторінку неможна переглянути на цьому пристрої.</string>
+    <string name="auth_show_to_test_user">Ця сторінка доступна тільки для тестувальників betа-версії.</string>
+    <string name="ball_hint_connect_fail">Не вдалося виконати цю дію. Зачекайте хвилинку та повторіть спробу.</string>
+    <string name="ball_hint_text_loading">Хвилинку…</string>
+    <string name="ball_hint_text_success">Підключено</string>
     <string name="casting_tips">Трансляція…</string>
+    <string name="circulate_audio_group_title">Відтворення…</string>
+    <string name="circulate_back_button_content_description">Назад</string>
+    <string name="circulate_card_mirror_device_button">Зупинити</string>
+    <string name="circulate_card_mirror_device_pad_subtitle">Відображення екрана планшета…</string>
+    <string name="circulate_card_mirror_device_subtitle">Відображення екрана телефона…</string>
+    <string name="circulate_card_mirror_device_title_laptop">"Комп'ютер"</string>
+    <string name="circulate_card_mirror_device_title_pad">Планшет</string>
+    <string name="circulate_card_mirror_device_title_television">Телевізор</string>
+    <string name="circulate_card_mirror_help"><u>Сумісні пристрої</u></string>
+    <string name="circulate_card_mirror_pad_subtitle">"Перетягніть \"Екран планшета\" на телевізор,
+ щоб почати повтор екрана"</string>
+    <string name="circulate_card_mirror_pad_title">Екран планшета</string>
+    <string name="circulate_card_mirror_phone_subtitle">"Перетягніть \"Екран телефона\" на інший пристрій,
+ щоб почати повтор екрана"</string>
+    <string name="circulate_card_mirror_phone_title">Екран телефона</string>
+    <string name="circulate_card_mirror_subtitle_active_format">Повтор екрана на %1$s</string>
+    <string name="circulate_card_mirror_subtitle_normal">Перетягніть, щоб увімкнути повтор екрана</string>
+    <string name="circulate_card_mirror_subtitle_pad_normal">"Перетягніть на інший пристрій,
+щоб почати повтор екрана цього планшета."</string>
+    <string name="circulate_card_mirror_tv_button_1">Спливаюче вікно</string>
+    <string name="circulate_card_mirror_tv_button_2">Екран вимкнено</string>
+    <string name="circulate_card_mirror_tv_button_3">Конфіденційність</string>
+    <string name="circulate_card_sticker">Наклейки</string>
+    <string name="circulate_card_sticker__remote_control_expend_contentDescription">Показати пульти</string>
+    <string name="circulate_card_sticker_access">Натисніть два рази для активації</string>
+    <string name="circulate_card_sticker_add">Додати наклейки</string>
+    <string name="circulate_card_sticker_blank_contentDescription">Натисніть два рази на порожню область для виходу</string>
+    <string name="circulate_card_sticker_complete">Готово</string>
+    <string name="circulate_card_sticker_control_contentDescription">Панель керування</string>
+    <string name="circulate_card_sticker_dressing_equipment">Налаштувати пристрій</string>
+    <string name="circulate_card_sticker_expend_contentDescription">Показати налаштовані пристрої</string>
+    <string name="circulate_card_sticker_no">Наклейок немає</string>
+    <string name="circulate_card_sticker_remote_control">Пульт ТВ</string>
+    <string name="circulate_card_sticker_remote_control_bottom">Вниз</string>
+    <string name="circulate_card_sticker_remote_control_center">OK</string>
+    <string name="circulate_card_sticker_remote_control_cut">Знімок екрана</string>
+    <string name="circulate_card_sticker_remote_control_home">Головна сторінка</string>
+    <string name="circulate_card_sticker_remote_control_left">Вліво</string>
+    <string name="circulate_card_sticker_remote_control_menu">Меню</string>
+    <string name="circulate_card_sticker_remote_control_power">Живлення</string>
+    <string name="circulate_card_sticker_remote_control_return">Назад</string>
+    <string name="circulate_card_sticker_remote_control_right">Вправо</string>
+    <string name="circulate_card_sticker_remote_control_top">Вгору</string>
+    <string name="circulate_card_sticker_remote_control_volum_add">Збільшення гучності</string>
+    <string name="circulate_card_sticker_remote_control_volum_reduce">Зменшення гучності</string>
+    <string name="circulate_card_sticker_selected">Вибрано</string>
+    <string name="circulate_common_retry_later">Зачекайте та повторіть спробу</string>
+    <string name="circulate_cta_agree">Погодитися</string>
+    <string name="circulate_cta_app_name">Mi Smart Hub</string>
+    <string name="circulate_cta_desc_pad">Ласкаво просимо до Mi Smart Hub! Ця програма дозволяє використовувати функцію трансляції і Mi Smart Play, а також передавати відтворення мультимедіа з одного пристрою на інший. Для нормальної роботи цій програмі необхідно підключатися до інтернету, а також отримати наступні дозволи:</string>
+    <string name="circulate_cta_desc_phone">Ласкаво просимо до Mi Smart Hub! Ця програма дозволяє використовувати функцію трансляції, Mi Smart Play, MIUI+, а також починати завдання на одному з ваших пристроїв і продовжувати да іншому. Для нормальної роботи цій програмі необхідно підключатися до інтернету, а також отримати наступні дозволи:</string>
+    <string name="circulate_cta_exit">Вихід</string>
+    <string name="circulate_cta_premission_sound_subtitle">Для передачі відтворення аудіо на інші пристрої</string>
+    <string name="circulate_cta_premission_sound_title">Запис аудіо</string>
+    <string name="circulate_cta_premission_storage_subtitle">"Для бездротового відправлення та отримання об'єктів"</string>
+    <string name="circulate_cta_premission_storage_title">Доступ і збереження фото та файлів на цьому пристрої</string>
+    <string name="circulate_cta_premission_wlan_subtitle">For finding devices nearby and transferring tasks via WLAN</string>
+    <string name="circulate_cta_premission_wlan_subtitle_global">Для пошуку пристроїв неподалік та передачі завдань за допомогою Wi-Fi</string>
+    <string name="circulate_cta_premission_wlan_subtitle_miui_plus">For transferring tasks via WLAN</string>
+    <string name="circulate_cta_premission_wlan_subtitle_miui_plus_global">Для передачі завдань за допомогою Wi-Fi</string>
+    <string name="circulate_cta_premission_wlan_title">Turn WLAN on and off</string>
+    <string name="circulate_cta_premission_wlan_title_global">Увімкніть та вимкніть Wi-Fi</string>
+    <string name="circulate_device_type_name_pad">Планшет</string>
+    <string name="circulate_device_type_name_pc">"Комп'ютер"</string>
+    <string name="circulate_device_type_name_tv">Телевізор</string>
+    <string name="circulate_device_type_name_wifi_speaker">Динамік</string>
+    <string name="circulate_device_type_name_wifi_speaker_with_screen">Натисніть на динамік екрана</string>
+    <string name="circulate_help_button_content_description">Довідка</string>
+    <string name="circulate_help_card_subtitle">Переглянути довідку</string>
+    <string name="circulate_help_card_title">"Не можете знайти
+пристрій?"</string>
+    <string name="circulate_help_error">Не вдалося підключитися до мережі</string>
+    <string name="circulate_help_exit_button_content_description">Вихід</string>
+    <string name="circulate_help_feedback_button">Звіт</string>
+    <string name="circulate_local_pad_name">Мій планшет</string>
+    <string name="circulate_local_phone_name">Мій телефон</string>
+    <string name="circulate_public_device_title_format">%2$s %1$s</string>
+    <string name="circulate_title">Mi Smart Hub</string>
+    <string name="circulate_tv_power_alter_text">Ви вимкнули телевізор або вимкнено його екран. Пульти дистанційного керування та телевізори зникнуть з цього розділу після вимкнення.</string>
+    <string name="circulate_tv_power_alter_title">Увага</string>
+    <string name="circulate_video_capture_fail">Не вдалося зробити знімок</string>
+    <string name="circulate_video_capture_success">Знімок екрана зроблено успішно</string>
+    <string name="circulate_video_retry_later">Спроба керування телевізором…</string>
     <string name="clearable_edittext_clear_description">Очистити</string>
     <string name="close">Закрити</string>
     <string name="close_hotspot_hint">Вимкніть точку доступу перед трансляцією</string>
     <string name="close_slave_wifi_hint">Відключіть від допоміжних мереж Wi-Fi перед трансляцією</string>
     <string name="close_slave_wifi_hint_china">Disconnect from auxiliary WLAN networks before casting</string>
-    <string name="common_google_play_services_unknown_issue">У додатку %1$s виникла проблема із сервісами Google Play. Повторіть спробу.</string>
     <string name="config_wifi_label_china">Xiaomi Conference Tapcast WLAN</string>
     <string name="config_wifi_label_global">Xiaomi Conference Tapcast Wi-Fi</string>
     <string name="connect_device_fail">Не вдалося підключитися до пристрою</string>
@@ -88,7 +213,7 @@
 %2$d. View \"Help\" to learn more."</string>
     <string name="dialog_scanning_device">Пошук пристроїв неподалік…</string>
     <string name="dialog_scanning_precondition">Увімкніть Wi-Fi та Bluetooth на вашому пристрої для використання Wi-Fi Display.</string>
-    <string name="dialog_scanning_precondition_new_china">Turn on WLAN, Bluetooth, and location services to be able to use casting. Turn on now?</string>
+    <string name="dialog_scanning_precondition_new_china">Увімкніть WI-FI, Bluetooth, і геолокаційні сервіси щоб мати можливість використовувати трансляцію. Увімкнути зараз?</string>
     <string name="dialog_scanning_precondition_new_global">Увімкніть Wi-Fi, Bluetooth та послуги визначення місцезнаходження для використання функції \"Трансляція\". Увімкнути?</string>
     <string name="dialog_select_tv">Виберіть пристрій (%1$d)</string>
     <string name="dialog_show_help">Довідка</string>
@@ -100,6 +225,11 @@
     <string name="enable_screen_projection_summary">Транслювати зображення на зовнішній монітор</string>
     <string name="eras_ad">н. е.</string>
     <string name="eras_bc">до н. е.</string>
+    <string name="err_toast_msg_audio_support_support_only">Цей пристрій підтримує тільки передачу аудіо. Спробуйте перетягнути аудіокарту.</string>
+    <string name="err_toast_msg_default">Така дія не підтримується</string>
+    <string name="err_toast_msg_mirror_support_support_only">Цей пристрій тільки підтримує дзеркальний екран. Спробуйте перетягнути карту на екран пристрою.</string>
+    <string name="err_toast_msg_not_support">Така дія не підтримується</string>
+    <string name="err_toast_msg_retry_later">Не вдалося виконати цю дію. Зачекайте хвилинку та повторіть спробу.</string>
     <string name="evening">Після обіду</string>
     <string name="expand_button_title">Додатково</string>
     <string name="fmt_chinese_date">N月e</string>
@@ -165,6 +295,24 @@
     <string name="global_privacy_negative">Відхилити</string>
     <string name="global_privacy_positive">Погодитися</string>
     <string name="global_privacy_tip">&lt;Data>Нам потрібно здійснювати збір необхідної особистої інформації, щоб надавати вам основні послуги та оптимізовувати процес трансляції. Ви можете дізнатися про те, як ми обробляємо інформацію, яку збираємо, в нашій &lt;a href=%1$s>Політиці конфіденційності&lt;/a>. Ви можете в будь-який час відкликати свою згоду з Політикою конфіденційності в Налаштуваннях.&lt;/Data></string>
+    <string name="guide_confirm_button_text">Почати</string>
+    <string name="guide_exit_button_content_description">Вихід</string>
+    <string name="guide_next_button_text">Детальніше</string>
+    <string name="guide_page_subtitle_0">"Mi Smart Hub об'єднує ваші пристрої в єдину робочу станцію, дозволяючи вам запускати завдання на одному з пристроїв, а потім плавно перемикатися на інший пристрій."</string>
+    <string name="guide_page_subtitle_0_pad">Mi Smart Hub combines your mobile devices, as well as TVs and smart speakers that are connected to the same WLAN network, into a single working station by allowing you to start a task on one of the devices and then switching to another device seamlessly.</string>
+    <string name="guide_page_subtitle_0_pad_global">"Mi Smart Hub об'єднує ваші мобільні пристрої, а також телевізори та розумні колонки, підключені до однієї мережі Wi-Fi, в єдину робочу станцію, дозволяючи вам запускати завдання на одному з пристроїв, а потім перемикатися на інший пристрій."</string>
+    <string name="guide_page_subtitle_1">Перетягніть аудіокарту на динамік або телевізор, щоб продовжити відтворення на іншому пристрої.</string>
+    <string name="guide_page_subtitle_1_pad">Перетягніть аудіокарту на динамік або телевізор, щоб продовжити відтворення на іншому пристрої.</string>
+    <string name="guide_page_subtitle_2">"Перетягніть карту з екраном пристрою на планшет, комп'ютер або телевізор, щоб почати повтор екрана вашого пристрою."</string>
+    <string name="guide_page_subtitle_2_pad">Перетягніть карту з екраном пристрою на телевізор, щоб почати повтор екрана вашого пристрою.</string>
+    <string name="guide_page_subtitle_3">Перетягніть програму на Mi Smart Hub і виберіть пристрій, на якому ви хочете продовжити виконання поточного завдання.</string>
+    <string name="guide_page_title_0">Ласкаво просимо до Mi Smart Hub!</string>
+    <string name="guide_page_title_0_pad">Ласкаво просимо до Mi Smart Hub!</string>
+    <string name="guide_page_title_1">Відтворення аудіо</string>
+    <string name="guide_page_title_1_pad">Відтворення аудіо</string>
+    <string name="guide_page_title_2">Повтор екрана</string>
+    <string name="guide_page_title_2_pad">Повтор екрана</string>
+    <string name="guide_page_title_3">Програми</string>
     <string name="hang_up">Транслювати, коли екран вимкнено</string>
     <string name="hang_up_alert_dialog_content">Продовжувати трансляцію, коли екран вашого пристрою вимкнено. Ця функція зменшує витрату енергії. Натисніть кнопку \"Живлення\", щоб увімкнути екран.</string>
     <string name="hang_up_alert_dialog_neg">Скасувати</string>
@@ -192,11 +340,11 @@ If the two devices can't be connected to the same network, turn on Miracast on y
     <string name="help_page_text_11">%1$d крок: виберіть пристрій</string>
     <string name="help_page_text_12">Виберіть зовнішній пристрій із списку доступних пристроїв, щоб почати трансляцію.</string>
     <string name="help_page_text_13">Не вдається підключитися до зовнішнього пристрою?</string>
-    <string name="help_page_text_14">"%1$d. If you want to use a Xiaomi device, but can't find it in the list of available devices, try the following:
-Connect both your mobile device and the external monitor (e.g. your TV) to the same network, or connect the external monitor to your mobile device's hotspot. If there aren't any networks available or you can't connect both devices to the same network, check whether the casting features on your external monitor are up to date, turn on Bluetooth both on your mobile device and the external monitor, and turn on Miracast on your TV.
-%2$d. If you're casting on a Xiaomi device for the first time, you need to complete verification.
-%3$d. If you want to use a non-Xiaomi device, but can't find it in the list of available devices, try the following:
-Connect both your mobile device and the external monitor (e.g. your TV) to the same network, or connect the external monitor to your mobile device's hotspot. If this doesn't help, install the HappyCast app on your TV and follow the instructions."</string>
+    <string name="help_page_text_14">"%1$d. Якщо ви хочите використовувати Xiaomi пристрій, но неможете найти його в цьому списку доступних пристроїв, спробуйте наступне:
+Підключіть мобільний пристрій і зовнішній монітор (наприклад, телевізор) до однієї мережі або підключіть зовнішній монітор до точки доступу вашого мобільного пристрою. Якщо немає доступних мереж або ви не можете підключити обидва пристрої до однієї мережі, перевірте, чи оновлені функції трансляції на зовнішньому моніторі, увімкніть Bluetooth як на мобільному пристрої, так і на зовнішньому моніторі та ввімкніть Miracast на вашому телевізорі.
+%2$d. Якщо ви вперше транслюєте на пристрої Xiaomi, вам потрібно пройти перевірку.
+%3$d. Якщо ви хочете використовувати пристрій не від Xiaomi, але не можете знайти його в списку доступних пристроїв, спробуйте наступне:
+Підключіть мобільний пристрій і зовнішній монітор (наприклад, телевізор) до однієї мережі або підключіть зовнішній монітор до точки доступу вашого мобільного пристрою. Якщо це не допомогло, встановіть програму HappyCast на телевізор і дотримуйтесь інструкцій."</string>
     <string name="help_page_text_14_global">"%1$d. Якщо ви хочете вибрати пристрій Xiaomi, але не можете знайти його в списку доступних пристроїв, спробуйте наступне:
 Підключіть мобільний пристрій і зовнішній монітор (наприклад, телевізор) до однієї мережі Wi-Fi або підключіть зовнішній монітор до точки доступу, створеної за допомогою мобільного пристрою. Якщо поблизу немає доступних мереж Wi-Fi або ви не можете підключити обидва пристрої до однієї мережі Wi-Fi, переконайтеся, що версія функції трансляції на зовнішньому моніторі є актуальною, увімкніть Bluetooth на мобільному пристрої і зовнішньому моніторі, а потім увімкніть Miracast на вашому телевізорі.
 %2$d. Якщо ви транслюєте зображення на пристрій Xiaomi в перший раз, необхідно виконати верифікацію.
@@ -254,6 +402,24 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="invisible_mode_dialog_title">Тепер ви в Анонімному режимі</string>
     <string name="keyguard_security_setting_privacy_policy">Політика конфіденційності</string>
     <string name="midnight">Ніч</string>
+    <string name="miplay_accessibility_cast">Виберіть пристрій</string>
+    <string name="miplay_accessibility_cover">Обкладинка</string>
+    <string name="miplay_accessibility_next">Наступна пісня</string>
+    <string name="miplay_accessibility_pause">Пауза</string>
+    <string name="miplay_accessibility_play">Відтворити</string>
+    <string name="miplay_accessibility_prev">Попередня пісня</string>
+    <string name="miplay_accessibility_seekbar">Індикатор виконання</string>
+    <string name="miplay_accessibility_volume">Гучність</string>
+    <string name="miplay_detail_divider_title">ТВ та динаміки</string>
+    <string name="miplay_detail_header_no_song">Немає відтворення</string>
+    <string name="miplay_device_full_name">%2$s %1$s</string>
+    <string name="miplay_headset_lc3_hint">Вимкніть режим LC3, щоб змінити аудіовихід назад на цей пристрій.</string>
+    <string name="miplay_mini_card_no_song_but_attached_hint">Відтворення аудіо на %1$s</string>
+    <string name="miplay_mini_card_no_song_pad_title">Звук планшета</string>
+    <string name="miplay_mini_card_no_song_subtitle">Немає відтворення</string>
+    <string name="miplay_mini_card_no_song_title">Звук телефона</string>
+    <string name="miplay_service_timeout_toast">Час очікування закінчився. Повторіть спробу.</string>
+    <string name="miplay_song_title_empty">Порожньо</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Зняти вибір</string>
     <string name="miuix_appcompat_action_mode_select_all">Вибрати все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Вибрати</string>
@@ -320,6 +486,7 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="msg_send_fail">Не вдалося передати дані</string>
     <string name="nfc_connect_failed_toast">Помилка трансляції. Повторіть спробу.</string>
     <string name="night">Вечір</string>
+    <string name="no_permission">Неможливо переглянути цю сторінку</string>
     <string name="noon">Полудень</string>
     <string name="normal_device_desc">Пристрої, до яких ви підключатися, але не помітили, як такі, яким можна довіряти</string>
     <string name="normal_device_desc_limit">Пристрої, до яких ви підключатися, але не помітили, як такі, яким можна довіряти</string>
@@ -444,6 +611,7 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="sunday_short">Нед</string>
     <string name="sunday_shortest">Нд</string>
     <string name="synergy_casting">Неможливо проводити трансляцію під час роботи Screen Combo</string>
+    <string name="test_package_upgrade">Не вдалося оновити до betа-версії</string>
     <string name="the_anniversary_of_lifting_martial_law">Річниця скасування воєнного стану</string>
     <string name="the_anti_aggression_day">День боротьби з агресією</string>
     <string name="the_arbor_day">День деревонасадження</string>
@@ -513,6 +681,9 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="tuesday">Вівторок</string>
     <string name="tuesday_short">Вт</string>
     <string name="tuesday_shortest">Вт</string>
+    <string name="upgrade_now">Оновити</string>
+    <string name="upgrade_test_package">"Для завершення оновлення
+переконайтеся, що сторінка містить останні версії всіх програм."</string>
     <string name="v7_preference_off">ВИМКНЕНО</string>
     <string name="v7_preference_on">УВІМКНЕНО</string>
     <string name="wednesday">Середа</string>

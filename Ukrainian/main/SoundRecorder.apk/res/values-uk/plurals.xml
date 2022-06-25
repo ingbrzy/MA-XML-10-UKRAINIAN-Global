@@ -220,6 +220,6 @@
         <item quantity="other">%d не синхронізовано</item>
         <item quantity="one">%d не синхронізовано</item>
         <item quantity="few">%d не синхронізовано</item>
-        <item quantity="many">%d not synced</item>
+        <item quantity="many">%d не синхронізовано</item>
     </plurals>
 </resources>

@@ -62,7 +62,7 @@
     </plurals>
     <plurals name="anonymous_resource_count_font">
         <item quantity="other">%1$d шрифтів</item>
-        <item quantity="one">%1$d font</item>
+        <item quantity="one">%1$d шрифт</item>
         <item quantity="few">%1$d шрифтів</item>
         <item quantity="many">%1$d шрифтів</item>
     </plurals>

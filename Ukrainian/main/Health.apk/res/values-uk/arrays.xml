@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="HomePageTabTitle">
-        <item>Здоров\'я</item>
+        <item>"Здоров'я"</item>
         <item>Тренування</item>
     </string-array>
     <string-array name="ShareTabTitle">
         <item>Зображення</item>
-        <item>Рейс</item>
-        <item>Картка</item>
+        <item>Маршрут</item>
+        <item>Мапа</item>
     </string-array>
     <string-array name="SportTabTitle">
         <item>Біг</item>
         <item>Ходьба</item>
         <item>Велосипед</item>
-        <item>Скакалка</item>
+        <item>Бігова доріжка</item>
         <item>Тренування</item>
     </string-array>
     <string-array name="alphabet_table">
@@ -23,38 +23,11 @@
         <item>Г</item>
         <item>Д</item>
         <item>Е</item>
+        <item>Ё</item>
         <item>Ж</item>
         <item>З</item>
         <item>И</item>
-        <item>К</item>
-        <item>Л</item>
-        <item>М</item>
-        <item>Н</item>
-        <item>О</item>
-        <item>П</item>
-        <item>Р</item>
-        <item>С</item>
-        <item>Т</item>
-        <item>У</item>
-        <item>Ф</item>
-        <item>Х</item>
-        <item>Ц</item>
-        <item>Ч</item>
-        <item>Ш</item>
-        <item>Э</item>
-        <item>Ю</item>
-        <item>Я</item>
-    </string-array>
-    <string-array name="alphabet_table_with_starred">
-        <item>А</item>
-        <item>Б</item>
-        <item>В</item>
-        <item>Г</item>
-        <item>Д</item>
-        <item>Е</item>
-        <item>Ж</item>
-        <item>З</item>
-        <item>И</item>
+        <item>Й</item>
         <item>К</item>
         <item>Л</item>
         <item>М</item>
@@ -71,116 +44,204 @@
         <item>Ч</item>
         <item>Ш</item>
         <item>Щ</item>
+        <item>Ъ</item>
+        <item>Ы</item>
+        <item>Ь</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ё</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>Й</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Ъ</item>
+        <item>Ы</item>
+        <item>Ь</item>
         <item>Э</item>
         <item>Ю</item>
         <item>Я</item>
     </string-array>
     <string-array name="arr_prompt_label">
-        <item>Прийнятно</item>
+        <item>Достатньо</item>
         <item>Довго</item>
-        <item>Занадто довго</item>
+        <item>Дуже довго</item>
     </string-array>
     <string-array name="arr_sedentary_reminder">
-        <item>Прийшов час активності!</item>
-        <item>Дізнатися більше</item>
-        <item>Випийте келих води та пройдіться.</item>
-        <item>Дізнатися більше</item>
-        <item>Підніміться по сходах</item>
-        <item>Дізнатися більше</item>
-        <item>"Не сидіть занадто довго на одному місці"</item>
-        <item>Дізнатися більше</item>
+        <item>"Час розім'ятися!"</item>
+        <item>Докладніше</item>
+        <item>Випийте води та пройдіться.</item>
+        <item>Докладніше</item>
+        <item>Підніміться по драбині</item>
+        <item>Докладніше</item>
+        <item>Не сидіть дуже долго</item>
+        <item>Докладніше</item>
     </string-array>
     <string-array name="arr_time_label">
         <item>1 година</item>
         <item>2 години</item>
     </string-array>
+    <string-array name="blood_types">
+        <item>A(II)</item>
+        <item>B(III)</item>
+        <item>AB(IV)</item>
+        <item>O(I)</item>
+        <item>A(II) Rh-</item>
+        <item>A(II) Rh+</item>
+        <item>B(III) Rh-</item>
+        <item>B(III) Rh+</item>
+        <item>AB(IV) Rh-</item>
+        <item>AB(IV) Rh+</item>
+        <item>O(I) Rh-</item>
+        <item>O(I) Rh+</item>
+    </string-array>
     <string-array name="contact_relation_array">
-        <item>Не задано</item>
-        <item>Батьківський елемент</item>
+        <item>Не вказано</item>
+        <item>Батьки</item>
         <item>Сестра</item>
         <item>Брат</item>
-        <item>Чоловік/дружина</item>
-        <item>Партнер</item>
+        <item>Чоловік</item>
+        <item>Партнер(ша)</item>
         <item>Друг</item>
         <item>Колега</item>
         <item>Однокласник</item>
     </string-array>
     <string-array name="energy_unit">
-        <item>" ккал"</item>
-        <item>" кДж"</item>
+        <item>ккал</item>
+        <item>кДж</item>
     </string-array>
     <string-array name="gender_array">
-        <item>Не задано</item>
-        <item>Чоловік</item>
-        <item>Жінка</item>
+        <item>Не вказана</item>
+        <item>Чоловіча</item>
+        <item>Жіноча</item>
     </string-array>
     <string-array name="length_unit">
-        <item>" см"</item>
-        <item>" м"</item>
-        <item>" км"</item>
+        <item>см</item>
+        <item>м</item>
+        <item>км</item>
     </string-array>
     <string-array name="normal_blood_array">
-        <item>Не задано</item>
-        <item>A</item>
-        <item>B</item>
-        <item>AB</item>
-        <item>O</item>
+        <item>Не вказана</item>
+        <item>A(II)</item>
+        <item>B(III)</item>
+        <item>AB(IV)</item>
+        <item>O(I)</item>
     </string-array>
     <string-array name="pager_titles">
         <item>День</item>
         <item>Тиждень</item>
-        <item>Місяць</item>
+        <item>Місяц</item>
+    </string-array>
+    <string-array name="references">
+        <item>Санітарний промисловий стандарт Китайської Народної Республіки WS/T 476-2015 Термінологія харчування</item>
+        <item>"Іто Х, Осіма А, Ото Н, Огасавара М, Цузукі М, Такао К, Хіджі С, Танака Х, Нішіока К. Зв'язок між складом тіла та віком у здорових японців. Eur J Clin Nutr. 55(6):462-70, 2001"</item>
+        <item>Лі Р. Д. і Німан DC. Оцінка харчування (друге видання), с.264</item>
+        <item>Ломан Т.Г. Розширена оцінка складу тіла - Актуальні проблеми в серії вправ. Champaign-IL: Human Kinetics. С. 80. 1992</item>
+        <item>"Mahan LK та Escott-stump S. Krause's Food, nutrition &amp; дієтотерапія 9 видання. WB Saunders Co., с. 455"</item>
+        <item>"Неврологія 9-те видання Розділ 22 Розлади сну Видавництво Здоров'я людей"</item>
+        <item>"Фізіологія 9-те видання Розділ 10 Функції нервової системи Видавництво Здоров'я людей"</item>
+        <item>"Медицина сну: теорія та практика 4-те видання Розділ 1 Нормальний сон та варіації сну Видавництво Здоров'я людей"</item>
+        <item>Рекомендації щодо харчування для жителів Китаю 2016 - Перша частина Рекомендацій щодо харчування населення в цілому, відредагованих Китайським товариством харчування</item>
+        <item>Розширена оцінка фізичної підготовки та призначення вправ. Хейворд В.Х. Кінетика людини. С. 162</item>
+        <item>Американський коледж спортивної медицини. Інструкції ACSM щодо рецепту на фізичні вправи[M]. Волтерс Клювер/Ліппінкотт Вільямс &amp; Wilkins Health, 2014.</item>
+        <item>Брей Г.А. Сучасна діагностика та лікування ожиріння. С.13, 1998</item>
+        <item>Браун JE. Nutrition Now 2-е видання. Видавнича компанія Wadsworth. стор 9-3. 1999 рік</item>
+        <item>Brozek J. Grande F, Anderson JT, Keys A. Денситометричний аналіз складу тіла: перегляд деяких кількісних припущень. Ann N Y Acad Sci. 1963 26 вересня; 110:113-40</item>
+        <item>"Heymsfield SB, Smith R, Aulet M, Bensen B, Lichtman S, Wang J, Pierson RN Jr. Маса апендикулярних скелетних м'язів: вимірювання за допомогою двофотонної абсорбціометрії. Am J Clin Nutr. 52(2):214-8, 1990"</item>
+        <item>"Поллок, Майкл Л., Гассер, Гленн А., М'ясник, Янус Д., Позиційна стійка ACSM: рекомендована кількість і якість вправ для розвитку та підтримки кардіореспіраторної та мязової працездатності та гнучкості у здорових дорослих [J]. Медицина &amp; Наука, в області спорту &amp; Вправа, 30(6):975-991."</item>
+        <item>Тахара Ю., Модзі К., Аоягі К., Цунаваке Н., Муракі С., Массі-Тейлор К.Г. Вікова модель щільності тіла та складу тіла японських чоловіків і жінок 18-59 років. Am J Hum Biol. 14(6):743-52, 2002</item>
+        <item>"Wang ZM, Pierson RN Jr, Heymsfield SB П'ятирівнева модель: новий підхід до організації дослідження складу тіла Am J Clin Nutr., 1992, липень;56(1):19-28."</item>
+        <item>Рекомендації ВООЗ щодо BМТ</item>
+        <item>Словник з педіатрії. Пекінська науково-технічна преса. 2003</item>
+        <item>"Короткий виклад клінічної медицини 2-ге видання Розділ 2 Медичний огляд Видавництво Здоров'я людей"</item>
+        <item>Су Лян, Лу Чжен. Інтерпретація китайських рекомендацій 2017 року щодо діагностики та лікування безсоння [J]. Світові клінічні препарати, 2018, 39(4).</item>
+        <item>"Підручник Міністерства охорони здоров'я ”Дванадцятий п'ятирічний план [Діагностика] 8-ме видання Розділ 3"</item>
+        <item>"Харчування та гігієна харчових продуктів (Восьме видання) Розділ 1 Частина 5 Головний редактор Видавництва Народної охорони здоров'я Сунь Чанхао"</item>
+        <item>Китайський Експертний комітет зі складання Консенсусу з медичного харчування та лікування надмірної ваги та ожиріння. Консенсус експертів з харчування та лікування надмірної ваги/ожиріння в Китаї (видання 2016 року) [J].</item>
+        <item>Китайські керівні принципи з профілактики та лікування гіпертонії - Переглянуте видання у 2005 році Китайські Керівні принципи з профілактики та лікування гіпертонії Переглянуте видання у 2010 році</item>
+        <item>Санітарний промисловий стандарт Китайської Народної Республіки WS/T 476-2015 Термінологія харчування</item>
+        <item>Amato M C, Giordano C, Galia M, et al. Visceral Adiposity Index[J]. 2010, 33(4):920-922.</item>
+        <item>Чжан Чженьлінь. Діагностика остеопорозу та інтерпретація звіту про дослідження щільності кісткової тканини [J]. Китайська загальна медицина, 2010, 13(2):117-117.</item>
+        <item>"Дякую. Акушерство та гінекологія (9-е видання) [М].Пекін: Видавництво Народної охорони здоров'я 2018."</item>
+        <item>У вікно постукав дощ. Чи дійсно безпечний період безпеки [J]. одужувати, 2013(1):16-16.</item>
+        <item>"Сяо Вей, Адан. Чи безпечна контрацепція протягом безпечного періоду? Обов'язкове читання для здоров'я, 2002(4)."</item>
+        <item>2018 Консультативний комітет з рекомендацій щодо фізичної активності подає науковий звіт</item>
     </string-array>
     <string-array name="repeat_mode_mild_abnormal_array">
-        <item>Mon, Wed, Fri</item>
-        <item>Вт</item>
-        <item>Середньовіччя, п\'ят, сонце</item>
+        <item>Пн, Ср, Пт</item>
+        <item>Вт, Чт, Сб</item>
+        <item>Ср, Пт, Вс</item>
     </string-array>
     <string-array name="repeat_mode_week_array">
-        <item>Кожен понеділок</item>
-        <item>Кожен вівторок</item>
-        <item>Кожна середа</item>
-        <item>Щочетверга</item>
-        <item>Кожна п\'ятниця</item>
-        <item>Щосуботи</item>
+        <item>Кожен Понеділок</item>
+        <item>Кажен Вівторок</item>
+        <item>Кожну Середу</item>
+        <item>Кожен Четвер</item>
+        <item>"Кожну П'ятницю"</item>
+        <item>Кожну Суботу</item>
         <item>Щонеділі</item>
     </string-array>
     <string-array name="rh_blood_array">
-        <item>Не задано</item>
-        <item>Негатив</item>
-        <item>Позитивне</item>
+        <item>Не вказано</item>
+        <item>Отрицательный</item>
+        <item>Положительный</item>
     </string-array>
     <string-array name="run_in_background_state">
-        <item>Жодних обмежень</item>
-        <item>Обмежити активність у фоні</item>
-        <item>Зупинити через 10 хвилин</item>
+        <item>Без обмежень</item>
+        <item>Обмежити фонову активність</item>
+        <item>Закрити через 10 хвилин</item>
         <item>Ніколи</item>
     </string-array>
     <string-array name="speed_unit">
-        <item>" км/г"</item>
-        <item>" м/с"</item>
+        <item>км/ч</item>
+        <item>м/с</item>
     </string-array>
     <string-array name="stand_guide_page_content1">
-        <item>"Сидячи, не приносить користі вашому здоров'ю. Навіть якщо ви не можете зменшити час, який ви проводите і встати кожний раз в деякий час - хороша ідея."</item>
-        <item>Ця функція нагадає вам провести принаймні одну хвилину кожної години. 12 годин з режиму очікування кожен день допоможе вам уникнути ризику сидячого способу життя.</item>
-        <item>Торкніться кнопки \"Продовжити\", щоб дізнатися більше та ввімкнути цю функцію.</item>
+        <item>"Сидячий спосіб життя викликає багато проблем зі здоров'ям. Якщо загальна тривалість часу сидячи не може бути зменшена, періодична активність може покращити ситуацію."</item>
+        <item>Xiaomi Health буде нагадувати про необхідність активності принаймні на 1 хвилину під час для досягнення щоденної мети, щоб уникнути проблем сидячого життя.</item>
+        <item>Натисніть кнопку \"Продовжитищоб увімкнути функцію.</item>
     </string-array>
     <string-array name="stand_guide_page_content2">
-        <item>Здоров\'я Xiaomi може виявити і записати, коли встаєте. Ви також можете отримувати нагадування, щоб вставати після 1 години бездіяльності.</item>
-        <item>Ця функція відстежує ваш рух і надсилає нагадування на основі результатів.</item>
+        <item>Xiaomi Health може відстежувати та записувати вашу активність. Якщо протягом години не буде зафіксовано жодної активності, буде надіслано нагадування про розминку:</item>
+        <item>Ця функція відстежує вашу активність і надсилає нагадування на основі результатів.</item>
     </string-array>
     <string-array name="temperature_unit">
         <item>℃</item>
         <item>°F</item>
     </string-array>
     <string-array name="week">
-        <item>Sunday</item>
-        <item>Monday</item>
-        <item>Tuesday</item>
-        <item>Wednesday</item>
+        <item>Неділя</item>
+        <item>Понеділок</item>
+        <item>Вівторок</item>
+        <item>Середа</item>
         <item>Четвер</item>
-        <item>Friday</item>
-        <item>Saturday</item>
+        <item>"П'ятниця"</item>
+        <item>Субота</item>
     </string-array>
     <string-array name="week_label">
         <item>Нд</item>
@@ -192,24 +253,24 @@
         <item>Сб</item>
     </string-array>
     <string-array name="week_short">
-        <item>Sun</item>
-        <item>Mon</item>
-        <item>Tue</item>
-        <item>Wed</item>
-        <item>Thu</item>
-        <item>Fri</item>
-        <item>Sat</item>
+        <item>Нд</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
     </string-array>
     <string-array name="weight_unit">
-        <item>" г"</item>
-        <item>" кг"</item>
-        <item>" т"</item>
-        <item>" liang"</item>
-        <item>" jin"</item>
-        <item>" lb"</item>
+        <item> г</item>
+        <item> кг</item>
+        <item> т</item>
+        <item> лян</item>
+        <item> цзінь</item>
+        <item> фунт</item>
     </string-array>
     <string-array name="yes_no_array">
-        <item>Не задано</item>
+        <item>Не вказано</item>
         <item>Так</item>
         <item>Ні</item>
     </string-array>

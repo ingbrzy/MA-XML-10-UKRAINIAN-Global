@@ -196,6 +196,6 @@
         <item quantity="other"> | %1$s людей</item>
         <item quantity="one"> | %1$s людина</item>
         <item quantity="few"> | %1$s людини</item>
-        <item quantity="many"> | %1$s people</item>
+        <item quantity="many"> | %1$s людей</item>
     </plurals>
 </resources>

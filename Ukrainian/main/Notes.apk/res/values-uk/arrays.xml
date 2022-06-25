@@ -77,10 +77,14 @@
         <item>Камера</item>
         <item>Галерея</item>
     </string-array>
+    <string-array name="big_screen_layouts">
+        <item>@string/setting_big_screen_layout_flat</item>
+        <item>@string/setting_big_screen_layout_columns</item>
+    </string-array>
     <string-array name="common_folder_operations">
-        <item>新建</item>
-        <item>重命名</item>
-        <item>删除</item>
+        <item>Новий</item>
+        <item>Подвійне іменування</item>
+        <item>Видалити</item>
     </string-array>
     <string-array name="contact_entries">
         <item>Ім’я</item>
@@ -128,6 +132,6 @@
         <item>Тепер ви можете створювати голосові нотатки. Натисніть на значок, запишіть свій голос та прикріпіть аудіофайл до нотатки.</item>
     </string-array>
     <string-array name="system_folder_operations">
-        <item>新建</item>
+        <item>Новий</item>
     </string-array>
 </resources>

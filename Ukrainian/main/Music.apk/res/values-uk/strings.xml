@@ -40,41 +40,8 @@
     <string name="abc_shareactionprovider_share_with">Поділитися:</string>
     <string name="abc_shareactionprovider_share_with_application">Поділитися через додаток %s</string>
     <string name="abc_toolbar_collapse_description">Згорнути</string>
-    <string name="access_denied_info">Забагато спроб. Зачекайте хвилинку або дві та повторіть спробу.</string>
     <string name="account_and_cloud">Акаунт</string>
-    <string name="account_bind_secure_email_title">Додати ел.пошту для відновлення</string>
-    <string name="account_bind_secure_phone_title">Додати номер телефону для відновлення</string>
-    <string name="account_crop_user_avatar">Обрізати фото</string>
-    <string name="account_empty_user_name">"Введіть ім'я користувача Mi акаунту"</string>
-    <string name="account_error_all_space_user_name">"Ім'я користувача не може містити тільки пробіли"</string>
-    <string name="account_error_invalid_user_name">"Ім'я не може містити &lt;, > або /"</string>
-    <string name="account_error_longer_user_name">"Ім'я має містити більше ніж 20 літери"</string>
-    <string name="account_error_shorter_user_name">"Ім''я має містити більш ніж 2 літери"</string>
-    <string name="account_error_user_birthday">Дата народження неправильна</string>
-    <string name="account_error_user_name">Цей нік недійсний, спробуйте інший.</string>
-    <string name="account_invalid_user_avatar">Недійсне фото. Спробуйте інше.</string>
-    <string name="account_limit_update_birthday">Не вдається змінити дату народження</string>
     <string name="account_logout">Вийти</string>
-    <string name="account_no_set">Немає</string>
-    <string name="account_none_bind_info">Немає</string>
-    <string name="account_none_user_name">Немає</string>
-    <string name="account_secure_info_pref_title">Інформація про акаунт</string>
-    <string name="account_security_info_pref_title">Дані безпеки</string>
-    <string name="account_user_avatar">Фото профілю</string>
-    <string name="account_user_avatar_from_album">Галерея</string>
-    <string name="account_user_avatar_from_camera">Камера</string>
-    <string name="account_user_base_info">Основна інформація</string>
-    <string name="account_user_birthday">День народження</string>
-    <string name="account_user_details">Особиста інформація</string>
-    <string name="account_user_email">Ел.пошта для відновлення</string>
-    <string name="account_user_gender">Стать</string>
-    <string name="account_user_id">ID Mi акаунту</string>
-    <string name="account_user_name">Нік</string>
-    <string name="account_user_name_dialog_title">"Введіть ім'я користувача"</string>
-    <string name="account_user_other_info">Інформація</string>
-    <string name="account_user_phone">Телефон для відновлення</string>
-    <string name="account_user_region">Регіон</string>
-    <string name="action_add_phone">Додати номер телефону</string>
     <string name="action_item_add">Добавити в</string>
     <string name="action_item_add_song">Додати у плейлист</string>
     <string name="action_item_add_to_current_playlist">Поточний плейлист</string>
@@ -92,10 +59,7 @@
     <string name="action_item_remove_from_favorite">Видалено з обраного</string>
     <string name="action_item_share">Поділитися</string>
     <string name="action_settings">Налаштування</string>
-    <string name="action_update_phone">Змінити номер телефону</string>
     <string name="actionbar_button_up_description">Назад</string>
-    <string name="activate_email_notice">Переконайтеся, що ви активували свій акаунт впродовж 24 годин</string>
-    <string name="activity_not_found_notice">Не вдається знайти програму</string>
     <string name="ad_close">Закрити</string>
     <string name="ad_data_exception">Помилка даних реклами</string>
     <string name="ad_recommend">Показувати рекламу</string>
@@ -105,7 +69,6 @@
     <string name="add_to_last_of_playlist">Додати в кінець плейлиста</string>
     <string name="add_to_playlist">Додати до черги</string>
     <string name="add_to_playlist_successful">Додано успішно</string>
-    <string name="add_to_trust_device">Це перевірений пристрій</string>
     <string name="added_next_play">Додано до списку</string>
     <string name="afternoon">Після обіду</string>
     <string name="agreement_desc">"Угода користувача (обов'язково)"</string>
@@ -157,7 +120,6 @@
     <string name="audio_ad_countdown">Пропустити рекламу через %s сек</string>
     <string name="audio_ad_pass">Пропустити рекламу</string>
     <string name="audio_picker_title">Виберіть пісню</string>
-    <string name="auth_fail_warning">Час сесії закінчився. Увійдіть ще раз.</string>
     <string name="auto_recommend">Авто (рекомендовано)</string>
     <string name="auto_sound_quality">Авто</string>
     <string name="auto_update">Оновлювати автоматично</string>
@@ -169,8 +131,6 @@
     <string name="avoid_to_use_traffic_title">Запитувати при використанні мобільного інтернету для відтворення пісень</string>
     <string name="back">Назад</string>
     <string name="back_confirm">Натисніть знову, щоб згорнути програму</string>
-    <string name="best_experience">Найкращий досвід</string>
-    <string name="bind_sign_in_title">Додати Mi акаунт</string>
     <string name="bluetooth_device">Пристрій Bluetooth</string>
     <string name="bottomsheet_action_expand_halfway">Розгорнути нижню половину</string>
     <string name="btn_text_edit">Змінити</string>
@@ -186,26 +146,20 @@
     <string name="cancel">Скасувати</string>
     <string name="cancel_running_download">Скасувати</string>
     <string name="cannot_download_to_sdcard_hint">"Неможливо завантажити об'єкти на SD-карту через обмеження інтелектуальних прав. Об'єкти будуть завантажені до внутрішнього сховища."</string>
-    <string name="change_activate_email">Змінити адресу ел. пошти</string>
     <string name="change_download_quality">Змінити якість завантаження</string>
-    <string name="change_password">Змінити пароль</string>
     <string name="character_counter_content_description">Введено символів: %1$d з %2$d</string>
     <string name="character_counter_overflowed_content_description">Перевищено ліміт символів: %1$d з %2$d</string>
     <string name="checking_new_version">Перевірка оновлень…</string>
     <string name="choose_download_quality">Виберіть якість завантаження</string>
     <string name="choose_music_lang_pref">Вибрати потрібну мову пісень</string>
     <string name="choose_stream_quality">Виберіть якість музики</string>
-    <string name="choose_to_signin">Так</string>
-    <string name="choose_to_signup">Ні, я сворю свій</string>
     <string name="clear_text_end_icon_content_description">Видалити текст</string>
     <string name="clearable_edittext_clear_description">Очистити</string>
     <string name="click_and_watch_video_tip">Натисніть для відтворення кліпу</string>
     <string name="click_to_add_album_cover_and_lyric">Натисніть, щоб додати обкладинку або текст пісні</string>
     <string name="click_to_shuffle">Натисніть, щоб перемішати</string>
     <string name="close">Закрити</string>
-    <string name="close_country_code_content_description">Видалити код країни</string>
     <string name="close_music_time">"Таймер: "</string>
-    <string name="collect_diagnosis_log">Збирати журнали</string>
     <string name="columbus_ad_flag_text">Реклама</string>
     <string name="columbus_skip_ad">Пропустити</string>
     <string name="comment_format" formatted="false">%s: %s</string>
@@ -228,11 +182,7 @@
     <string name="common_signin_button_text">Увійти</string>
     <string name="common_signin_button_text_long">Увійти в облік. запис Google</string>
     <string name="confirm">OK</string>
-    <string name="confirm_activate_email">Перевірено</string>
-    <string name="confirm_bundled_phone_dialog_title">"Підтвердіть прив'язаний номер телефону"</string>
     <string name="confirm_exit">Зберегти зміни?</string>
-    <string name="confirm_new_pwd">Підтвердіть новий пароль</string>
-    <string name="confirm_unbundled_phone_dialog_message">"Цей телефонний номер був прив'язано до Mi акаунту %2$s у %1$s. Він більше не буде прив'язаний до Mi акаунту %3$s, якщо ви продовжите. Продовжити?"</string>
     <string name="connect_now">Підключитися</string>
     <string name="connecting_apk">Підключення…</string>
     <string name="copy">Скопіювати</string>
@@ -272,10 +222,6 @@
     <string name="desktop_lyric_textsize">Текст</string>
     <string name="device_connected">Підключено</string>
     <string name="device_not_connected">Не підключено</string>
-    <string name="diagnosis_log_send_failed">Не вдалося відправити журнали, спробуйте пізніше.</string>
-    <string name="diagnosis_log_sent_format">"Журнали відправлено успішно.
-ID:%s
-Відправте цей код менеджеру."</string>
     <string name="dialog_cannot_resume">Завантаження перервано. Воно не може бути відновлено.</string>
     <string name="dialog_clear_history">Очистити список нещодавно відтворених пісень?</string>
     <string name="dialog_confirm_delete_checkbox_message">Видалити також завантажені файли</string>
@@ -327,9 +273,6 @@ ID:%s
     <string name="discover_more_music">Знайти більше пісень</string>
     <string name="do_not_remind_this_version">Не нагадувати про цю версію</string>
     <string name="do_not_support_google_voice_search">Google Voice Search не підтримується на вашому пристрої.</string>
-    <string name="doing_login">Авторизація…</string>
-    <string name="doing_query_account">Перевірка інформації акаунту…</string>
-    <string name="doing_register">Створення акаунту…</string>
     <string name="download">Завантажити</string>
     <string name="download_added_to_list">Додано до списку завантажень</string>
     <string name="download_apk_desktop_installing">Встановлення</string>
@@ -358,7 +301,6 @@ ID:%s
     <string name="download_error_insufficient_space">"Бракує пам'яті"</string>
     <string name="download_fail_to_fetch_info">Не вдалося завантажити, повторіть спробу</string>
     <string name="download_filesize_unknown">Невідомий</string>
-    <string name="download_free">Завантажуйте музику</string>
     <string name="download_in_process">ЗАВАНТАЖЕННЯ</string>
     <string name="download_info_start_deleted_tasks">Відновити завантаження</string>
     <string name="download_manage">Завантаження</string>
@@ -366,7 +308,9 @@ ID:%s
     <string name="download_method">Завантаження</string>
     <string name="download_no_application_title">Не вдається відкрити файл</string>
     <string name="download_paused_in_power_save_mode">Завантаження будуть призупинені, коли увімкнена економія заряду батареї</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">Завантаження…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">Якість завантаження</string>
     <string name="download_quality_summary">Додаткові налаштування для завантажених пісень</string>
     <string name="download_queued">В черзі</string>
@@ -398,7 +342,6 @@ ID:%s
     <string name="download_while_playing_no_vip_summary">Автоматичне завантаження пісень при прослуховуванні музики онлайн (крім платних)</string>
     <string name="download_while_playing_summary">Автоматичне завантаження пісень при прослуховуванні онлайн музики</string>
     <string name="download_while_playing_title">Завантаження при прослуховуванні</string>
-    <string name="downloaded">Завантажено</string>
     <string name="downloaded_empty">Порожньо</string>
     <string name="downloading_apk">Завантаження… Переглядайте прогрес у Панелі сповіщень.</string>
     <string name="downloading_empty">Порожньо</string>
@@ -432,12 +375,9 @@ ID:%s
     <string name="equalizer">Еквалайзер</string>
     <string name="eras_ad">н. е.</string>
     <string name="eras_bc">до н. е.</string>
-    <string name="error_dup_binded_email">"Ця адреса електронної пошти вже прив'язана до іншого Mi акаунту."</string>
     <string name="error_icon_content_description">Помилка</string>
-    <string name="error_invalid_bind_address">Неправильна адреса електронної пошти.</string>
     <string name="error_not_support">Не підтримується</string>
     <string name="evening">Після обіду</string>
-    <string name="exceed_binded_phone_times_notice">"Цей номер телефону вже прив'язаний до іншого Mi акаунту."</string>
     <string name="exo_controls_fastforward_description">Перемотати вперед</string>
     <string name="exo_controls_fullscreen_description">Повноекранний режим</string>
     <string name="exo_controls_hide">Сховати елементи керування програвачем</string>
@@ -464,7 +404,9 @@ ID:%s
     <string name="exo_media_action_repeat_all_description">Повторити всі</string>
     <string name="exo_media_action_repeat_off_description">Не повторювати</string>
     <string name="exo_media_action_repeat_one_description">Повторити 1</string>
+    <string name="exo_track_bitrate">%1$.2f Мбіт/с</string>
     <string name="exo_track_mono">Моно</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Альтернативна</string>
     <string name="exo_track_role_closed_captions">Субтитри</string>
     <string name="exo_track_role_commentary">Коментарі</string>
@@ -482,11 +424,9 @@ ID:%s
     <string name="expand_button_title">Додатково</string>
     <string name="expired">Термін дії закінчився</string>
     <string name="exposed_dropdown_menu_content_description">Показати спадне меню</string>
-    <string name="facebook_login_btn_content_description">Увійти через акаунт Facebook</string>
     <string name="facebook_not_installed">Спочатку встановіть Facebook.</string>
     <string name="fail_to_fetch_payment_page_url">Не вдалося отримати платіжну інформацію</string>
     <string name="fail_to_play">Не вдається відтворити пісню</string>
-    <string name="failed_dup_secure_phone_number">"Цей номер телефону вже прив'язаний до іншого Mi акаунту"</string>
     <string name="failed_not_access_sd_card">Спочатку надайте доступ до SD-карти</string>
     <string name="failed_obtain_permissions">Не вдалося отримати дозволи</string>
     <string name="failed_to_connect_hint">Перевірте налаштування мережі та повторіть спробу</string>
@@ -517,8 +457,6 @@ ID:%s
     <string name="filter_by_size_prefix">"Приховувати файли менші за "</string>
     <string name="filter_by_size_summary">Приховувати малі файли</string>
     <string name="filter_size_unit">%dкБ</string>
-    <string name="find_psw">Забули пароль?</string>
-    <string name="find_you_tunes">Знайдіть свою мелодію!</string>
     <string name="floating_view_dialog_desc">Музика припинить відтворення після того, як ви зе цю сторінку. Залишити все одно?</string>
     <string name="floating_view_dialog_leave">Покинути сторінку</string>
     <string name="floating_view_dialog_stay">Залишитися</string>
@@ -577,37 +515,24 @@ ID:%s
     <string name="fmt_weekday_timezone">W z</string>
     <string name="follow">Слідкувати</string>
     <string name="followed">Підписаний</string>
-    <string name="for_diagnosis_usage_only">Журнали використовується тільки для діагностики.</string>
     <string name="format_not_support">Тип файлу не підтримується.</string>
     <string name="format_unsupported_or_corrupted">Формат не підтримується, або файл пошкоджений</string>
     <string name="fragment_title_artist_album">Альбоми</string>
-    <string name="free">Безкоштовно</string>
     <string name="friday">"П'ятниця"</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
     <string name="gcm_fallback_notification_channel_label">Інше</string>
-    <string name="get_back_pwd">Скидання пароля</string>
     <string name="get_more_favorite_content_after_login">Увійдіть для пошуку музики та відео.</string>
-    <string name="get_one_day_vip">Ви отримали %d-денний VIP!</string>
-    <string name="get_one_hour_vip">Ви отримали %d-годинний VIP!</string>
-    <string name="get_ph_ticket">Отримати код</string>
-    <string name="get_phone_bind_exceed_limit">"До одного номера телефону ви можете прив'язати до 3-х Мі акаунтів. Неможливо додати нові акаунти."</string>
-    <string name="get_phone_verifycode_exceed_limit">На цей номер було відправлено забагато кодів підтвердження. Зачекайте 24 години та повторіть спробу.</string>
-    <string name="get_vip">Отримати VIP</string>
     <string name="google_account_login">Увійти через акаунт Google</string>
-    <string name="google_login_btn_content_description">Увійти через акаунт Google</string>
     <string name="goto_local_search">Пошук на пристрої</string>
     <string name="goto_online_search">Пошук в інтернеті</string>
-    <string name="goto_sign_up">Створити акаунт</string>
     <string name="handle_later">Не зараз</string>
     <string name="hd_quality_audio">Звук у якості HD</string>
-    <string name="header_help">Довідка</string>
     <string name="headset_and_audio_effect_category">Навушники та звукові ефекти</string>
     <string name="headset_and_audio_effect_summary">Навушники та еквалайзер</string>
     <string name="headset_and_audio_effect_title">Навушники та звукові ефекти</string>
     <string name="hide_album">Приховати обкладинку</string>
     <string name="hide_lyric">Приховати текст</string>
-    <string name="hifi_quality">Якість Hi-Fi</string>
     <string name="high_sound_quality">Високе</string>
     <string name="higher_quality_music">Якісна музика</string>
     <string name="higher_quality_music_summary">Завантаження музики високої якості</string>
@@ -632,8 +557,6 @@ ID:%s
     <string name="hungama_subscribe_title">Членство PRO</string>
     <string name="i_know">OK</string>
     <string name="icon_content_description">Значок вікна</string>
-    <string name="identity">Ідентифікація</string>
-    <string name="imported">Імпортовано</string>
     <string name="impunity_declaration_content">Ви повинні прочитати та погодитися з &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=uk_UA\">Угодою користувача&lt;/a> та &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=uk_UA\">Політикою конфіденційності&lt;/a> перед використанням продукту.</string>
     <string name="impunity_declaration_ignore">Більше не показувати</string>
     <string name="impunity_declaration_negative_text">Вихід</string>
@@ -642,7 +565,6 @@ ID:%s
     <string name="impunity_declaration_summary">Показувати Умови користування кожного разу, коли програма Музика запускається</string>
     <string name="impunity_declaration_title">Попередження</string>
     <string name="in_searching_please_wait">Пошук…</string>
-    <string name="inconsistent_pwd">Паролі не збігаються</string>
     <string name="individuation_card_login_button">Увійти</string>
     <string name="individuation_card_login_message">Увійдіть для пошуку улюблених пісень</string>
     <string name="individuation_card_title">Для вас</string>
@@ -651,17 +573,13 @@ ID:%s
     <string name="individuation_recommend_title">Рекомендації</string>
     <string name="individuation_setting_summary">Отримуйте рекомендації, засновані на ваших інтересах</string>
     <string name="individuation_setting_title">Персональні рекомендації</string>
-    <string name="input_email_address_notice">Ми використаємо цю адресу електронної пошти, щоб перевірити ваш акаунт</string>
     <string name="input_hint_prefix">Введіть %1$s</string>
-    <string name="input_length_exceeds_limit">Текст занадто довгий</string>
-    <string name="input_new_pwd">Введіть новий пароль</string>
     <string name="installing_apk">Встановлення…</string>
     <string name="insufficient_space">"Недостатньо місця в пам'яті пристрою"</string>
     <string name="is_latest_version">Оновлень немає.</string>
     <string name="is_scanning">Перевірка накопичувача…</string>
     <string name="is_scanning_support_online">"Перевірка сховища…
 (Поки можна слухати музику онлайн)"</string>
-    <string name="isornot_your_mi_account">Це ваш Mi акаунт?</string>
     <string name="item_view_role_description">Вкладка</string>
     <string name="joox_account_bind_mi_account">Додати Мі акаунт</string>
     <string name="joox_account_cancel_login">Скасувати</string>
@@ -703,8 +621,6 @@ ID:%s
     <string name="joox_search_result_more">Ще</string>
     <string name="joox_vip_check_to_pay">Придбати</string>
     <string name="joox_vip_expired_hint">Термін дії вашої VIP-підписки закінчився. Музика, завантажена з JOOX, буде відображатися тыльки в завантаженнях.</string>
-    <string name="just_a_second">Хвилинку…</string>
-    <string name="just_hit_next">Просто натисніть \"Далі\"</string>
     <string name="keep_queued_download">Залишити</string>
     <string name="ktv_playlist">Плейлист KTV</string>
     <string name="language_page_confirm">Підтвердити</string>
@@ -714,10 +630,8 @@ ID:%s
     <string name="latest_song">Історія відтворень (%d)</string>
     <string name="like">Подобається</string>
     <string name="list_item_play_all_tracks">Відтворити все</string>
-    <string name="listen_anywhere">Слхайте де завгодно</string>
     <string name="load_shuffle">Завантаження…</string>
     <string name="loadercontainer_loading">Хвилинку…</string>
-    <string name="loading">Хвилинку…</string>
     <string name="loading_hint">Секунду…</string>
     <string name="loading_reached_the_bottom">На даний момент це все.</string>
     <string name="loading_text">Хвилинку…</string>
@@ -728,14 +642,8 @@ ID:%s
     <string name="local_page_artist_more">Більше пісень від %s</string>
     <string name="local_page_playlist">Плейлисти</string>
     <string name="local_page_song_download_history">Завантаження</string>
-    <string name="login_by_local_phone_long_text">Увійти зараз</string>
-    <string name="login_by_local_phone_short_text">Увійти</string>
     <string name="login_instantly">Увійти</string>
     <string name="login_mi_account_and_gain_more_rights">Увійдіть до Mi акаунту для доступу до інших функцій.</string>
-    <string name="login_other">Інший Мі акаунт</string>
-    <string name="login_register_by_local_phone_long_text">Створити акаунт</string>
-    <string name="login_with_sns">Інші способи авторизації</string>
-    <string name="logout_account">Вихід</string>
     <string name="long_press_to_select_lyric">Натисніть та утримуйте для вибору файла з текстом пісні</string>
     <string name="low_sound_quality">Низьке</string>
     <string name="lrc_search_failed">Текст пісні не знайдений</string>
@@ -777,7 +685,6 @@ ID:%s
     <string name="middle_sound_quality">Стандартне</string>
     <string name="midnight">Ніч</string>
     <string name="milink_unavaliable_please_update">Mi Link недоступний. Оновіть MIUI.</string>
-    <string name="millions_songs">Безліч пісень</string>
     <string name="missing_title">&lt;Безіменний></string>
     <string name="miuishare_account_login_ok">Увійти</string>
     <string name="miuishare_no_network">Не вдається підключитися до мережі.</string>
@@ -868,6 +775,7 @@ ID:%s
     <string name="mtrl_picker_a11y_next_month">Перейти до наступного місяця</string>
     <string name="mtrl_picker_a11y_prev_month">Перейти до попереднього місяця</string>
     <string name="mtrl_picker_announce_current_selection">Поточний вибір: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Виберіть дату</string>
     <string name="mtrl_picker_date_header_unselected">Вибрана дата</string>
@@ -914,16 +822,12 @@ ID:%s
     <string name="nav_app_bar_open_drawer_description">Відкрити панель навігації</string>
     <string name="network_disable">Не вдалося підключитися до мережі</string>
     <string name="network_error_and_retry">Не вдалося підключитися, натисніть, щоб повторити спробу</string>
-    <string name="network_error_info">Сталася помилка мережі. Підключіться до іншої мережі та повторіть спробу.</string>
     <string name="network_request_error">Не вдалося підключитися до мережі</string>
     <string name="network_settings_error">Не вдалося підключитися до мережі</string>
-    <string name="network_timeout_info">Не вдалося підключитися до мережі, повторіть спробу пізніше.</string>
     <string name="network_traffic">Трафік</string>
     <string name="next_time">Не зараз</string>
     <string name="next_to_play">Далі</string>
-    <string name="nick_name">Нік</string>
     <string name="night">Вечір</string>
-    <string name="no_account">Вхід не здійснено</string>
     <string name="no_album_info">Альбом невідомий</string>
     <string name="no_artist_info">Виконавець невідомий</string>
     <string name="no_downloads">Немає завантажень</string>
@@ -936,7 +840,6 @@ ID:%s
     <string name="no_local_source_find">Файл не знайдено</string>
     <string name="no_longer_prompt">Більше не показувати</string>
     <string name="no_lyrics">Немає тексту</string>
-    <string name="no_phone">Немає номера телефону</string>
     <string name="no_results_return">Немає результатів</string>
     <string name="no_scanned_songs">Порожньо</string>
     <string name="no_song_downloaded">Не вдалося знайти пісні для завантаження</string>
@@ -974,8 +877,6 @@ ID:%s
     <string name="offline_opt_in_message">Ми надішлемо сповіщення з посиланням на сайт рекламодавця.</string>
     <string name="offline_opt_in_title">Відкрийте оголошення, коли знову будете в мережі.</string>
     <string name="ok">ОК</string>
-    <string name="one_day_vip">%d-денний VIP</string>
-    <string name="one_hour_vip">%d-годинний VIP</string>
     <string name="online_apk_acquired">Завантажено %d%%</string>
     <string name="online_apk_acquiring">Завантаження… %d%%</string>
     <string name="online_apk_download_error_no_enough_space">"Не вдалося завантажити через недостатній обсяг вільної пам'яті."</string>
@@ -1010,100 +911,8 @@ ID:%s
     <string name="only_pro_can_choose_hd_sound_quality">HD-аудіо доступно тільки для PRO-користувачів</string>
     <string name="open_online_service">Вам необхідно увімкнути онлайн-послуги для використання цієї функції. Увімкнути зараз?</string>
     <string name="open_service">Увімкнути</string>
-    <string name="open_settings">Налаштування</string>
     <string name="operation_done_close">Закрити</string>
     <string name="other_song_in_album">Інші пісні з цього альбому</string>
-    <string name="party">Тусовка</string>
-    <string name="passport_access_denied">Доступ заборонений</string>
-    <string name="passport_account_label">Mi акаунт</string>
-    <string name="passport_account_name">"Акаунт: %1$s "</string>
-    <string name="passport_activate_token_expired">Термін дії коду закінчився, повторіть спробу.</string>
-    <string name="passport_area_code_title">Регіон коду</string>
-    <string name="passport_bad_authentication">"Неправильне ім'я користувача або пароль"</string>
-    <string name="passport_barcode_add_account_prompt">Щоб додати акаунт, відскануйте QR-код знову після авторизації.</string>
-    <string name="passport_can_not_receive_verification_code">Не вдалося сотримати код підтвердження?</string>
-    <string name="passport_captcha_title">Код з картинки</string>
-    <string name="passport_checking_account">Перевірка пароля…</string>
-    <string name="passport_close">Закрити</string>
-    <string name="passport_delete_account">Вихід</string>
-    <string name="passport_email">Адреса електронної пошти</string>
-    <string name="passport_empty_password">Пароль не може бути порожнім</string>
-    <string name="passport_empty_user_name">"Ім'я користувача не може бути порожнім"</string>
-    <string name="passport_error_auth_fail">Час сесії закінчився. Увійдіть ще раз.</string>
-    <string name="passport_error_device_id">Не вдалося отримати ID пристрою</string>
-    <string name="passport_error_email">Неправильна адреса ел. пошти</string>
-    <string name="passport_error_empty_captcha_code">Введіть код із зображення</string>
-    <string name="passport_error_empty_email">Введіть адресу електронної пошти</string>
-    <string name="passport_error_empty_phone_num">Введіть номер телефону</string>
-    <string name="passport_error_empty_pwd">Пароль не може бути порожнім</string>
-    <string name="passport_error_empty_vcode">Введіть код перевірки</string>
-    <string name="passport_error_empty_voice_code">Введіть код із зображення</string>
-    <string name="passport_error_illegal_pwd">Недійсний пароль</string>
-    <string name="passport_error_network">Неможливо підключитися до мережі</string>
-    <string name="passport_error_no_password_user">Ви ще не встановили пароль. Увійдіть через SMS.</string>
-    <string name="passport_error_phone_error">Недійсний номер телефону</string>
-    <string name="passport_error_server">Помилка сервера</string>
-    <string name="passport_error_unknown">Невідома помилка</string>
-    <string name="passport_error_user_agreement_error">Спочатку погодьтеся з усіма правилами та умовами</string>
-    <string name="passport_error_user_name">"Недійсне ім'я користувача"</string>
-    <string name="passport_forget_password"><u>Забули пароль</u></string>
-    <string name="passport_get_verify_code">Отримати код</string>
-    <string name="passport_getting_verify_code">Хвилинку…</string>
-    <string name="passport_identification_expired">Термін дії коду закінчився, почніть спочатку.</string>
-    <string name="passport_input_captcha_hint">Введіть код</string>
-    <string name="passport_input_password_hint">Введіть пароль</string>
-    <string name="passport_input_phone_hint">Введіть номер телефону</string>
-    <string name="passport_input_vcode_hint">Введіть код перевірки</string>
-    <string name="passport_input_voice_captcha_hint">Введіть голосовий код перевірки</string>
-    <string name="passport_input_voice_hint">Введіть голосовий код</string>
-    <string name="passport_international_phone_password_login_tip">(Якщо ви знаходитеся поза межами Китаю, то введіть ваш номер телефону у наступному форматі: +[Код країни][Номер телефону], наприклад, +91 817282982)</string>
-    <string name="passport_log_detail">Переглянути деталі</string>
-    <string name="passport_login_failed">Не вдалося увійти</string>
-    <string name="passport_next">Далі</string>
-    <string name="passport_next_step">Далі</string>
-    <string name="passport_password_req_notice">Пароль повинен містити принаймні від 8 до 16 символів і включати, як мінімум, два наступних символа: цифри, букви та спеціальні символи (наприклад, 123abc@# або 123abc або abc@#).</string>
-    <string name="passport_querying_phone_info">Запит на інформацію про акаунт…</string>
-    <string name="passport_quick_login_dialog_step2_title">Двоетапна авторизація</string>
-    <string name="passport_quick_login_dialog_title">Підтвердження пароля</string>
-    <string name="passport_quick_login_step2_title">Двоетапна авторизація</string>
-    <string name="passport_quick_login_title">Введіть пароль</string>
-    <string name="passport_re_get_verify_code">Отримати код ще раз</string>
-    <string name="passport_reging">Створення акаунту…</string>
-    <string name="passport_register_restricted">"З цим номером пов'язано занадто багато акаунтів, виберіть інший."</string>
-    <string name="passport_reload_ph_ticket">Надіслати знову</string>
-    <string name="passport_relogin_notice">Необхідно авторизуватися ще раз</string>
-    <string name="passport_send_too_many_code">На цей номер було відправлено забагато кодів підтвердження. Зачекайте 24 години та повторіть спробу.</string>
-    <string name="passport_send_too_many_sms">На цей номер було відправлено забагато кодів підтвердження. Зачекайте 24 години та повторіть спробу.</string>
-    <string name="passport_sending_vcode">Надсилання коду…</string>
-    <string name="passport_set_password">Встановити пароль</string>
-    <string name="passport_set_password_no_phone_msg">Додайте ваш номер телефону для захисту акаунту.</string>
-    <string name="passport_sign_in">Увійти</string>
-    <string name="passport_sign_in_or_sign_up">Увійти/Створити акаунт</string>
-    <string name="passport_sms_phone_intro">Надіслати код до %1$s</string>
-    <string name="passport_talkback_image_captcha">Захисний код із зображення</string>
-    <string name="passport_talkback_switch_image_captcha">Переключитися на захисний код із зображення</string>
-    <string name="passport_talkback_switch_voice_captcha">Переключитися на голосовий захисний код</string>
-    <string name="passport_talkback_voice_captcha">Голосовий захисний код</string>
-    <string name="passport_timeout_network_error">Час очікування сплинув</string>
-    <string name="passport_trust_device">Це перевірений пристрій</string>
-    <string name="passport_trying_read_verify_code_sms">Отримання коду підтвердження…</string>
-    <string name="passport_unknow_error">Невідома помилка</string>
-    <string name="passport_unknow_host_network_error">Перевірте налаштування мережі та повторіть спробу</string>
-    <string name="passport_unknow_network_error">Помилка підключення до мережі</string>
-    <string name="passport_user_agreement_link">&lt;Data>Я ознайомився(-лась) та приймаю &lt;a href=%1$s>Угоду користувача&lt;/a> та &lt;a href=%2$s>Політику конфіденційності Xiaomi&lt;/a>.&lt;/Data></string>
-    <string name="passport_user_agreement_link_more">&lt;Data>Я ознайомився(-лась) та приймаю &lt;a href=%1$s>Угоду користувача&lt;/a> та &lt;a href=%4$s>Політику конфіденційності Xiaomi&lt;/a>, &lt;a href=%2$s>%3$s&lt;/a>.&lt;/Data></string>
-    <string name="passport_user_id_intro">Введіть пароль для %1$s</string>
-    <string name="passport_v_code_error">Неправильний код підтвердження</string>
-    <string name="passport_vcode_notification_title">Перевірка авторизації не завершена</string>
-    <string name="passport_vcode_prompt_long">Введіть код перевірки</string>
-    <string name="passport_vcode_sms_send_prompt">Код відправлено до %s</string>
-    <string name="passport_verification_failed">Не вдалося підтвердити</string>
-    <string name="passport_verify">Перевірити</string>
-    <string name="passport_wechat_not_install">Спочатку встановіть WeChat</string>
-    <string name="passport_wrong_captcha">Неправильний код</string>
-    <string name="passport_wrong_phone_number_format">Неправильний формат номера телефону</string>
-    <string name="passport_wrong_vcode">Неправильний код</string>
-    <string name="passport_wrong_voice">Неправильний код</string>
     <string name="password_toggle_content_description">Показувати пароль</string>
     <string name="paused_by_app">Призупинено</string>
     <string name="paused_in_power_save_mode">Призупинити, коли увімкнено економію заряду батареї</string>
@@ -1122,11 +931,6 @@ ID:%s
     <string name="permission_declaration_title">Дозволити доступ</string>
     <string name="permission_open">Дозволити</string>
     <string name="permission_required">Необхідний дозвіл</string>
-    <string name="phone_bind_too_many">"Цей номер телефону був пов'язаний з декількома Mi акаунтами за короткий період часу. Спробуйте інший номер телефону."</string>
-    <string name="phone_hint">Номер телефону</string>
-    <string name="phone_num_use_for">Функції номера телефону:</string>
-    <string name="phone_number">Номер телефону</string>
-    <string name="photoPickerNotFoundText">Немає доступних фото.</string>
     <string name="pick_favorite_song">Обрані</string>
     <string name="pick_local_song">Пісні на пристрої</string>
     <string name="pick_recent_song">Нещодавно відтворені</string>
@@ -1165,6 +969,7 @@ ID:%s
     <string name="privacy_authorize_revoking">Відкликання авторизації…</string>
     <string name="privacy_desc">"Політика конфіденційності (обов'язково)"</string>
     <string name="privacy_policy">Політика конфіденційності</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=uk_UA</string>
     <string name="privacy_request_desc">"&lt;Data>Програмі Мі Музика потрібно здійснювати збір необхідної особистої інформації, щоб надавати вам онлайн-потокові сервіси. Ви можете докладніше дізнатися про те, як ми обробляємо інформацію у &lt;a href=\"%1$s\">Політиці конфіденційності&lt;/a>. Ви можете в будь-який час відкликати свою згоду з Політикою конфіденційності програми Мі Музика в Налаштуваннях.
 Перед початком використання програми Мі Музика, ознайомтеся і погодьтеся з нашими &lt;a href=\"%2$s\">Умовами використання&lt;/a> та &lt;a href=\"%1$s\">Політикою конфіденційності&lt;/a>.
 Якщо ви не згодні з вищевказаними документами, ви не зможете використовувати деякі функції цієї програми, однак основні її функції залишаться доступними.&lt;/Data>"</string>
@@ -1174,18 +979,11 @@ ID:%s
     <string name="privacy_request_subtitle_offline">Ласкаво просимо до Мі Музики! Ця програма відтворює аудіофайли.</string>
     <string name="privacy_request_title">Правила та умови</string>
     <string name="pro_member">PRO підписник</string>
-    <string name="progressbar_title">Перевірка проблем безпеки…</string>
     <string name="project_device">Mi Phone</string>
     <string name="prompt_grant_write_settings_permission">Дозволити змінювати налаштування системи</string>
-    <string name="protocal_dialog_cancel">Скасувати</string>
-    <string name="protocal_dialog_confirm">Погодитися</string>
-    <string name="protocal_dialog_title">Увага</string>
-    <string name="psw_hint">Пароль</string>
-    <string name="psw_sign_in">Увійти за допомогою пароля</string>
     <string name="pulluprefreshrecyclerview_loading_error">Не вдалося завантажити</string>
     <string name="pulluprefreshrecyclerview_loading_finished">Завантажено успішно</string>
     <string name="pulluprefreshrecyclerview_loading_running">Завантаження…</string>
-    <string name="qq_login_btn_content_description">Увійти через акаунт QQ</string>
     <string name="queue_is_empty">Черга на відтворення порожня.</string>
     <string name="ready_to_play">Далі</string>
     <string name="recently_played">Останні відтворення</string>
@@ -1193,8 +991,6 @@ ID:%s
     <string name="recommend_songs_when_playing_audio_files">Отримувати рекомендації під час прослуховування музики</string>
     <string name="recommended_file_size_download_in_mobile">Використати %s трафіку для завантаження цього файлу?</string>
     <string name="recommended_no_file_size_download_in_mobile">Використати мобільний інтернет для завантаження цього файлу?</string>
-    <string name="register_by_local_phone_long_text">Створити акаунт</string>
-    <string name="register_by_local_phone_short_text">Створити акаунт</string>
     <string name="remove">Видалити</string>
     <string name="remove_download">Очистити</string>
     <string name="remove_user_privacy_dialog_message">Переводячи перемикач в положення \"Викл\", ви відкликаєте свою згоду з Політикою конфіденційності програми \"Mi Музика\". Ми припинимо здійснювати збір вашої особистої інформації. Вже зібрана і збережена особиста інформація буде видалена протягом певного періоду часу відповідно до чинного законодавства. Програмі \"Mi Музика\" потрібно здійснювати збір необхідної особистої інформації для надання вам основних послуг. Відкликання згоди з Політикою конфіденційності буде розглядатися як відмова від служб програми, які функціонують на основі збору особистої інформації.</string>
@@ -1202,25 +998,11 @@ ID:%s
     <string name="remove_user_privacy_dialog_title">Відкликання згоди</string>
     <string name="repeat_all_notif">Повторити усі пісні.</string>
     <string name="repeat_current_notif">Повторити поточну пісню.</string>
-    <string name="request_agree">Дозволити</string>
-    <string name="request_camera_permission_message">Ми будемо захищати вашу особисту інформацію відповідно до чинного законодавства та норм. Для правильної роботи програмі необхідні наступні дозволи:&lt;br>&lt;br>&lt;b>Доступ до камери (для налаштування фото профіля)&lt;/b>&lt;br>&lt;br>Якщо ви не погодитеся надати ці дозволи, ви не зможете користуватися деякими функціями цієї програми. Проте її основні функції залишаться доступними. Ви в будь-який момент можете відкликати дозвіл в Налаштуваннях.</string>
-    <string name="request_cancel">Скасувати</string>
-    <string name="request_error_invalid_token">Не вдалося підтвердити</string>
-    <string name="request_error_network">Сталася помилка мережі. Підключіться до іншої мережі та повторіть спробу.</string>
-    <string name="request_error_unknown">Системна помилка. Поверніться назад та повторіть спробу.</string>
-    <string name="request_gallery_permission_message">Надайте доступ до Галереї:&lt;br />Для встановлення фото профіля</string>
-    <string name="request_overlay_permission_desc">Для використання цієї функції дозвольте програмі Мі Музика відображати спливаючі вікна.</string>
+    <string name="request_overlay_permission_desc">Для використання цієї функції дозвольте програмі Мі Музика відображати вспливаючі вікна.</string>
     <string name="request_privacy_permission_title">Прочитайте та погодьтеся з правилами та умовами нижче, щоб отримати доступ до наших послуг.</string>
     <string name="request_share_info">Хвилинку…</string>
     <string name="request_subscription_status">Хвилинку…</string>
-    <string name="resend_active_email">Повторити відправку</string>
-    <string name="resend_email_reach_limit_message">Ви надіслали забагато запитів перевірочного листа. Переконайтеся, що перевірочний лист не знаходиться в папці Спам.</string>
-    <string name="resend_email_reach_limit_title">Забагато спроб</string>
-    <string name="resend_email_success">Відправлено успішно</string>
-    <string name="restart_action">Почати знову</string>
     <string name="restart_immediate">Перезапустити</string>
-    <string name="restart_phone_bind_message">Отримання SMS може зайняти деякий час. Все одно почати знову?</string>
-    <string name="restart_phone_bind_title">Змінити номер телефону для підтвердження</string>
     <string name="retry">Повторіть спробу</string>
     <string name="retry_after_network_available">Не вдається підключитися до мережі. Перевірте підключення та повторіть спробу.</string>
     <string name="retry_download">Повторити спробу</string>
@@ -1239,7 +1021,6 @@ ID:%s
     <string name="s5">Створити подію календаря</string>
     <string name="s6">Дозволити оголошенню створити подію календаря?</string>
     <string name="s7">Тестове оголошення</string>
-    <string name="same_new_and_old_pwd">Не може бути таким же, як і поточний пароль</string>
     <string name="saturday">Субота</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
@@ -1279,19 +1060,14 @@ ID:%s
     <string name="select_three_languages">Ви можете вибрати до %d мов</string>
     <string name="selected_count">Вибрано %1$d з %2$d</string>
     <string name="send">Надіслати</string>
-    <string name="send_diagnosis_log">Надіслати журнали</string>
-    <string name="send_email_activate_message">Ел.листа з підтвердженням було відправлено</string>
     <string name="send_to_title">Відправити (%1$s)</string>
-    <string name="sending">Відправлення…</string>
     <string name="service_and_settings">Послуги та налаштування</string>
-    <string name="service_error">Помилка сервера</string>
     <string name="set_as_alarm_clock_ringtone">Будильник</string>
     <string name="set_as_ring">Встановити у якості мелодії виклику</string>
     <string name="set_online_home_subtitle">Відкривати онлайн-рекомендації під час запуску програми</string>
     <string name="set_online_home_title">Показувати онлайн-рекомендації на початковій сторінці</string>
     <string name="set_ringtones_failed">Не вдалося встановити мелодію</string>
     <string name="set_ringtones_successful">Пісня \"%s\" встановлена як мелодія виклику</string>
-    <string name="set_success">Змінено успішно</string>
     <string name="setting_feature_setting">Налаштування функцій</string>
     <string name="settings">Налаштування</string>
     <string name="settings_search_key_notification">Сповіщення про музику;Музика;Сповіщення;пісні</string>
@@ -1314,24 +1090,16 @@ ID:%s
     <string name="shuffle_off_notif">Перемішування вимкнено.</string>
     <string name="shuffle_on_notif">Перемішування увімкнено.</string>
     <string name="shuffle_play_toast_text">Перемішування пісень…</string>
-    <string name="sign_in">Вхід</string>
-    <string name="sign_in_progress">Авторизація…</string>
-    <string name="sign_in_title">Увійти за допомогою Mi акаунту</string>
     <string name="similar_albums">Схожі альбоми</string>
     <string name="similar_playlists">Схожі плейлести</string>
     <string name="similar_songs">Схожі пісні</string>
     <string name="similar_videos">Схожі відео</string>
     <string name="skip">Пропустити</string>
-    <string name="skip_query_account">Пропустити</string>
     <string name="sleep_mode">Таймер сну</string>
     <string name="sleep_mode_canceled">Режим сну відключений</string>
     <string name="sleep_mode_summary">Автоматична зупинка відтворення</string>
     <string name="sleep_mode_title">Таймер сну</string>
     <string name="sliding_pro_center">PRO центр</string>
-    <string name="sms_send_success">Відправлено успішно</string>
-    <string name="sns_access_token_expired_warning">Час сесії закінчився. Увійдіть ще раз для повторного підключення акаунту.</string>
-    <string name="sns_bind_limit">Забагато спроб. Спробуйте інші способи входу.</string>
-    <string name="sns_sign_in">Інші способи авторизації</string>
     <string name="song_already_in_playlist">Ця пісня вже у плейлисті</string>
     <string name="song_exist_in_playlist">Цей трек вже у плейлисті</string>
     <string name="song_info">Детально про пісню</string>
@@ -1351,6 +1119,7 @@ ID:%s
     <string name="start_to_download">Завантаження…</string>
     <string name="start_to_play">Підготовка до відтворення…</string>
     <string name="start_update">Встановлення нової версії…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">Сховище для клонованих програм</string>
     <string name="storage_internal">"Пам'ять пристрою"</string>
     <string name="storage_sd_card">SD-карта</string>
@@ -1362,7 +1131,6 @@ ID:%s
     <string name="sunday_shortest">Нд</string>
     <string name="supplementary_songs">Додаткові пісні</string>
     <string name="switch_success">Змінено успішно</string>
-    <string name="system_error_info">Система зайнята. Зачекайте хвилинку або дві та повторіть спробу.</string>
     <string name="tab_album">Альбоми</string>
     <string name="tab_album_list">Альбоми</string>
     <string name="tab_artist">Виконавці</string>
@@ -1396,7 +1164,6 @@ ID:%s
     <string name="talkback_pre">Попередня пісня</string>
     <string name="talkback_search">Пошук</string>
     <string name="talkback_show_navigation_draw">Показати меню</string>
-    <string name="temporary_not_available">Функція недоступна</string>
     <string name="terms_of_service">Умови користування</string>
     <string name="the_anniversary_of_lifting_martial_law">Річниця скасування воєнного стану</string>
     <string name="the_anti_aggression_day">День боротьби з агресією</string>
@@ -1441,9 +1208,6 @@ ID:%s
     <string name="thursday">Четвер</string>
     <string name="thursday_short">Чт</string>
     <string name="thursday_shortest">Чт</string>
-    <string name="ticket_hint">Код підтвердження</string>
-    <string name="ticket_invalid">Неправильний код</string>
-    <string name="ticket_sign_in">Увійти через SMS</string>
     <string name="ticket_summary">Купуйте квитки на шоу, концерти, вистави та інші заходи</string>
     <string name="ticket_title">Переглянути квитки</string>
     <string name="time_picker_dialog_title">Задати час</string>
@@ -1493,18 +1257,12 @@ ID:%s
     <string name="ultra_high_quality">Найвища якість</string>
     <string name="unknown_album_name">Невідомий альбом</string>
     <string name="unknown_artist_name">Невідомий виконавець</string>
-    <string name="unknown_error_info">Невідома помилка</string>
     <string name="unlimited_downloads">Необмежені завантаження</string>
     <string name="unlimited_offline_songs">Необмежені пісні офлайн</string>
-    <string name="unlimited_skips">Необмежена кількість пропусків</string>
-    <string name="update_email_address_dialog_message">Необхідно підтвердити вашу особистість перед оновленням адреси ел. пошти для відновлення.</string>
-    <string name="update_email_address_dialog_title">Оновіть адресу ел. пошти для відновлення</string>
     <string name="update_now">ОНОВИТИ ЗАРАЗ</string>
-    <string name="update_phone_notice">Змінити налаштування безпеки</string>
     <string name="upgrade_music">Оновити програму Музика</string>
     <string name="upgrade_music_message">Оновлення готові. Перезапустіть, щоб оновити.</string>
     <string name="upgrading_in_backstage">Оновлення у фоні…</string>
-    <string name="upload_error_log">Завантажити журнал</string>
     <string name="upload_favorite_dialog_title">Завантажте вашу музику до хмари, щоб мати до неї доступ із інших синхронізованих пристроїв. Ви можете вимкнути цю функцію у Налаштуваннях.</string>
     <string name="upload_favorite_setting_summary">Додавання онлайн пісень до Обраних завантажує їх до хмари і дозволяє отримати до них доступ на інших пристроях</string>
     <string name="upload_favorite_setting_title">Синхронізувати музику</string>
@@ -1513,21 +1271,7 @@ ID:%s
     <string name="upload_playlist_to_hungama_title">Синхронізуйте онлайн-пісні з Hungama, щоб мати доступ до них на інших пристроях, де було виконано вхід до Мі акаунту.</string>
     <string name="upload_playlist_to_hungama_toast">Онлайн-пісні будуть синхронізовані з Hungama</string>
     <string name="user_agreement">Угода користувача</string>
-    <string name="user_agreement_hint_3rd_app">&lt;Data>Я ознайомився(-лась) та приймаю &lt;a href=%1$s>Угоду користувача&lt;/a> та &lt;a href=%2$s>Політику конфіденційності&lt;/a>, а також &lt;a href=%3$s>Угоду користувача&lt;/a> та &lt;a href=%4$s>Політику конфіденційності&lt;/a> Mi акаунту.&lt;/Data></string>
-    <string name="user_agreement_hint_3rd_app_mobile">&lt;Data>Я ознайомився(-лась) та приймаю &lt;a href=%1$s>Угоду користувача&lt;/a> та &lt;a href=%2$s>Політику конфіденційності&lt;/a>, &lt;a href=%3$s>Угоду користувача&lt;/a> та &lt;a href=%4$s>Політику конфіденційності&lt;/a> Mi акаунту, а також &lt;a href=%5$s>Умови використання послуг перевірки China Mobile&lt;/a>.&lt;/Data></string>
-    <string name="user_agreement_hint_3rd_app_with_telecom">&lt;Data>Я ознайомився(-лась) та приймаю &lt;a href=%1$s>Угоду користувача&lt;/a> та &lt;a href=%2$s>Політику конфіденційності&lt;/a>, &lt;a href=%3$s>Угоду користувача&lt;/a> та &lt;a href=%4$s>Політику конфіденційності&lt;/a> Mi акаунту, а також &lt;a href=%5$s>Умови використання послуг перевірки eSurfing&lt;/a>.&lt;/Data></string>
-    <string name="user_agreement_hint_3rd_app_with_unicom">&lt;Data>Я ознайомився(-лась) та приймаю &lt;a href=%1$s>Угоду користувача&lt;/a> та &lt;a href=%2$s>Політику конфіденційності&lt;/a>, &lt;a href=%3$s>Угоду користувача&lt;/a> та &lt;a href=%4$s>Політику конфіденційності&lt;/a> Mi акаунту, а також &lt;a href=%5$s>Умови надання послуг перевірки China Unicom&lt;/a>.&lt;/Data></string>
-    <string name="user_agreement_hint_default">&lt;Data>Я ознайомився(-лася) та приймаю &lt;a href=%1$s>Угоду користувача&lt;/a> та &lt;a href=%2$s>Політику конфіденційності&lt;/a> Мі акаунту.&lt;/Data></string>
-    <string name="user_agreement_hint_first_login">Ми створемо акаунт автоматично, якщо ви використовуєте номер телефону в перший раз.</string>
-    <string name="user_agreement_hint_with_mobile">&lt;Data>Я ознайомився(-лась) та приймаю &lt;a href=%1$s>Угоду користувача&lt;/a> та &lt;a href=%2$s>Політику конфіденційності&lt;/a> Мі акаунту, а також &lt;a href=%3$s>Умови надання послуг перевірки China Mobile&lt;/a>.&lt;/Data></string>
-    <string name="user_agreement_hint_with_telecom">&lt;Data>Я ознайомився(-лась) та приймаю &lt;a href=%1$s>Угоду користувача&lt;/a> та &lt;a href=%2$s>Політику конфіденційності&lt;/a> Мі акаунту, а також &lt;a href=%3$s>Умови надання послуг перевірки eSurfing&lt;/a>.&lt;/Data></string>
-    <string name="user_agreement_hint_with_unicom">&lt;Data>Я ознайомився(-лась) та приймаю &lt;a href=%1$s>Угоду користувача&lt;/a> та &lt;a href=%2$s>Політику конфіденційності&lt;/a> Мі акаунту, а також &lt;a href=%3$s>Умови надання послуг перевірки China Unicom&lt;/a>.&lt;/Data></string>
-    <string name="user_agreement_protocal_dialog_hint_default">"&lt;Data>Read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> and Mi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>.&lt;/Data>"</string>
-    <string name="user_avatar_update_title">Змінити фото профілю</string>
-    <string name="user_avatar_uploading">Хвилинку…</string>
-    <string name="user_experience_program_open">Через обмеження авторського права вам необхідно зареєструватися в Програмі покращення якості, щоб мати можливість відтворювати завантажені пісні. Ви можете зробити це в розділі \"Налаштування\" > \"Паролі та безпека\" > \"Конфіденційність\" > \"Зареєструватися в Програмі покращення якості\".</string>
-    <string name="user_id_hint">Ел. пошта/Телефон/ID Mi акаунту</string>
-    <string name="user_name_phone_number">Номер телефону</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=uk_UA</string>
     <string name="user_playlist_plaza">Плейлисти</string>
     <string name="user_privacy_dialog_negative_text">Скасувати</string>
     <string name="user_privacy_dialog_positive_count_down_text">Відкликати (%s сек)</string>
@@ -1539,7 +1283,6 @@ ID:%s
     <string name="user_profile_follow_count">Підписки: %s</string>
     <string name="v7_preference_off">ВИМКНЕНО</string>
     <string name="v7_preference_on">УВІМКНЕНО</string>
-    <string name="v_code_title">Введіть код підтвердження</string>
     <string name="version_info">Версія</string>
     <string name="video_play_cellular">Пристрій не підключено до Wi-Fi. Використовувати мобільний інтернет?</string>
     <string name="video_replay_btn">Повторити</string>
@@ -1548,12 +1291,9 @@ ID:%s
     <string name="vip_required">Придбайте пакет Преміум для відтворення цієї пісні. Поки що пропустимо її.</string>
     <string name="vip_required_with_song">%s доступна тільки для користувачів із підпискою PRO. Поки пропустимо її.</string>
     <string name="voice_search_first_hint">Спробуйте голосовий пошук!</string>
-    <string name="watch_video">Переглянути відео</string>
     <string name="wednesday">Середа</string>
     <string name="wednesday_short">Ср</string>
     <string name="wednesday_shortest">Ср</string>
-    <string name="weibo_login_btn_content_description">Увійти через акаунт Weibo</string>
-    <string name="weixin_login_btn_content_description">Увійти через акаунт WeChat</string>
     <string name="wifi_required_body" formatted="false">"Вам потрібно використовувати Wi-Fi, щоб завершити це %s завантаження. 
 
 Натисніть, %s щоб запустити завантаження, коли ви наступного разу підключитеся до мережі Wi-Fi."</string>

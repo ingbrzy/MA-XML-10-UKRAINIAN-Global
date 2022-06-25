@@ -132,4 +132,9 @@
         <item>Вимкнена (шпалери ліворуч)</item>
         <item>Вимкнена (шпалери праворуч)</item>
     </string-array>
+	<string-array name="animation_rate_entries">
+        <item>Елегантна</item>
+        <item>Баланс</item>
+        <item>Мінімалістична</item>
+    </string-array>
 </resources>

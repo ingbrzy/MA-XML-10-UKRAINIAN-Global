@@ -233,6 +233,7 @@
     <string name="settings_guide_title">Потрібні інші налаштування?</string>
     <string name="show_badge_notifications">Мітки на значку програми</string>
     <string name="show_badge_notifications_short">Значки</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_setting">Рядок стану</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_disable_float_notification">Спливаючі сповіщення вимкнені</string>
@@ -307,4 +308,6 @@
     <string name="wednesday_short">Ср</string>
     <string name="wednesday_shortest">Ср</string>
     <string name="yesterday">Вчора</string>
+    <string name="expand_top_notification">Розгорнювати верхнє сповіщення</string>
+    <string name="show_weather">Показувати інформацію про погоду</string>
 </resources>

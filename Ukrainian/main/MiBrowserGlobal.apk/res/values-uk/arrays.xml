@@ -135,6 +135,19 @@
         <item>iPhone</item>
         <item>iPad</item>
     </string-array>
+    <string-array name="pref_web_permissions">
+        <item>Заборонити</item>
+        <item>Запит</item>
+        <item>Дозволити</item>
+    </string-array>
+    <string-array name="pref_web_permissions_sub_one">
+        <item>Заборонити</item>
+        <item>Запит</item>
+    </string-array>
+    <string-array name="pref_web_permissions_sub_two">
+        <item>Заборонити</item>
+        <item>Дозволити</item>
+    </string-array>
     <string-array name="setting_swipe_up_target">
         <item>Пошук</item>
         <item>Новини</item>

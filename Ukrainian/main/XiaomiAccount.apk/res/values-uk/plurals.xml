@@ -54,6 +54,12 @@
         <item quantity="few">%d хв тому</item>
         <item quantity="many">%d хв тому</item>
     </plurals>
+    <plurals name="area_code_search_result_size">
+        <item quantity="other">Знайдено результатів: %d</item>
+        <item quantity="one">Знайдено результатів: %d</item>
+        <item quantity="few">Знайдено результатів: %d</item>
+        <item quantity="many">Знайдено результатів: %d</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Півгодини тому</item>
         <item quantity="one">Півгодини тому</item>

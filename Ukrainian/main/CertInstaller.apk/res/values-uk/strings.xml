@@ -49,7 +49,7 @@
     <string name="userkey_type">Алгоритм:</string>
     <string name="wifi_cancel_label">Скасувати</string>
     <string name="wifi_cert_is_added">Сертифікат Wi‑Fi установлено</string>
-    <string name="wifi_certificate">Сертифікат Wi‑Fi</string>
+    <string name="wifi_certificate">Сертифікат Wi-Fi</string>
     <string name="wifi_config_text">"Назва: %1$s
 FQDN: %2$s
 Консорціуми з питань роумінгу: %3$s

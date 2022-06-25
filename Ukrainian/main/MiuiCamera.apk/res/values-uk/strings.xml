@@ -615,14 +615,14 @@
     <string name="download_automatic_cancel">Скасувати</string>
     <string name="download_automatic_confirm">Завантажити</string>
     <string name="download_automatic_message">Завантажувати функціональні плагіни автоматично, коли пристрій підключено до Wi-Fi?</string>
-    <string name="download_automatic_message_cn">Download feature plug-ins automatically when this device is connected to WLAN?</string>
+    <string name="download_automatic_message_cn">Завантажуйте модулі функцій автоматично, коли цей пристрій під’єднано до WLAN?</string>
     <string name="download_automatic_summary">Автоматично завантажувати функціональні плагіни по Wi-Fi</string>
-    <string name="download_automatic_summary_cn">Download feature plug-ins automatically over WLAN</string>
+    <string name="download_automatic_summary_cn">Автоматично завантажуйте модулі функцій через WLAN</string>
     <string name="download_automatic_title">Завантажувати автоматично</string>
     <string name="download_cancel_hint">Скасувати завантаження %1$s?</string>
     <string name="download_confirm">Завантажити</string>
     <string name="download_hint">Для завантаження буде використано %1$s МБ мобільних даних. Продовжити завантаження?</string>
-    <string name="download_hint_cn">"Looks like your device isn't connected to WLAN. Use %1$s MB of mobile data to download items now?"</string>
+    <string name="download_hint_cn">"Схоже, ваш пристрій не під’єднано до WLAN. Використати %1$s МБ мобільного трафіку, щоб завантажити елементи зараз?"</string>
     <string name="download_hint_wifi">"Схоже, що пристрій не підключено до мережі Wi-Fi. Для завантаження об'єктів буде необхідно %1$s МБ мобільного інтернету, продовжити?"</string>
     <string name="download_in_progress">Завантаження…</string>
     <string name="download_title">Попередження щодо трафіку</string>
@@ -666,6 +666,7 @@
     <string name="edit_smile">Посмішка</string>
     <string name="edit_solid">Контур</string>
     <string name="emoticon">Набір наклейок</string>
+    <string name="empty" />
     <string name="eras_ad">н. е.</string>
     <string name="eras_bc">до н. е.</string>
     <string name="error_fail_to_start_audio_capture">Неможливо записати звук</string>
@@ -874,6 +875,9 @@
     <string name="live_sticker_updating">Оновлення…</string>
     <string name="live_workspace_title">Чернетки</string>
     <string name="live_workspace_title_edit">"Виберіть об'єкти для видалення"</string>
+    <string name="live_workspace_title_pause">Зупинити</string>
+    <string name="live_workspace_title_play">Відтворити</string>
+    <string name="live_workspace_title_pre_edit">"Виберіть об'єкти для видалення"</string>
     <string name="location_access_allow">Погодитися</string>
     <string name="location_fromkeyguard_not_permission">На даний момент у Камери немає доступу до даних про ваше місцезнаходження. Спочатку розблокуйте пристрій.</string>
     <string name="location_permission_des">"Запам'ятовувати місця, де були зняті фото та відео"</string>
@@ -1040,7 +1044,7 @@
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потягніть вниз для оновлення</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Оновлено</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Оновлення…</string>
-    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Відпустіть для оновлення</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">День дурня</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">Більше нічого немає</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">Більше нічого немає</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Хвилинку…</string>
@@ -1069,6 +1073,10 @@
     <string name="module_name_multi_camera">Багатокамерна зйомка</string>
     <string name="module_name_new_slow_motion">Уповільнена зйомка</string>
     <string name="module_name_panorama">Панорама</string>
+    <string name="module_name_pixel_108m">108 Мп</string>
+    <string name="module_name_pixel_48m">48 Mп</string>
+    <string name="module_name_pixel_50m">50 Мп</string>
+    <string name="module_name_pixel_64m">64 Mп</string>
     <string name="module_name_portrait">Портрет</string>
     <string name="module_name_professional">Профі</string>
     <string name="module_name_scanner">Сканер</string>
@@ -1285,6 +1293,7 @@
     <string name="pref_camera_auxiliary_close">Вимк.</string>
     <string name="pref_camera_auxiliary_exposure_feedback">Підтвердження експозиції</string>
     <string name="pref_camera_auxiliary_focus_peak">Виділення області фокусування</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="pref_camera_beautify_entry_high">Високий</string>
     <string name="pref_camera_beautify_entry_low">Низький</string>
     <string name="pref_camera_beautify_entry_normal">Середній</string>
@@ -1414,8 +1423,8 @@
     <string name="pref_camera_portrait_mode_entry_off">Портретний режим вимкнено</string>
     <string name="pref_camera_portrait_mode_entry_on">Портретний режим увімкнено</string>
     <string name="pref_camera_portrait_mode_title">Портретний режим</string>
-    <string name="pref_camera_predictive_shutter_description">"Відстеження дозволяє зменшити розмиття на фото з дітьми, тваринами та іншими рухомими об'єктами."</string>
-    <string name="pref_camera_predictive_shutter_title">Відстеження руху</string>
+    <string name="pref_camera_predictive_shutter_description">"Відстеження руху дозволяє зменшити розмиття на фото з дітьми, тваринами та іншими рухомими об'єктами."</string>
+    <string name="pref_camera_predictive_shutter_title">Вхоплення руху</string>
     <string name="pref_camera_proximity_lock_summary">Блокувати натиснення, коли поміщено в кишеню</string>
     <string name="pref_camera_proximity_lock_title">Кишеньковий режим</string>
     <string name="pref_camera_quick_settings">Швидкі налаштування</string>
@@ -1477,10 +1486,8 @@
     <string name="pref_camera_tip_id_card">Сканування документа, який посвідчує особу</string>
     <string name="pref_camera_touchafaec_entry_off">Вимк.</string>
     <string name="pref_camera_touchafaec_entry_on">Увімк.</string>
-    <string name="pref_camera_track_focus_intro_description">When you take photos or shoot videos with moving subjects, this feature detects people, cats, and dogs, and keeps them in focus automatically. Additionally, you can also double tap any subject to track movement.</string>
-    <string name="pref_camera_track_focus_intro_goto">Turn on</string>
     <string name="pref_camera_track_focus_preferred_description">"Автофокус, що відстежує людей, кішок і собак, які рухаються, а також ручний вибір об'єкта для відстеження за допомогою подвійного торкання."</string>
-    <string name="pref_camera_track_focus_preferred_title">Відстеження</string>
+    <string name="pref_camera_track_focus_preferred_title">Фокус відстеження руху</string>
     <string name="pref_camera_ubifocus_title">Перефокусування</string>
     <string name="pref_camera_ultra_wide_ldc_description">"Автоматично виправляти викривлені об'єкти"</string>
     <string name="pref_camera_ultra_wide_ldc_title">Виправляти ширококутні викривлення</string>

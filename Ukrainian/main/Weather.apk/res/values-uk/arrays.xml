@@ -115,14 +115,14 @@
         <item>Поза індексом</item>
     </string-array>
     <string-array name="hot_city">
-        <item>Beijing</item>
-        <item>Shanghai</item>
-        <item>Hong Kong</item>
-        <item>Taipei City</item>
-        <item>Jakarta</item>
-        <item>Delhi</item>
-        <item>Mumbai</item>
-        <item>Moscow</item>
+        <item>Пекін</item>
+        <item>Шанхай</item>
+        <item>Гонконг</item>
+        <item>Місто Тайбей</item>
+        <item>Джакарта</item>
+        <item>Делі</item>
+        <item>Мумбаї</item>
+        <item>Москва</item>
         <item>Ченнаї</item>
         <item>Стамбул</item>
         <item>Ріо-де-Жанейро</item>
@@ -142,6 +142,13 @@
         <item>Сильний</item>
         <item>Середній</item>
         <item>Невеликий</item>
+    </string-array>
+    <string-array name="settings_atmospheric_pressure_unit_detail">
+        <item>@string/settings_atmospheric_pressure_hpa</item>
+        <item>@string/settings_atmospheric_pressure_mbar</item>
+        <item>@string/settings_atmospheric_pressure_mmhg</item>
+        <item>@string/settings_atmospheric_pressure_inhg</item>
+        <item>@string/settings_atmospheric_pressure_atm</item>
     </string-array>
     <string-array name="weather_type">
         <item>Ясно</item>

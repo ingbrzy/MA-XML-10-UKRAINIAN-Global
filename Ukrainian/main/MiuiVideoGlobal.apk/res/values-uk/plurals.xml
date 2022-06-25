@@ -60,17 +60,17 @@
         <item quantity="few">Переглянути %d відповіді</item>
         <item quantity="many">Переглянути %d відповідей</item>
     </plurals>
+    <plurals name="dialog_app_rating_choose_star">
+        <item quantity="other">Вибрано зірок: %s</item>
+        <item quantity="one">Вибрано зірок: %s</item>
+        <item quantity="few">Вибрано зірок: %s</item>
+        <item quantity="many">Вибрано зірок: %s</item>
+    </plurals>
     <plurals name="feed_back_home">
         <item quantity="other">Перехід на головну сторінку через %1$d секунд…</item>
         <item quantity="one">Перехід на головну сторінку через %1$d секунду…</item>
         <item quantity="few">Перехід на головну сторінку через %1$d секунди…</item>
         <item quantity="many">Перехід на головну сторінку через %1$d секунд…</item>
-    </plurals>
-    <plurals name="follower">
-        <item quantity="other">%d підписників</item>
-        <item quantity="one">%d підписник</item>
-        <item quantity="few">%d підписника</item>
-        <item quantity="many">%d підписників</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Півгодини тому</item>
@@ -102,11 +102,105 @@
         <item quantity="few">через %d хв</item>
         <item quantity="many">через %d хв</item>
     </plurals>
+    <plurals name="incentive_dialog_congratulation_get_credits_title">
+        <item quantity="other">Ви отримали %d балів!</item>
+        <item quantity="one">Ви отримали %d бал!</item>
+        <item quantity="few">Ви отримали %d бали!</item>
+        <item quantity="many">Ви отримали %d балів!</item>
+    </plurals>
+    <plurals name="incentive_dialog_credits">
+        <item quantity="other">%d балів</item>
+        <item quantity="one">%d бал</item>
+        <item quantity="few">%d бали</item>
+        <item quantity="many">%d балів</item>
+    </plurals>
+    <plurals name="incentive_dialog_login_and_get_credits_message">
+        <item quantity="other">Увійдіть, щоб отримати %d додаткових балів</item>
+        <item quantity="one">Увійдіть, щоб отримати %d додатковий бал</item>
+        <item quantity="few">Увійдіть, щоб отримати %d додаткових бали</item>
+        <item quantity="many">Увійдіть, щоб отримати %d додаткових балів</item>
+    </plurals>
+    <plurals name="incentive_dialog_seconds">
+        <item quantity="other">%d сек</item>
+        <item quantity="one">%d сек</item>
+        <item quantity="few">%d сек</item>
+        <item quantity="many">%d сек</item>
+    </plurals>
+    <plurals name="incentive_guide_all_time_tip">
+        <item quantity="other">Перегляньте %d хвилин, щоб заробити бали! Завершити завдання?</item>
+        <item quantity="one">Перегляньте %d хвилину, щоб заробити бали! Завершити завдання?</item>
+        <item quantity="few">Перегляньте %d хвилини, щоб заробити бали! Завершити завдання?</item>
+        <item quantity="many">Перегляньте %d хвилин, щоб заробити бали! Завершити завдання?</item>
+    </plurals>
+    <plurals name="incentive_guide_coins_tip">
+        <item quantity="other">"У вас є %d балів до зарахування
+Доступно тільки сьогодні"</item>
+        <item quantity="one">"У вас є %d бал до зарахування
+Доступно тільки сьогодні"</item>
+        <item quantity="few">"У вас є %d бали до зарахування
+Доступно тільки сьогодні"</item>
+        <item quantity="many">"У вас є %d балів до зарахування
+Доступно тільки сьогодні"</item>
+    </plurals>
+    <plurals name="incentive_guide_current_time_tip">
+        <item quantity="other">Ви сьогодні переглянули %d хв</item>
+        <item quantity="one">Ви сьогодні переглянули %d хв</item>
+        <item quantity="few">Ви сьогодні переглянули %d хв</item>
+        <item quantity="many">Ви сьогодні переглянули %d хв</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_begin">
+        <item quantity="other">Отримайте %d балів!</item>
+        <item quantity="one">Отримайте %d бал!</item>
+        <item quantity="few">Отримайте %d бали!</item>
+        <item quantity="many">Отримайте %d балів!</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_finish">
+        <item quantity="other">На сьогодні всі завдання завершено! Ви отримали %d балів.</item>
+        <item quantity="one">На сьогодні всі завдання завершено! Ви отримали %d бал.</item>
+        <item quantity="few">На сьогодні всі завдання завершено! Ви отримали %d бали.</item>
+        <item quantity="many">На сьогодні всі завдання завершено! Ви отримали %d балів.</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_of_one">
+        <item quantity="other">Ви переглянули %1$1d секунд та отримали %2$2d балів!</item>
+        <item quantity="one">Ви переглянули %1$1d секунд та отримали %2$2d бал!</item>
+        <item quantity="few">Ви переглянули %1$1d секунд та отримали %2$2d бали!</item>
+        <item quantity="many">Ви переглянули %1$1d секунд та отримали %2$2d балів!</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_tip1">
+        <item quantity="other">Перегляньте випадкове відео, щоб отримати %d балів</item>
+        <item quantity="one">Перегляньте випадкове відео, щоб отримати %d бал</item>
+        <item quantity="few">Перегляньте випадкове відео, щоб отримати %d бали</item>
+        <item quantity="many">Перегляньте випадкове відео, щоб отримати %d балів</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_tip2">
+        <item quantity="other">Перегляньте %1$1d-секундне відео, щоб отримати %2$2d балів</item>
+        <item quantity="one">Перегляньте %1$1d-секундне відео, щоб отримати %2$2d бал</item>
+        <item quantity="few">Перегляньте %1$1d-секундне відео, щоб отримати %2$2d бали</item>
+        <item quantity="many">Перегляньте %1$1d-секундне відео, щоб отримати %2$2d балів</item>
+    </plurals>
+    <plurals name="incentive_toast_share_success">
+        <item quantity="other">Отримано %d балів. Діліться, щоб отримати більше.</item>
+        <item quantity="one">Отримано %d бал. Діліться, щоб отримати більше.</item>
+        <item quantity="few">Отримано %d бали. Діліться, щоб отримати більше.</item>
+        <item quantity="many">Отримано %d балів. Діліться, щоб отримати більше.</item>
+    </plurals>
+    <plurals name="incentive_toast_subscribe_success">
+        <item quantity="other">Отримано %d балів. Підписуйтеся, щоб отримати більше.</item>
+        <item quantity="one">Отримано %d бал. Підписуйтеся, щоб отримати більше.</item>
+        <item quantity="few">Отримано %d бали. Підписуйтеся, щоб отримати більше.</item>
+        <item quantity="many">Отримано %d балів. Підписуйтеся, щоб отримати більше.</item>
+    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Тільки що</item>
         <item quantity="one">Тільки що</item>
         <item quantity="few">Тільки що</item>
         <item quantity="many">Тільки що</item>
+    </plurals>
+    <plurals name="local_diversion_video_number">
+        <item quantity="other">%d відео</item>
+        <item quantity="one">%d відео</item>
+        <item quantity="few">%d відео</item>
+        <item quantity="many">%d відео</item>
     </plurals>
     <plurals name="local_video_floder">
         <item quantity="other">%d папок</item>
@@ -186,6 +280,18 @@
         <item quantity="few">%d нові сповіщення</item>
         <item quantity="many">%d нових сповіщень</item>
     </plurals>
+    <plurals name="new_incentive_toast_share_success">
+        <item quantity="other">Відправлено. Ви отримали %d балів. Отримати бали можна в Центрі балів.</item>
+        <item quantity="one">Відправлено. Ви отримали %d бал. Отримати бали можна в Центрі балів.</item>
+        <item quantity="few">Відправлено. Ви отримали %d бали. Отримати бали можна в Центрі балів.</item>
+        <item quantity="many">Відправлено. Ви отримали %d балів. Отримати бали можна в Центрі балів.</item>
+    </plurals>
+    <plurals name="new_incentive_toast_subscribe_success">
+        <item quantity="other">Збережено у підписках. Ви отримали %d балів. Отримати бали можна в Центрі балів.</item>
+        <item quantity="one">Збережено у підписках. Ви отримали %d бал. Отримати бали можна в Центрі балів.</item>
+        <item quantity="few">Збережено у підписках. Ви отримали %d бали. Отримати бали можна в Центрі балів.</item>
+        <item quantity="many">Збережено у підписках. Ви отримали %d балів. Отримати бали можна в Центрі балів.</item>
+    </plurals>
     <plurals name="notice_user_banned">
         <item quantity="other">Ваш контент містить елементи (%1$s), які порушують стандарти та правила спільноти. Ваш акаунт заблоковано на %2$d дн до %3$s.</item>
         <item quantity="one">Ваш контент містить елементи (%1$s), які порушують стандарти та правила спільноти. Ваш акаунт заблоковано на %2$d дн до %3$s.</item>
@@ -227,6 +333,12 @@
         <item quantity="one">"Вибрано %s об'єкт"</item>
         <item quantity="few">"Вибрано %s об'єктa"</item>
         <item quantity="many">"Вибрано %s об'єктів"</item>
+    </plurals>
+    <plurals name="plus_local_edit_delete_confirm_text">
+        <item quantity="other">Видалити назавжди %s файлів?</item>
+        <item quantity="one">Видалити назавжди %s файл?</item>
+        <item quantity="few">Видалити назавжди %s файла?</item>
+        <item quantity="many">Видалити назавжди %s файлів?</item>
     </plurals>
     <plurals name="plus_player_subtitle_online_size">
         <item quantity="other">Розмір файлу: %.2f кБ</item>
@@ -293,6 +405,12 @@
         <item quantity="one">Додати до %d закладки</item>
         <item quantity="few">Додати до %d закладок</item>
         <item quantity="many">Додати до %d закладок</item>
+    </plurals>
+    <plurals name="video_like_text">
+        <item quantity="other">%s лайків</item>
+        <item quantity="one">%s лайк</item>
+        <item quantity="few">%s лайка</item>
+        <item quantity="many">%s лайків</item>
     </plurals>
     <plurals name="video_view_count">
         <item quantity="other">%d переглядів</item>

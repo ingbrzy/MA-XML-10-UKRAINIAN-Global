@@ -503,6 +503,7 @@
     <string name="friday">"П'ятниця"</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">"Ім'я"</string>
     <string name="gallery">Галерея</string>
     <string name="ghostData_company">Компанія</string>
@@ -628,6 +629,7 @@
     <string name="menu_sync_remove">Вимкнути синхронізацію групи</string>
     <string name="midnight">Ніч</string>
     <string name="miprofile_account_type">Візитки</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">Змінити профіль</string>
     <string name="miprofile_name">Мій профіль</string>
     <string name="miprofile_nick_name_divider">"  |  "</string>
@@ -784,6 +786,7 @@
     <string name="permission_retry_dialog_msg_pad">Щоб використовувати свою SIM-карту за допомогою цієї програми та керувати своїми контактами, надайте цій програмі доступ до ваших контактів та їх редагування, а також доступ до інформації про пристрій.</string>
     <string name="permission_retry_setting">Налаштування</string>
     <string name="phoneLabelsGroup">Телефон</string>
+    <string name="phone_info_divider">" | "</string>
     <string name="phone_number_too_long_toast">Номер занадто довгий</string>
     <string name="phone_primary">Основний</string>
     <string name="photoPickerNotFoundText">На пристрої немає зображень.</string>
@@ -841,7 +844,7 @@
     <string name="preference_privacy_settings_title">Конфіденційність</string>
     <string name="preference_remove_duplicate">"Об'єднання дублікатів"</string>
     <string name="preference_show_firewall_calllog">Показувати заблоковані виклики в журналі викликів</string>
-    <string name="preference_show_yellowpage_tab_description">Довідник та його послуги не будуть відображатися, якщо ви вимкните цю функцію</string>
+    <string name="preference_show_yellowpage_tab_description">Довідник може не працювати у нормальному режимі, якщо ця функція відключена.</string>
     <string name="preference_show_yellowpage_tab_title">Показати Довідник</string>
     <string name="preference_simple_mode_title">Показувати фото та інформацію</string>
     <string name="preference_smart_group_company_summary">Угрупування контактів за інформацією про компанію</string>
@@ -852,7 +855,6 @@
     <string name="preference_smart_group_location_title">За місцезнаходженням</string>
     <string name="preference_smart_group_title">Розумне групування</string>
     <string name="preference_tone_title">Вибрати звук</string>
-    <string name="preference_yellowpage_function_setting">Налаштування Довідника</string>
     <string name="previous">Назад</string>
     <string name="privacy_password_message1">Пароль захисту конфіденційності працює також для фото, нотаток та прихованих папок.</string>
     <string name="privacy_password_message2">Використовуйте пароль захисту конфіденційності. Він працює для фото, нотаток та прихованих папок.</string>
@@ -862,7 +864,6 @@
     <string name="privacy_password_title2">Використовувати пароль захисту конфіденційності</string>
     <string name="privacy_password_title3">Оновіть ваш пароль</string>
     <string name="privacy_password_title4">Пароль оновлено</string>
-    <string name="privacy_settings_blue_scan_connect">Підключення до пристроїв неподалік</string>
     <string name="privacy_settings_call_phone">Здійснення викликів</string>
     <string name="privacy_settings_call_phone_description">Для здійснення викликів за допомогою ярликів на робочому столі</string>
     <string name="privacy_settings_call_phone_description_for_pad">Для здійснення викликів у сторонніх програмах</string>
@@ -1026,6 +1027,7 @@
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">Немає контактів у групі</string>
     <string name="six_letter">MNO</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">За компаніями</string>
     <string name="smart_group_company_unavailable">Немає компанії</string>
     <string name="smart_group_frequency_1">Впродовж місяця</string>
@@ -1067,6 +1069,7 @@
     <string name="starred_contacts">Обрані</string>
     <string name="status_available">На місці</string>
     <string name="status_away">Відсутній</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_busy">Не турбувати</string>
     <string name="strequentList">Обрані</string>
     <string name="success_message_import_from_account">Імпорт завершено</string>
@@ -1143,7 +1146,6 @@
     <string name="toast_for_failed_saving_nickname">Не вдалося зберегти зміни</string>
     <string name="toast_for_saving_nickname">Зміни збережені</string>
     <string name="toast_join_with_empty_contact">"Вкажіть ім'я контакту, який хочете об'єднати"</string>
-    <string name="toast_not_show_blue_scan_connect_perm_req">Щоб імпортувати контакти з других пристроїв, дозвольте цій функції підключатися по Bluetooth до пристроїв неподалік.</string>
     <string name="toast_not_show_camera_perm_req">Щоб використовувати камеру для зйомки фото профіля, спочатку дозвольте цій програмі знімати фото та записувати відео.</string>
     <string name="toast_not_show_location_perm_req">Щоб імпортувати контакти з інших пристроїв через Bluetooth, спочатку надайте цій програмі доступ до вашого місцезнаходження.</string>
     <string name="toast_not_show_read_calllogs_perm_req">Щоб переглядати журнал викликів, спочатку надайте цій програмі доступ до журналу викликів.</string>
@@ -1200,9 +1202,11 @@
     <string name="wipe_data">Очистити дані</string>
     <string name="yellowPageNavigationLabel">Довідник</string>
     <string name="yellowpage_address_tag">Адреса</string>
-    <string name="yellowpage_provider_label">ТехнІчна пІдтримка для визначення ID Співрозмовника/Відправника надається</string>
+    <string name="yellowpage_provider_label">Технічна підтримка для визначення ID Співрозмовника/Відправника надається</string>
     <string name="yellowpage_search_the_yellowpage">Пошук у Довіднику</string>
     <string name="yesterday">Вчора</string>
     <string name="zero_items_selected">Виберіть контакти</string>
     <string name="zero_letter">+</string>
+    <string name="confirm_call_log_dial_summary">Щоб запобігти випадковим викликам, запитувати підтвердження перед набором з журналів викликів.</string>
+    <string name="confirm_call_log_dial_title">Підтвердьте набір з журналів викликів</string>
 </resources>

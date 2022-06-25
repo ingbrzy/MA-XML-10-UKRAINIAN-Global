@@ -154,6 +154,12 @@
         <item quantity="few">Обрано: %d</item>
         <item quantity="many">Обрано: %d</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d нового сповіщення</item>
+        <item quantity="one">%d нове сповіщення</item>
+        <item quantity="few">%d нові сповіщення</item>
+        <item quantity="many">%d нових сповіщень</item>
+    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d хв тому</item>
         <item quantity="one">1 хв тому</item>
@@ -169,5 +175,11 @@
 Залишилося %d спроби."</item>
         <item quantity="many">"
 Залишилося %d спроб."</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">Під’єднано %1$d пристрою</item>
+        <item quantity="one">Під’єднано %1$d пристрій</item>
+        <item quantity="few">Під’єднано %1$d пристрої</item>
+        <item quantity="many">Під’єднано %1$d пристроїв</item>
     </plurals>
 </resources>

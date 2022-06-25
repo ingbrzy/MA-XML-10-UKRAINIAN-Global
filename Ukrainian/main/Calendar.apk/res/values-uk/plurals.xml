@@ -3,427 +3,372 @@
     <plurals name="Ndays">
         <item quantity="other">За %d днів</item>
         <item quantity="one">За %d день</item>
-        <item quantity="few">За %d дні</item>
-        <item quantity="many">За %d днів</item>
+        <item quantity="few">За %d дня</item>
+    </plurals>
+    <plurals name="Ndays_after">
+        <item quantity="other">Через %1$d днів</item>
+        <item quantity="one">Через %1$d день</item>
+        <item quantity="few">Через %1$d дня</item>
     </plurals>
     <plurals name="Ndays_after_at">
-        <item quantity="other">Через %1$d днів о %2$s</item>
-        <item quantity="one">Через %1$d день о %2$s</item>
-        <item quantity="few">Через %1$d дні о %2$s</item>
-        <item quantity="many">Через %1$d днів о %2$s</item>
+        <item quantity="other">Через %1$d днів в %2$s</item>
+        <item quantity="one">Через %1$d день в %2$s</item>
+        <item quantity="few">Через %1$d дня в %2$s</item>
+    </plurals>
+    <plurals name="Ndays_ago">
+        <item quantity="other">За %1$d днів</item>
+        <item quantity="one">За %1$d день</item>
+        <item quantity="few">За %1$d дня</item>
     </plurals>
     <plurals name="Ndays_ago_at">
-        <item quantity="other">%1$d днів тому о %2$s</item>
-        <item quantity="one">%1$d день тому о %2$s</item>
-        <item quantity="few">%1$d дні тому о %2$s</item>
-        <item quantity="many">%1$d днів тому о %2$s</item>
+        <item quantity="other">За %1$d днів в %2$s</item>
+        <item quantity="one">За %1$d день в %2$s</item>
+        <item quantity="few">За %1$d дня в %2$s</item>
     </plurals>
     <plurals name="Nhours">
-        <item quantity="other">За %d год</item>
-        <item quantity="one">За %d год</item>
-        <item quantity="few">За %d год</item>
-        <item quantity="many">За %d год</item>
+        <item quantity="other">За %d годин</item>
+        <item quantity="one">За %d годину</item>
+        <item quantity="few">За %d години</item>
     </plurals>
     <plurals name="Nminutes">
-        <item quantity="other">За %d хв</item>
-        <item quantity="one">За %d хв</item>
-        <item quantity="few">За %d хв</item>
-        <item quantity="many">За %d хв</item>
+        <item quantity="other">За %d хвилин</item>
+        <item quantity="one">За %d хвилину</item>
+        <item quantity="few">За %d хвилини</item>
     </plurals>
     <plurals name="Nweeks">
         <item quantity="other">За %d тижнів</item>
         <item quantity="one">За %d тиждень</item>
-        <item quantity="few">За %d тижні</item>
-        <item quantity="many">За %d тижнів</item>
+        <item quantity="few">За %d тижня</item>
     </plurals>
     <plurals name="a_hour_ago">
-        <item quantity="other">Годину тому</item>
-        <item quantity="one">Годину тому</item>
-        <item quantity="few">Годину тому</item>
-        <item quantity="many">Годину тому</item>
+        <item quantity="other">1 година тому</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">Годину тому</item>
-        <item quantity="one">Годину тому</item>
-        <item quantity="few">Годину тому</item>
-        <item quantity="many">Годину тому</item>
+        <item quantity="other">1 година тому</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Півгодини тому</item>
-        <item quantity="one">Півгодини тому</item>
-        <item quantity="few">Півгодини тому</item>
-        <item quantity="many">Півгодини тому</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
         <item quantity="other">Через годину</item>
-        <item quantity="one">Через годину</item>
-        <item quantity="few">Через годину</item>
-        <item quantity="many">Через годину</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Через півгодини</item>
-        <item quantity="one">Через півгодини</item>
-        <item quantity="few">Через півгодини</item>
-        <item quantity="many">Через півгодини</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="other">Негайно</item>
-        <item quantity="one">Негайно</item>
-        <item quantity="few">Негайно</item>
-        <item quantity="many">Негайно</item>
+        <item quantity="other">Відразу</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">через %d хв</item>
-        <item quantity="one">через 1 хв</item>
-        <item quantity="few">через %d хв</item>
-        <item quantity="many">через %d хв</item>
+        <item quantity="other">через %d хв.</item>
+        <item quantity="one">через 1 хвилину</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">Тільки що</item>
-        <item quantity="one">Тільки що</item>
-        <item quantity="few">Тільки що</item>
-        <item quantity="many">Тільки що</item>
+        <item quantity="other">Зараз</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d хв тому</item>
-        <item quantity="one">1 хв тому</item>
-        <item quantity="few">%d хв тому</item>
-        <item quantity="many">%d хв тому</item>
+        <item quantity="other">%d хв. тому</item>
+        <item quantity="one">1 хвилину тому</item>
     </plurals>
     <plurals name="after_num_minutes">
-        <item quantity="other">Через %d хв</item>
-        <item quantity="one">Через %d хв</item>
-        <item quantity="few">Через %d хв</item>
-        <item quantity="many">Через %d хв</item>
+        <item quantity="other">Через %d хв.</item>
+        <item quantity="one">Через %d хв.</item>
     </plurals>
     <plurals name="anniversary_day">
         <item quantity="other">%1$s днів</item>
         <item quantity="one">%1$s день</item>
-        <item quantity="few">%1$s дні</item>
+        <item quantity="few">%1$s дня</item>
         <item quantity="many">%1$s днів</item>
     </plurals>
     <plurals name="anniversary_notify_before_3_day_title">
-        <item quantity="other">Річниця: %2$d років з моменту %1$s через %3$d дн</item>
-        <item quantity="one">Річниця: %2$d рік з моменту %1$s через %3$d дн</item>
-        <item quantity="few">Річниця: %2$d роки з моменту %1$s через %3$d дн</item>
-        <item quantity="many">Річниця: %2$d років з моменту %1$s через %3$d дн</item>
+        <item quantity="other">Річниця: %2$d років з дня %1$s через 3 дня</item>
+        <item quantity="one">Річниця: %2$d рік з дня %1$s через 3 дня</item>
+        <item quantity="few">Річниця: %2$d роки з дня %1$s через 3 дня</item>
     </plurals>
     <plurals name="anniversary_notify_title">
-        <item quantity="other">Річниця: %2$d років з дня події %1$s</item>
-        <item quantity="one">Річниця: %2$d рік з дня події %1$s</item>
-        <item quantity="few">Річниця: %2$d роки з дня події %1$s</item>
-        <item quantity="many">Річниця: %2$d років з дня події %1$s</item>
+        <item quantity="other">Річниця: %2$d років з дня %1$s</item>
+        <item quantity="one">Річниця: %2$d рік з дня %1$s</item>
+        <item quantity="few">Річниця: %2$d роки з дня %1$s</item>
     </plurals>
     <plurals name="anniversary_year">
         <item quantity="other">%1$s років</item>
         <item quantity="one">%1$s рік</item>
         <item quantity="few">%1$s роки</item>
-        <item quantity="many">%1$s років</item>
     </plurals>
     <plurals name="birthday_event_description_days_ago">
-        <item quantity="other">%1$d днів з</item>
-        <item quantity="one">%1$d день з</item>
-        <item quantity="few">%1$d дні з</item>
-        <item quantity="many">%1$d днів з</item>
+        <item quantity="other">%1$d днів тому:</item>
+        <item quantity="one">%1$d день тому:</item>
+        <item quantity="few">%1$d дня тому:</item>
     </plurals>
     <plurals name="birthday_event_description_days_later">
-        <item quantity="other">%1$d днів до</item>
-        <item quantity="one">%1$d день до</item>
-        <item quantity="few">%1$d дні до</item>
-        <item quantity="many">%1$d днів до</item>
+        <item quantity="other">Через %1$d днів:</item>
+        <item quantity="one">Через %1$d день:</item>
+        <item quantity="few">Через %1$d дня:</item>
     </plurals>
     <plurals name="birthday_notification_age_term">
         <item quantity="other">%1$s років</item>
         <item quantity="one">%1$s рік</item>
         <item quantity="few">%1$s роки</item>
-        <item quantity="many">%1$s років</item>
     </plurals>
     <plurals name="countdown_day">
-        <item quantity="other">Залишилося %1$s днів</item>
-        <item quantity="one">Залишився %1$s день</item>
-        <item quantity="few">Залишилося %1$s дні</item>
-        <item quantity="many">Залишилося %1$s днів</item>
+        <item quantity="other">%1$s днів залишилося</item>
+        <item quantity="one">%1$s день залишився</item>
+        <item quantity="few">%1$s дня залишилося</item>
     </plurals>
     <plurals name="date_calculate_days_after">
-        <item quantity="other">%1$d днів після</item>
-        <item quantity="one">%1$d день після</item>
-        <item quantity="few">%1$d дні після</item>
-        <item quantity="many">%1$d днів після</item>
+        <item quantity="other">%1$d днів по тому</item>
+        <item quantity="one">%1$d день по тому</item>
+        <item quantity="few">%1$d дня по тому</item>
     </plurals>
     <plurals name="date_calculate_days_ago">
-        <item quantity="other">%1$d днів назад</item>
-        <item quantity="one">%1$d день назад</item>
-        <item quantity="few">%1$d дні назад</item>
-        <item quantity="many">%1$d днів назад</item>
+        <item quantity="other">%1$d днів по тому</item>
+        <item quantity="one">%1$d день по тому</item>
+        <item quantity="few">%1$d дня по тому</item>
     </plurals>
     <plurals name="date_calculate_direction_backward">
-        <item quantity="other">%1$d днів після</item>
-        <item quantity="one">%1$d день після</item>
-        <item quantity="few">%1$d дні після</item>
-        <item quantity="many">%1$d днів після</item>
+        <item quantity="other">%1$d днів по тому</item>
+        <item quantity="one">%1$d день по тому</item>
+        <item quantity="few">%1$d дня по тому</item>
     </plurals>
     <plurals name="date_calculate_direction_forward">
-        <item quantity="other">%1$d днів назад</item>
-        <item quantity="one">%1$d день назад</item>
-        <item quantity="few">%1$d дні назад</item>
-        <item quantity="many">%1$d днів назад</item>
+        <item quantity="other">%1$d днів тому</item>
+        <item quantity="one">%1$d день тому</item>
+        <item quantity="few">%1$d дня тому</item>
     </plurals>
     <plurals name="day_index">
         <item quantity="other">%1$d днів</item>
         <item quantity="one">%1$d день</item>
-        <item quantity="few">%1$d дні</item>
-        <item quantity="many">%1$d днів</item>
+        <item quantity="few">%1$d дня</item>
     </plurals>
     <plurals name="edit_date_calculate_days_error_hint">
-        <item quantity="other">Ви можете ввести до %1$d днів</item>
-        <item quantity="one">Ви можете ввести до %1$d дня</item>
-        <item quantity="few">Ви можете ввести до %1$d днів</item>
-        <item quantity="many">Ви можете ввести до %1$d днів</item>
+        <item quantity="other">Можна ввести до %1$d днів</item>
+        <item quantity="one">Можна ввести до %1$d дня</item>
+        <item quantity="few">Можна ввести до %1$d дней</item>
     </plurals>
     <plurals name="event_reminders_to_max">
-        <item quantity="other">Можна встановити до %d нагадувань</item>
-        <item quantity="one">Можна встановити %d нагадування</item>
-        <item quantity="few">Можна встановити до %d нагадувань</item>
-        <item quantity="many">Можна встановити до %d нагадувань</item>
+        <item quantity="other">Підтримується до %d нагадувань</item>
+        <item quantity="one">Підтримується до %d нагадування</item>
+        <item quantity="few">Підтримується до %d нагадування</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Півгодини тому</item>
-        <item quantity="one">Півгодини тому</item>
-        <item quantity="few">Півгодини тому</item>
-        <item quantity="many">Півгодини тому</item>
     </plurals>
     <plurals name="hide_completed_notes">
-        <item quantity="other">Приховувати %d завершених завдань</item>
-        <item quantity="one">Приховувати %d завершене завдання</item>
-        <item quantity="few">Приховувати %d завершених завдання</item>
-        <item quantity="many">Приховувати %d завершених завдань</item>
+        <item quantity="other">Приховати %d завершених завдань</item>
+        <item quantity="one">Приховати %d завершене завдання</item>
+        <item quantity="few">Приховати %d завершених завдань</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">Через годину</item>
-        <item quantity="one">Через годину</item>
-        <item quantity="few">Через годину</item>
-        <item quantity="many">Через годину</item>
     </plurals>
     <plurals name="in_half_hour">
         <item quantity="other">Через півгодини</item>
-        <item quantity="one">Через півгодини</item>
-        <item quantity="few">Через півгодини</item>
-        <item quantity="many">Через півгодини</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
         <item quantity="other">Негайно</item>
-        <item quantity="one">Негайно</item>
-        <item quantity="few">Негайно</item>
-        <item quantity="many">Негайно</item>
     </plurals>
     <plurals name="in_num_minutes">
-        <item quantity="other">через %d хв</item>
-        <item quantity="one">через 1 хв</item>
-        <item quantity="few">через %d хв</item>
-        <item quantity="many">через %d хв</item>
+        <item quantity="other">через %d хв.</item>
+        <item quantity="one">через 1 хвилину</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Тільки що</item>
-        <item quantity="one">Тільки що</item>
-        <item quantity="few">Тільки що</item>
-        <item quantity="many">Тільки що</item>
+        <item quantity="other">Прямо зараз</item>
     </plurals>
     <plurals name="mesens_card_title_day_in_predict">
-        <item quantity="other">%1$d день (прогноз)</item>
-        <item quantity="one">%1$d день (прогноз)</item>
-        <item quantity="few">%1$d день (прогноз)</item>
-        <item quantity="many">%1$d день (прогноз)</item>
+        <item quantity="other">%1$d день 
+(розрахунковий)</item>
+        <item quantity="one">%1$d день 
+(розрахунковий)</item>
     </plurals>
     <plurals name="mesens_card_title_days">
         <item quantity="other">%1$d день</item>
         <item quantity="one">%1$d день</item>
-        <item quantity="few">%1$d день</item>
-        <item quantity="many">%1$d день</item>
     </plurals>
     <plurals name="mesens_card_title_predict_date">
-        <item quantity="other">Наступна менструація почнеться через %1$d днів</item>
-        <item quantity="one">Наступна менструація почнеться через %1$d день</item>
-        <item quantity="few">Наступна менструація почнеться через %1$d дні</item>
-        <item quantity="many">Наступна менструація почнеться через %1$d днів</item>
+        <item quantity="other">Наступ. через %1$d днів</item>
+        <item quantity="one">Наступ. через %1$d день</item>
+        <item quantity="few">Наступ. через %1$d дня</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">Обрано: %d</item>
-        <item quantity="one">Обрано: %d</item>
-        <item quantity="few">Обрано: %d</item>
-        <item quantity="many">Обрано: %d</item>
+        <item quantity="other">Вибрано %d об'єктів</item>
+        <item quantity="one">Вибраний %d об'єкт</item>
+        <item quantity="few">Вибрано %d об'єкта</item>
     </plurals>
     <plurals name="month_more_events">
         <item quantity="other">+%d</item>
-        <item quantity="one">+%d</item>
+        <item quantity="one">+1</item>
         <item quantity="few">+%d</item>
         <item quantity="many">+%d</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d нових повідомлень</item>
+        <item quantity="one">%d нове повідомлення</item>
+    </plurals>
     <plurals name="n_attendees">
-        <item quantity="other">%1$d个邀请对象</item>
-        <item quantity="one">1个邀请对象</item>
-        <item quantity="few">%1$d个邀请对象</item>
-        <item quantity="many">%1$d个邀请对象</item>
+        <item quantity="other">%d повідомлень</item>
+        <item quantity="one">%d повідомлення</item>
+    </plurals>
+    <plurals name="n_weeks">
+        <item quantity="other">%d</item>
+        <item quantity="one">%d</item>
     </plurals>
     <plurals name="notes_custom_repeat_days">
         <item quantity="other">днів</item>
         <item quantity="one">день</item>
-        <item quantity="few">дні</item>
-        <item quantity="many">днів</item>
+        <item quantity="few">дня</item>
     </plurals>
     <plurals name="notes_custom_repeat_weeks">
         <item quantity="other">тижнів</item>
         <item quantity="one">тиждень</item>
-        <item quantity="few">тижні</item>
-        <item quantity="many">тижнів</item>
+        <item quantity="few">тижня</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">%d хв тому</item>
-        <item quantity="one">1 хв тому</item>
-        <item quantity="few">%d хв тому</item>
-        <item quantity="many">%d хв тому</item>
+        <item quantity="other">%d хвилин тому</item>
+        <item quantity="one">1 хвилину тому</item>
+        <item quantity="few">%d хвилини тому</item>
     </plurals>
     <plurals name="num_picker_hint">
-        <item quantity="other">" дн"</item>
-        <item quantity="one">" дн"</item>
-        <item quantity="few">" дн"</item>
-        <item quantity="many">" дн"</item>
+        <item quantity="other">" днів"</item>
+        <item quantity="one">" день"</item>
+        <item quantity="few">" дня"</item>
+    </plurals>
+    <plurals name="other_all_day_events">
+        <item quantity="other">Ще %d заходів</item>
+        <item quantity="one">Ще %d захід</item>
+        <item quantity="few">Ще %d заходи</item>
     </plurals>
     <plurals name="other_num_events">
-        <item quantity="other">Ще %d подій</item>
-        <item quantity="one">Ще %d подія</item>
-        <item quantity="few">Ще %d події</item>
-        <item quantity="many">Ще %d подій</item>
+        <item quantity="other">Ще %d заходів</item>
+        <item quantity="one">Ще %d захід</item>
+        <item quantity="few">Ще %d заходи</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_day">
+        <item quantity="other">" днів"</item>
+        <item quantity="one">" день"</item>
+        <item quantity="few">" дня"</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_hour">
+        <item quantity="other">" годин"</item>
+        <item quantity="one">" годину"</item>
+        <item quantity="few">" години"</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_minute">
+        <item quantity="other">" хвилин"</item>
+        <item quantity="one">" хвилину"</item>
+        <item quantity="few">" хвилини"</item>
+    </plurals>
+    <plurals name="reminder_later_toast">
+        <item quantity="other">Наступне нагадування через %1$d хвилин</item>
+        <item quantity="one">Наступне нагадування через %1$d хвилину</item>
+        <item quantity="few">Наступне нагадування через %1$d хвилини</item>
     </plurals>
     <plurals name="repeat_custom_prompt">
-        <item quantity="other">кожн. %1$s у %2$s</item>
-        <item quantity="one">кожн. %1$s у %2$s</item>
-        <item quantity="few">кожн. %1$s у %2$s</item>
-        <item quantity="many">кожн. %1$s у %2$s</item>
+        <item quantity="other"> %1$s: %2$s</item>
+        <item quantity="one"> %1$s: %2$s</item>
     </plurals>
     <plurals name="repeat_interval_frequency_day_multiple">
         <item quantity="other">%1$d днів</item>
         <item quantity="one">%1$d день</item>
-        <item quantity="few">%1$d дні</item>
-        <item quantity="many">%1$d днів</item>
+        <item quantity="few">%1$d дня</item>
     </plurals>
     <plurals name="repeat_interval_frequency_month_multiple">
         <item quantity="other">%1$d місяців</item>
         <item quantity="one">%1$d місяць</item>
-        <item quantity="few">%1$d місяці</item>
-        <item quantity="many">%1$d місяців</item>
+        <item quantity="few">%1$d місяця</item>
     </plurals>
     <plurals name="repeat_interval_frequency_week_multiple">
         <item quantity="other">%1$d тижнів</item>
         <item quantity="one">%1$d тиждень</item>
-        <item quantity="few">%1$d тижні</item>
-        <item quantity="many">%1$d тижнів</item>
+        <item quantity="few">%1$d тижня</item>
     </plurals>
     <plurals name="repeat_interval_frequency_year_multiple">
         <item quantity="other">%1$d років</item>
         <item quantity="one">%1$d рік</item>
         <item quantity="few">%1$d роки</item>
-        <item quantity="many">%1$d років</item>
     </plurals>
     <plurals name="show_completed_notes">
-        <item quantity="other">Показувати %d завершених завдань</item>
-        <item quantity="one">Показувати %d завершене завдання</item>
-        <item quantity="few">Показувати %d завершених завдання</item>
-        <item quantity="many">Показувати %d завершених завдань</item>
+        <item quantity="other">Показати %d завершених завдань</item>
+        <item quantity="one">Показати %d завершене завдання</item>
+        <item quantity="few">Показати %d завершені завдання</item>
     </plurals>
     <plurals name="subtitle_add_record">
-        <item quantity="other">Ви не створювали записи вже %1$d днів. Записуйте дані про цикл, щоб отримувати більш точні прогнози.</item>
-        <item quantity="one">Ви не створювали записи вже %1$d день. Записуйте дані про цикл, щоб отримувати більш точні прогнози.</item>
-        <item quantity="few">Ви не створювали записи вже %1$d дні. Записуйте дані про цикл, щоб отримувати більш точні прогнози.</item>
-        <item quantity="many">Ви не створювали записи вже %1$d днів. Записуйте дані про цикл, щоб отримувати більш точні прогнози.</item>
+        <item quantity="other">Ви не робили запис %1$d днів. Записуйте свої періоди для більш точних прогнозів.</item>
+        <item quantity="one">Ви не робили запис %1$d день. Записуйте свої періоди для більш точних прогнозів.</item>
+        <item quantity="few">Ви не робили запису %1$d дня. Записуйте свої періоди для більш точних прогнозів.</item>
     </plurals>
     <plurals name="subtitle_menstruation_continued_days">
-        <item quantity="other">Менструація триває %1$d днів</item>
-        <item quantity="one">Менструація триває %1$d день</item>
-        <item quantity="few">Менструація триває %1$d дні</item>
-        <item quantity="many">Менструація триває %1$d днів</item>
+        <item quantity="other">Період триває %1$d днів</item>
+        <item quantity="one">Період триває %1$d день</item>
+        <item quantity="few">Період триває %1$d дня</item>
     </plurals>
     <plurals name="subtitle_menstruation_cycle_days">
         <item quantity="other">%1$d день менструального циклу</item>
         <item quantity="one">%1$d день менструального циклу</item>
-        <item quantity="few">%1$d день менструального циклу</item>
-        <item quantity="many">%1$d день менструального циклу</item>
     </plurals>
     <plurals name="title_menstruation_day">
-        <item quantity="other">%1$d день менструації</item>
-        <item quantity="one">%1$d день менструації</item>
-        <item quantity="few">%1$d день менструації</item>
-        <item quantity="many">%1$d день менструації</item>
+        <item quantity="other">%1$d день періоду</item>
+        <item quantity="one">%1$d день періоду</item>
     </plurals>
     <plurals name="title_menstruation_margin_next_time_days">
-        <item quantity="other">%1$d днів до початку менструації</item>
-        <item quantity="one">%1$d день до початку менструації</item>
-        <item quantity="few">%1$d дні до початку менструації</item>
-        <item quantity="many">%1$d днів до початку менструації</item>
+        <item quantity="other">%1$d днів до періоду</item>
+        <item quantity="one">%1$d день до періоду</item>
+        <item quantity="few">%1$d дня до періоду</item>
     </plurals>
     <plurals name="title_menstruation_predict_period">
-        <item quantity="other">Ймовірно %1$d день менструації</item>
-        <item quantity="one">Ймовірно %1$d день менструації</item>
-        <item quantity="few">Ймовірно %1$d день менструації</item>
-        <item quantity="many">Ймовірно %1$d день менструації</item>
+        <item quantity="other">Розрахунковий період: %1$d днів</item>
+        <item quantity="one">Розрахунковий період: %1$d день</item>
+        <item quantity="few">Розрахунковий період: %1$d дня</item>
     </plurals>
     <plurals name="today_has_num_event">
-        <item quantity="other">Сьогодні %d подій</item>
-        <item quantity="one">Сьогодні %d подія</item>
-        <item quantity="few">Сьогодні %d події</item>
-        <item quantity="many">Сьогодні %d подій</item>
+        <item quantity="other">%d заходів сьогодні</item>
+        <item quantity="one">%d захід сьогодні</item>
+        <item quantity="few">%d заходи сьогодні</item>
     </plurals>
     <plurals name="travel_eta_advice">
-        <item quantity="other">%2$s хв їзди до %1$s.</item>
-        <item quantity="one">%2$s хв їзди до %1$s.</item>
-        <item quantity="few">%2$s хв їзди до %1$s.</item>
-        <item quantity="many">%2$s хв їзди до %1$s.</item>
+        <item quantity="other">%2$s хв. їзди до %1$s.</item>
+        <item quantity="one">%2$s хв. їзди до %1$s.</item>
+    </plurals>
+    <plurals name="travel_time_range_hours">
+        <item quantity="other">%d г.</item>
+        <item quantity="one">%d г.</item>
+    </plurals>
+    <plurals name="travel_time_range_mins">
+        <item quantity="other">%d хв.</item>
+        <item quantity="one">%d хв.</item>
     </plurals>
     <plurals name="weekN">
-        <item quantity="other">Тиждень %d</item>
-        <item quantity="one">Тиждень %d</item>
-        <item quantity="few">Тиждень %d</item>
-        <item quantity="many">Тиждень %d</item>
+        <item quantity="other">%d тиждень</item>
+        <item quantity="one">%d тиждень</item>
     </plurals>
     <plurals name="widget_countdown_day">
-        <item quantity="other">%1$s дн</item>
-        <item quantity="one">%1$s дн</item>
-        <item quantity="few">%1$s дн</item>
-        <item quantity="many">%1$s дн</item>
+        <item quantity="other">%1$s днів</item>
+        <item quantity="one">%1$s день</item>
+        <item quantity="few">%1$s дня</item>
     </plurals>
     <plurals name="widget_custom_unit_day">
-        <item quantity="other">%d дн</item>
-        <item quantity="one">%d дн</item>
-        <item quantity="few">%d дн</item>
-        <item quantity="many">%d дн</item>
+        <item quantity="other">%1$s днів</item>
+        <item quantity="one">%1$s день</item>
+        <item quantity="few">%1$s дня</item>
     </plurals>
     <plurals name="widget_normal_agenda_going_counts">
-        <item quantity="other">%d подій тривають</item>
-        <item quantity="one">%d подія триває</item>
-        <item quantity="few">%d події тривають</item>
-        <item quantity="many">%d подій тривають</item>
+        <item quantity="other">%d поточних заходів</item>
+        <item quantity="one">%d поточний захід</item>
+        <item quantity="few">%d поточні заходи</item>
     </plurals>
     <plurals name="widget_normal_agenda_next_minutes">
-        <item quantity="other">Наступна подія через %d хв</item>
-        <item quantity="one">Наступна подія через %d хв</item>
-        <item quantity="few">Наступна подія через %d хв</item>
-        <item quantity="many">Наступна подія через %d хв</item>
+        <item quantity="other">Наступ. захід через %d хв.</item>
+        <item quantity="one">Наступ. захід через %d хв.</item>
     </plurals>
     <plurals name="widget_normal_agenda_tomorrow_total">
-        <item quantity="other">Завтра %d подій</item>
-        <item quantity="one">Завтра %d подія</item>
-        <item quantity="few">Завтра %d події</item>
-        <item quantity="many">Завтра %d подій</item>
+        <item quantity="other">%d заходів завтра</item>
+        <item quantity="one">%d захід завтра</item>
     </plurals>
     <plurals name="widget_weekN">
-        <item quantity="other">Тиждень %d</item>
-        <item quantity="one">Тиждень %d</item>
-        <item quantity="few">Тиждень %d</item>
-        <item quantity="many">Тиждень %d</item>
+        <item quantity="other">%d тиждень</item>
+        <item quantity="one">%d тиждень</item>
     </plurals>
     <plurals name="work_days">
         <item quantity="other">%d робочих днів</item>
         <item quantity="one">%d робочий день</item>
         <item quantity="few">%d робочих дня</item>
-        <item quantity="many">%d робочих днів</item>
     </plurals>
 </resources>

@@ -48,7 +48,7 @@
     <string name="alert_message_delete_excerpt">Видалити цю нотатку? Виписка також буде видалена.</string>
     <string name="alert_message_delete_note">Видалити нотатку?</string>
     <string name="alert_message_edit_anyway">Якщо ви відредагуєте нотатку, то деякі її дані можуть бути втрачені.</string>
-    <string name="alert_message_edit_anyway_new">Ця нотатка містить непідтримуваний контент. Її редагування може викликати зміну формату або втрату даних.</string>
+    <string name="alert_message_edit_anyway_new">Ця примітка містить непідтримуваний вміст. Його редагування може призвести до зміни формату або втрати даних.</string>
     <string name="alert_message_restore">Не вдалося відкрити цю нотатку. Відновіть її, щоб відредагувати зміст.</string>
     <string name="alert_title_delete">Видалити нотатку</string>
     <string name="alert_title_edit_anyway">Відредагувати нотатку?</string>
@@ -203,7 +203,7 @@
     <string name="error_send_empty_note">Неможливо надіслати порожню нотатку</string>
     <string name="error_send_empty_note_to_weibo">Неможливо надіслати порожню нотатку до Weibo</string>
     <string name="error_unsupport_content">Ця нотатка містить зміст, що не підтримується. Натисніть тут, щоб оновити</string>
-    <string name="error_unsupport_content_format">Ця нотатка містить непідтримуваний контент. Оновіть до версії %1$s або пізніше.</string>
+    <string name="error_unsupport_content_format">Ця примітка містить непідтримуваний вміст. Оновити до нової версії %1$s або пізніше.</string>
     <string name="error_widget_exist_for_send_to_desktop">Ця нотатка вже є на робочому столі</string>
     <string name="evening">Після обіду</string>
     <string name="exceed_todo_text_limitation">Опис задачі занадто довгий.</string>
@@ -338,7 +338,6 @@
     <string name="menu_create_folder">Нова папка</string>
     <string name="menu_delete">Видалити</string>
     <string name="menu_delete_forever">Видалити назавжди</string>
-    <string name="menu_edit">Змінити</string>
     <string name="menu_folders">Папки</string>
     <string name="menu_group">Створити папку</string>
     <string name="menu_hide">Приховати</string>
@@ -373,7 +372,7 @@
     <string name="miui_penengine_more_tool_add_text">Вставка тексту</string>
     <string name="miui_penengine_more_tool_finger_write">Малювання пальцем</string>
     <string name="miui_penengine_more_tool_insert_pic">Вставка зображення</string>
-    <string name="miui_penengine_more_tool_pencil_hotkey">Smart-ярлики</string>
+    <string name="miui_penengine_more_tool_pencil_hotkey">Розумні-ярлики</string>
     <string name="miui_penengine_note_title">Заголовок</string>
     <string name="miui_penengine_ppw_select_copy">Скопіювати</string>
     <string name="miui_penengine_ppw_select_copy_as_text">Копіювати як текст</string>
@@ -496,6 +495,7 @@
     <string name="mtrl_picker_a11y_next_month">Перейти до наступного місяця</string>
     <string name="mtrl_picker_a11y_prev_month">Перейти до попереднього місяця</string>
     <string name="mtrl_picker_announce_current_selection">Поточний вибір: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Виберіть дату</string>
     <string name="mtrl_picker_date_header_unselected">Вибрана дата</string>
@@ -536,7 +536,7 @@
     <string name="note_description_content">"Нотатки - це чудова програма для запису ваших ідей. Вона включає вбудовані нагадування та синхронізує ваші об'єкти із хмарою, щоб ви могли мати до них доступ в будь-який час та з будь-якого місця. Перед видаленням переконайтеся, що ви зможете працювати без цих функцій."</string>
     <string name="note_description_title">Про програму</string>
     <string name="note_dual_screen_dialog_content">"Схоже, що в даний момент ви редагуєте нотатки на комп'ютері. Щоб уникнути конфліктуючих правок, закрийте Нотатки на комп'ютері."</string>
-    <string name="note_dual_screen_dialog_title">Використовується Screen Combo…</string>
+    <string name="note_dual_screen_dialog_title">Використовується Комбінація екрана…</string>
     <string name="note_gesture_guide_step1">Утримуйте \"+\" для створення голосової нотатки</string>
     <string name="note_gesture_guide_step2">Перетягніть одну нотатку на іншу, щоб створити папку</string>
     <string name="note_gesture_guide_step3">Перетягніть нотатку на значок папки, щоб перемістити її</string>
@@ -552,11 +552,11 @@
     <string name="note_mindnote_entrance_hint_newversion">"Почніть введення "</string>
     <string name="note_mindnote_entrance_icon_text">Створити асоціативну карту</string>
     <string name="note_mindnote_entrance_icon_text_newversion">Створити асоціативну карту</string>
-    <string name="note_module_name">Нотатки</string>
     <string name="note_not_text_stub">Немає тексту</string>
     <string name="note_sort_way">Сортування</string>
     <string name="notealert_enter">Відкрити нотатку</string>
     <string name="notealert_ok">Відхилити</string>
+    <string name="notelist_string_info">…</string>
     <string name="notes_description_content">Програма \"Нотатки\" являється системною. Ви не зможете використовувати її після видалення.</string>
     <string name="notes_description_title">Видалити програму \"Нотатки\"?</string>
     <string name="notification_content_add_todo_from_other_app">Ви додали нове завдання. Натисніть для перегляду.</string>
@@ -608,7 +608,7 @@
     <string name="pc_todo_fast_create_hint">Введіть текст та натисніть \"Ввести\", щоб додати незавершене завдання</string>
     <string name="pc_todo_set_remind_time_hint">Встановіть час</string>
     <string name="permdesc_accessNote">Шкідливі програми можуть використовувати цей дозвіл для доступу до ваших персональних даних.</string>
-    <string name="permission_data_shared_desc">Заява про обмін даними з третьою стороною програми \"Нотатки\"</string>
+    <string name="permission_data_shared_desc">Заява про передачу третім особам даних з програми \"Нотатки\"</string>
     <string name="permission_get_account_desc">Синхронізація нотаток із хмарою</string>
     <string name="permission_intro_contact">Маркування нотаток, зроблених під час викликів</string>
     <string name="permission_intro_microphone">Запис голосових нотаток</string>
@@ -622,7 +622,7 @@
     <string name="permission_storage_desc_pad_v12">Для додавання зображень та збереження нотаток у вигляді зображень</string>
     <string name="permission_storage_desc_v12">Для додавання зображень та збереження нотаток у вигляді зображень</string>
     <string name="permission_xiaoai_desc">&lt;Data>Mi AI буде збирати ваші голосові записи та ID пристрою для розшифрування та створення голосових нотаток. Ознайомтеся з &lt;a href=\"%1$s\">Політикою конфіденційності&lt;/a> Mi AI для отримання більш детальної інформації.&lt;/Data></string>
-    <string name="permission_xiaoai_desc_new">&lt;Data>Для надання транскрипційних послуг розпізнавання мовлення Мі AI необхідно отримувати дані вхідного звуквого сигналу та використовувати ідентифікатор пристрою, який генерується випадковим чином. Перед продовженням ознайомтеся та прийміть нашу &lt;a href=\"%1$s\">Заяву про обмін даними з третьою стороною програми Нотатки&lt;/a>. Ви також можете дізнатися більше у &lt;a href=\"%2$s\">Політиці конфіденційності Mi Ai&lt;/a>.&lt;/Data></string>
+    <string name="permission_xiaoai_desc_new">&lt;Data>Для надання транскрипційних послуг розпізнавання мовлення Мі AI необхідно отримати дані з аудіовводу і використовувати ідентифікатор пристрою, який генерується випадковим чином. Перед продовженням ознайомтеся та прийміть нашу &lt;a href=\"%1$s\">Заяву про передачу третім особам даних з програми Нотатки&lt;/a>. Ви також можете дізнатися більше у &lt;a href=\"%2$s\">Політиці конфіденційності Mi Ai&lt;/a>.&lt;/Data></string>
     <string name="permission_xiaoai_title">Розпізнавання мовлення</string>
     <string name="permlab_accessNote">Доступ до нотаток</string>
     <string name="pm">ПО</string>
@@ -714,12 +714,11 @@
     <string name="select_account_prompt">Синхронізація нотаток</string>
     <string name="send">Надіслати</string>
     <string name="set_alarm_description">Встановити нагадування</string>
-    <string name="setting_big_screen_layout_columns">Бокова панель</string>
-    <string name="setting_big_screen_layout_flat">Заголовки</string>
-    <string name="setting_big_screen_layout_title">Макет великого робочого столу</string>
-    <string name="setting_cloud_service">Хмарні послуги</string>
+    <string name="setting_big_screen_layout_columns">Бічна панель</string>
+    <string name="setting_big_screen_layout_flat">Плитка</string>
+    <string name="setting_big_screen_layout_title">Великий макет екрану</string>
     <string name="setting_layout">Макет</string>
-    <string name="setting_micloud_sync_title">Xiaomi Cloud</string>
+    <string name="setting_micloud_sync_title">Синхронізація з хмарою</string>
     <string name="setting_note_list_layout_title">Макет</string>
     <string name="setting_other">ІНШЕ</string>
     <string name="setting_privacy">Політика конфіденційності</string>
@@ -758,7 +757,7 @@
     <string name="sunday_shortest">Нд</string>
     <string name="sync_all_terms">%1$s, %2$s, та %3$s</string>
     <string name="sync_desc_state_complete">Синхронізовано iз хмарою</string>
-    <string name="sync_desc_state_complete_china">All %1$s have been synced</string>
+    <string name="sync_desc_state_complete_china">Всі %1$s були синхронізовані</string>
     <string name="sync_desc_state_disable">Увімкнути синхронізацію із хмарою</string>
     <string name="sync_desc_state_running">Синхронізація iз хмарою</string>
     <string name="sync_folder_todo">%1$s та %2$s</string>
@@ -877,7 +876,7 @@
     <string name="todo_event_description_today">Сьогодні</string>
     <string name="todo_event_description_tomorrow">Завтра</string>
     <string name="todo_event_description_yesterday">Вчора</string>
-    <string name="todo_float_permission_open_reminder">Для використання цієї функції дозвольте програмі Нотатки відображати спливаючі вікна в інших програмах.</string>
+    <string name="todo_float_permission_open_reminder">Для використання цієї функції дозвольте програмі Нотатки відображати вспливаючі вікна в інших програмах.</string>
     <string name="todo_item_group_expired">Закінчився термін</string>
     <string name="todo_item_group_finished">Виконано</string>
     <string name="todo_item_group_further">Пізніше</string>
@@ -944,15 +943,15 @@
     <string name="v7_preference_off">ВИМКНЕНО</string>
     <string name="v7_preference_on">УВІМКНЕНО</string>
     <string name="view_all_notes">Переглянути все</string>
-    <string name="warn_cannot_add_new_bullet">Неможливо додати новий список, занадто довга нотатка</string>
-    <string name="warn_cannot_add_new_checkbox">Неможливо додати нову галочку, занадто довга нотатка</string>
-    <string name="warn_cannot_add_new_doodle">Неможливо додати новий ескіз, занадто довга нотатка</string>
-    <string name="warn_cannot_add_new_element">"Неможливо додати новий об'єкт, занадто довга нотатка"</string>
-    <string name="warn_cannot_add_new_link_card">Неможливо додати нове посилання, занадто довга нотатка</string>
-    <string name="warn_cannot_add_new_picture">Неможливо додати нове зображення, занадто довга нотатка</string>
-    <string name="warn_cannot_add_new_style">Неможливо додати новий формат, занадто довга нотатка</string>
-    <string name="warn_disable_edit_in_browse_mode">Ви не можете редагувати нотатки в режимі тільки для читання</string>
-    <string name="warn_enter_browse_mode">Ви знаходитеся в режимі тільки для читання</string>
+    <string name="warn_cannot_add_new_bullet">"Не вдається додати новий маркований список, оскільки нотатка задовга"</string>
+    <string name="warn_cannot_add_new_checkbox">"Не вдається додати новий прапорець, оскільки нотатка задовга"</string>
+    <string name="warn_cannot_add_new_doodle">"Не вдається додати новий дудл, оскільки нотатка задовга"</string>
+    <string name="warn_cannot_add_new_element">"Не вдається додати новий елемент, оскільки нотатка задовга"</string>
+    <string name="warn_cannot_add_new_link_card">"Не вдається додати нове посилання, оскільки нотатка задовга"</string>
+    <string name="warn_cannot_add_new_picture">"Не вдається додати нове зображення, оскільки нотатка задовга"</string>
+    <string name="warn_cannot_add_new_style">"Не вдається додати новий формат, оскільки нотатка задовга"</string>
+    <string name="warn_disable_edit_in_browse_mode">"Ви не можете редагувати нотатки в режимі лише для читання"</string>
+    <string name="warn_enter_browse_mode">"Ви перебуваєте в режимі лише для читання"</string>
     <string name="web_sso_login_fail">Необхідно авторизуватися знову</string>
     <string name="web_sso_login_message">Авторизація…</string>
     <string name="webview_reload">Спробувати знову</string>

@@ -167,6 +167,7 @@ dd.MM."</string>
     <string name="midnight">Ніч</string>
     <string name="mini_time">Маленький годинник</string>
     <string name="minimalist_clock">Звичайний годинник</string>
+    <string name="miuix_access_state_desc">Вибрано</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Зняти вибір</string>
     <string name="miuix_appcompat_action_mode_select_all">Вибрати все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Вибрати</string>
@@ -270,7 +271,7 @@ dd.MM."</string>
     <string name="select_notification_notify_style">Виберіть ефект сповіщення</string>
     <string name="send">Надіслати</string>
     <string name="share">Поділитися</string>
-    <string name="share_to_community">Відправити до Mi Спільноти</string>
+    <string name="share_to_community">Відравити до Xiaomi Community</string>
     <string name="show_battery">Показувати стан заряду батареї</string>
     <string name="show_battery_status">Показувати стан заряду батареї</string>
     <string name="show_lunar">Показати традиційний китайський календар</string>
@@ -283,10 +284,11 @@ dd.MM."</string>
 прекрасне скоро станеться"</string>
     <string name="standard_clock_panel">Стандартний</string>
     <string name="standard_style">Стандартний</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="step_component_info_active_tip">"Кількість кроків надається програмою Xiaomi Здоров'я. Погодьтеся з Умовами використання Xiaomi Здоров'я для продовження."</string>
     <string name="step_component_info_desc">"Кількість кроків перетворюється на трофей, коли ви досягнете мети. Кількість кроків надається програмою Xiaomi Здоров'я."</string>
     <string name="step_component_info_tip">"Кількість кроків надається програмою Xiaomi Здоров'я. Встановіть або оновіть Xiaomi Здоров'я та погодьтеся з її Умовами використання для продовження."</string>
-    <string name="step_to_image_community">Ще більше в Мі Спільноті</string>
+    <string name="step_to_image_community">Ще більше – в Xiaomi Community</string>
     <string name="summary">"Для економії енергії об'єкти не будуть відображатися, коли пристрій знаходиться у темряві протягом тривалого часу."</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Неділя</string>
@@ -338,6 +340,7 @@ dd.MM."</string>
     <string name="the_united_nations_day">"День Організації Об'єднаних Націй"</string>
     <string name="the_valentines_day">День Святого Валентина</string>
     <string name="the_water_lantern_festival">Фестиваль водних ліхтарів</string>
+    <string name="theme_manager_other">"Більше об'єктів"</string>
     <string name="thursday">Четвер</string>
     <string name="thursday_short">Чт</string>
     <string name="thursday_shortest">Чт</string>

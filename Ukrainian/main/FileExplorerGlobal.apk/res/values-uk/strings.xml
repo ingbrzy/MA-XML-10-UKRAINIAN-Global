@@ -37,6 +37,7 @@
     <string name="add_private_files">Додати файли</string>
     <string name="add_remote">Додати віддалений пристрій</string>
     <string name="agree_all">Я прочитав і погоджуюся з наступними правилами та умовами.</string>
+    <string name="agree_privacy_policy">Погодитися з Політикою конфіденційності</string>
     <string name="all">Всі</string>
     <string name="already_latest_version">Оновлення не потрібно.</string>
     <string name="anonymous">Анонімний</string>
@@ -207,6 +208,7 @@
     <string name="fcm_fallback_notification_channel_label">Інше</string>
     <string name="feedback_desc">Опишіть проблему, з якою ви зіткнулися</string>
     <string name="feedback_send_email_body_extra_info">Не видаляйте наступну інформацію. Вона допоможе нам знайти проблему.</string>
+    <string name="feeling_ok">Нормально</string>
     <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_info_canread">Можна прочитати: </string>
     <string name="file_info_canwrite">Можна записати: </string>
@@ -232,11 +234,12 @@
     <string name="ftp_username_hint">"Ім'я користувача"</string>
     <string name="gbk_summary">Стандартне кодування у спрощеній китайській версії Windows</string>
     <string name="gigabyteShort">ГБ</string>
+    <string name="great">Дуже задоволений</string>
     <string name="grid_order">Сітка</string>
     <string name="homepage_tab_recent">Останні</string>
     <string name="host">Хост</string>
     <string name="hot_sticker">Наклейки</string>
-    <string name="ic_remove_desc">Провідник - це системна програма, яка дозволяє вам переглядати та керувати файлами на пристрої. Видалити її все одно?</string>
+    <string name="ic_remove_desc">Провідник - це системна програма, яка дозволяє вам переглядати та керувати файлами на пристрої. Видалити її?</string>
     <string name="ic_remove_title">Видалити \"Провідник\" з робочого екрана?</string>
     <string name="if_cancel">Скасувати цю дію?</string>
     <string name="image_loading_error">Не вдалося завантажити зображення</string>
@@ -277,7 +280,7 @@
     <string name="menu_item_usb">USB</string>
     <string name="mi_router_label">Роутер</string>
     <string name="mode">Режим</string>
-    <string name="month_day_format">dd MMMM</string>
+    <string name="month_day_format">d MMM</string>
     <string name="more">Ще</string>
     <string name="more_option">Додаткові параметри</string>
     <string name="move_failed">Не вдалося перемістити</string>
@@ -307,6 +310,7 @@
     <string name="not_connect_user">Не вдалося підключити: %1$s та %2$s</string>
     <string name="not_installed_documentsui">DocumentsUI не встановлено</string>
     <string name="not_support_documentui">DocumentUI не підтримується на цьому пристрої</string>
+    <string name="not_very_dissatisfied">Незадоволений</string>
     <string name="notif_server_starting">Запуск сервера FTP…</string>
     <string name="notif_title">Сервер FTP запущений</string>
     <string name="notification_wechat_expired_empty">Ці відео були видалені з WeChat.</string>
@@ -439,6 +443,7 @@
     <string name="s5">Створити подію календаря</string>
     <string name="s6">Дозволити оголошенню створити подію календаря?</string>
     <string name="s7">Тестове оголошення</string>
+    <string name="satisfied">Задоволений</string>
     <string name="save_seven_day">Очищувати раз на тиждень</string>
     <string name="scan_code_download_from_play">Відскануйте QR-код, щоб завантажити з Play Store</string>
     <string name="search_description">Знайти усі файли на пристрої</string>
@@ -467,7 +472,7 @@
     <string name="server_control_settings">Налаштування</string>
     <string name="set_pattern">Пароль було оновлено</string>
     <string name="set_pattern_btn">Задати</string>
-    <string name="set_pattern_msg">Задайте пароль ще раз. Пароль для захисту конфіденційності працює також для фото, повідомлень та нотаток.</string>
+    <string name="set_pattern_msg">Задайте пароль ще раз. Пароль захисту конфіденційності працює також для фото, повідомлень та нотаток.</string>
     <string name="setting">Налаштування</string>
     <string name="settings_about">Про програму</string>
     <string name="settings_feedback">Звіт</string>
@@ -494,6 +499,8 @@
     <string name="storage_usb">USB-накопичувач</string>
     <string name="storage_warning">Зовнішній носій недоступний</string>
     <string name="str_clean">Очищення</string>
+    <string name="switch_to_grid_mode">Переключти на перегляд у вигляді сітки</string>
+    <string name="switch_to_list_mode">Переключити на перегляд у вигляді списку</string>
     <string name="tab_common_app">Програми та папки</string>
     <string name="tab_more">Ще</string>
     <string name="terabyteShort">ТБ</string>
@@ -515,7 +522,7 @@
     <string name="type_not_support">Формат файлу не підтримується. Розпакуйте та повторіть спробу.</string>
     <string name="ui_main_toast_favorite_removed">Видалено з обраних</string>
     <string name="ui_main_toast_operation_failed">Не вдалося видалити %1$s</string>
-    <string name="unlock_pattern_msg">Пароль для захисту конфіденційності працює також для фото, повідомлень та нотаток.</string>
+    <string name="unlock_pattern_msg">Пароль захисту конфіденційності працює також для фото, повідомлень та нотаток.</string>
     <string name="unlock_pattern_title">Новий пароль</string>
     <string name="update_now">Оновити зараз</string>
     <string name="update_use_mobile_data">Оновлювати автоматично через мобільний інтернет</string>
@@ -528,13 +535,14 @@
     <string name="user_notice_term_of_service">Угода користувача</string>
     <string name="utf8_summary">Тип кодування за замовчуванням</string>
     <string name="version_name">Версія</string>
+    <string name="very_dissatisfied">Дуже незадоволений</string>
     <string name="view_by_document">Переглянути у Файлах</string>
     <string name="wechat_video">Відео з %s</string>
     <string name="whatsapp_cache_garbage">Кеш</string>
     <string name="whatsapp_cache_garbage_cleanup">Очистити</string>
     <string name="whatsapp_cache_garbage_tip">Під час очищення кешу видалення важливих даних не відбувається. Ви можете використовувати програму як звичайно.</string>
     <string name="wifi_state">Статус Wi-Fi</string>
-    <string name="year_month_day_format">dd MMMM yyyy</string>
+    <string name="year_month_day_format">d MMM yyyy</string>
     <string name="yes">Так</string>
     <string name="yesterday">Вчора</string>
 </resources>

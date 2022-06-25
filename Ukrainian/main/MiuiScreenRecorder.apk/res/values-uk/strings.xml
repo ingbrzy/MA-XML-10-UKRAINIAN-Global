@@ -141,6 +141,7 @@
     <string name="hint_volume_down">Зменшення гучності</string>
     <string name="hint_volume_up">Збільшення гучності</string>
     <string name="home_title_none">"Вибрати об'єкти"</string>
+    <string name="invisible_mode_error_tip">Ви в Анонімному режимі. Неможилво записати звук.</string>
     <string name="is_checked">Вибрано</string>
     <string name="is_go_home">Назад до Запису екрана</string>
     <string name="is_go_home_summary">Відкривати головну сторінку програми після зупинення запису</string>

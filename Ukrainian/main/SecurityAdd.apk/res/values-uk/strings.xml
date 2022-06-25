@@ -58,6 +58,7 @@
     <string name="dual_app_title">Клоновані програми</string>
     <string name="dual_app_words">Незалежні копії будь-яких програм</string>
     <string name="early_morning">Ранок</string>
+    <string name="empty">" "</string>
     <string name="eras_ad">н. е.</string>
     <string name="eras_bc">до н. е.</string>
     <string name="evening">Після обіду</string>
@@ -271,7 +272,7 @@
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потягніть вниз для оновлення</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Оновлено</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Оновлення…</string>
-    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">День дурня</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Відпустіть для оновлення</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">Більше нічого немає</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">Більше нічого немає</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Хвилинку…</string>
@@ -348,6 +349,7 @@
     <string name="size_peta_byte">Пб</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">ТБ</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Неділя</string>
     <string name="sunday_short">Нед</string>
