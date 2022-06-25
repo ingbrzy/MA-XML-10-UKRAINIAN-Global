@@ -494,7 +494,6 @@ http://zhushou.xiaomi.com"</string>
     <string name="space_not_enough_msg">Недостатньо місця для завантаження прошивки.</string>
     <string name="space_not_enough_title">"Пам'ять заповнена"</string>
     <string name="stable_build">стабільна збірка</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="store_auto_summary">Оновлювати вибрані програми автоматично після оновлення MIUI</string>
     <string name="store_auto_update">Оновлювати автоматично</string>
     <string name="store_log_detail">Ви можете автоматично оновлювати наступні системні програми</string>

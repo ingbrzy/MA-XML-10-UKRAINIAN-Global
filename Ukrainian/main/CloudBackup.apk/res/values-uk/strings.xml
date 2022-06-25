@@ -490,8 +490,6 @@
     <string name="open_backup_switch">Увімкніть резервний перемикач</string> 
     <string name="other_device_main_space">Перший простір</string> 
     <string name="other_device_second_space">Другий простір</string> 
-    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string> 
-    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string> 
     <string name="pc_mode_not_support_restore_warning">"Не вдається відновити елементи в режимі ПК. Вимкніть режим ПК і повторіть спробу."</string> 
     <string name="permission_to_use">Деталі дозволів</string> 
     <string name="pm">PM</string> 
@@ -709,6 +707,5 @@
     <string name="wednesday">Ср</string> 
     <string name="wednesday_short">Ср</string> 
     <string name="wednesday_shortest">Ср</string> 
-    <string name="xiaomi_account_type">com.xiaomi</string> 
     <string name="yesterday">Вчора</string> 
 </resources>
