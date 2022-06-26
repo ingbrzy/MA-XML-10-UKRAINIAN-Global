@@ -1708,6 +1708,7 @@
     <string name="preference_category_ringtone">Сигнал дзвінка та вібросигнал</string>
     <string name="preference_check_privacy">Переглянути Політику конфіденційності</string>
     <string name="preference_copied">\"%1$s\": скопійовано в буфер обміну.</string>
+    <string name="preference_countrycode_title">Код країни</string>
     <string name="preference_dial_pad_touch_tone_default">За замовчуванням</string>
     <string name="preference_dial_pad_touch_tone_off">Вимкнено</string>
     <string name="preference_dial_pad_touch_tone_piano">Звуки фортепіано</string>
@@ -2612,5 +2613,4 @@ SIM-картка буде заблокована при наступній не�
     <string name="zen_mode_forever">Доки не вимкнути</string>
     <string name="zen_mode_settings_summary_off">Ніколи</string>
     <string name="zen_mode_settings_turn_on_dialog_title">Увімкнути режим \"Не турбувати\"</string>
-    <string name="preference_countrycode_title">Код країни</string>
 </resources>

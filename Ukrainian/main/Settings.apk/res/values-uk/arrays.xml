@@ -907,6 +907,10 @@
         <item>Показувати області накладення</item>
         <item>Показувати області для дейтераномалії</item>
     </string-array>
+    <string-array name="default_vol_stream_entries">
+        <item>Рінгтон</item>
+        <item>Медія</item>
+    </string-array>
     <string-array name="dream_timeout_entries">
         <item>Ніколи</item>
         <item>15 секунд</item>
@@ -1704,9 +1708,5 @@
         <item>Анімація 2x</item>
         <item>Анімація 5x</item>
         <item>Анімація 10x</item>
-    </string-array>
-    <string-array name="default_vol_stream_entries">
-        <item>Рінгтон</item>
-        <item>Медія</item>
     </string-array>
 </resources>

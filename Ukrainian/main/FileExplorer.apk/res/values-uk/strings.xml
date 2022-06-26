@@ -228,6 +228,18 @@
     <string name="file_name_existed">Ім\'я файлу зайнято</string>
     <string name="file_name_invalid">"У імені файлу не може бути наступних символів: /\\:*?&lt;&gt;"</string>
     <string name="file_not_exist">"Файл не існує"</string>
+    <string name="fmt_date_long_month">MMMM</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month">MMMM, yyyy</string>
+    <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
+    <string name="fmt_date_numeric_month_day">d.M.</string>
+    <string name="fmt_date_numeric_year">yyyy</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
+    <string name="fmt_date_short_month">MMM</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month">MMM, yyyy</string>
+    <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
     <string name="folder_name_empty">"Ім'я папки не може бути порожнім"</string>
     <string name="folder_name_illegal">Некоректна назва папки</string>
     <string name="found_router">Роутер підключено</string>
@@ -760,27 +772,13 @@
     <string name="wednesday_short">Ср</string>
     <string name="wednesday_shortest">Ср</string>
     <string name="wifi_state">Статус Wi-Fi</string>
+    <string name="withdraw">Відкликати</string>
+    <string name="withdraw_consent">Відкликати прийнятя конфіденційності</string>
+    <string name="withdraw_consent_content">"Якщо ви продовжите, відкликання Політики конфіденційності додатка \"Провідник\" то ви не зможете використовувати цей додаток. Уже зібрана і збережена вами особиста інформація буде видалена протягом відповідного терміну, з дійснини законами і правилами.
+	
+Оскільки додаток \"Провідник\" надає свої сервіси на основі збору деякої особистой інформації, відкликання прийнятя буде розглядуватися як відказ від використання цих сервісів."</string>
+    <string name="withdraw_consent_summary">Відкликання прийнятя з Політикою конфіденційності додатка \"Провідник\"</string>
     <string name="year_month_day_format">d MMMM yyyy</string>
     <string name="yes">Так</string>
     <string name="yesterday">Вчора</string>
-
-
-  <string name="fmt_date_long_month">MMMM</string>
-  <string name="fmt_date_long_month_day">d MMMM</string>
-  <string name="fmt_date_long_year_month">MMMM, yyyy</string>
-  <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
-  <string name="fmt_date_numeric_month_day">d.M.</string>
-  <string name="fmt_date_numeric_year">yyyy</string>
-  <string name="fmt_date_numeric_year_month">M-yyyy</string>
-  <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
-  <string name="fmt_date_short_month">MMM</string>
-  <string name="fmt_date_short_month_day">d MMM</string>
-  <string name="fmt_date_short_year_month">MMM, yyyy</string>
-  <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
-  <string name="withdraw">Відкликати</string>
-  <string name="withdraw_consent">Відкликати прийнятя конфіденційності</string>
-  <string name="withdraw_consent_content">"Якщо ви продовжите, відкликання Політики конфіденційності додатка \"Провідник\" то ви не зможете використовувати цей додаток. Уже зібрана і збережена вами особиста інформація буде видалена протягом відповідного терміну, з дійснини законами і правилами.
-	
-Оскільки додаток \"Провідник\" надає свої сервіси на основі збору деякої особистой інформації, відкликання прийнятя буде розглядуватися як відказ від використання цих сервісів."</string>
-  <string name="withdraw_consent_summary">Відкликання прийнятя з Політикою конфіденційності додатка \"Провідник\"</string>
 </resources>  

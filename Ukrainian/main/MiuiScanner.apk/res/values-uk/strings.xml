@@ -208,6 +208,18 @@
     <string name="flash_close">Вимкнути</string>
     <string name="flash_open">Увімкнути</string>
     <string name="flight_mode_connecting_to_wifi">Вмикайте Wi-Fi вручну у Режимі польоту</string>
+    <string name="fmt_date_long_month">MMMM</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month">MMMM, yyyy</string>
+    <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
+    <string name="fmt_date_numeric_month_day">d.M.</string>
+    <string name="fmt_date_numeric_year">yyyy</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
+    <string name="fmt_date_short_month">MMM</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month">MMM, yyyy</string>
+    <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
     <string name="food_identification_fail_tips">Скануйте фрукти, овочі та іншу їжу. Ця функція також працює із зображеннями.</string>
     <string name="food_identification_tip_msg">Розпізнавання їжі…</string>
     <string name="food_make_complaints_hint">Введіть текст</string>
@@ -278,6 +290,7 @@
     <string name="local_ocr_recognition">Місцеве розпізнавання ocr</string>
     <string name="local_ocr_recognition_str">Перемкнено на оффлайн переклад</string>
     <string name="logistics">Експрес-доставка</string>
+    <string name="logout_service">Відкликання згоди</string>
     <string name="low_version_tip">Для використання Сканера оновіть MIUI до останньої версії.</string>
     <string name="midnight">Ніч</string>
     <string name="mihome_goto_install">Встановити</string>
@@ -406,6 +419,7 @@
     <string name="pdf_is_being_saved">Збереження PDF…</string>
     <string name="pdf_name">Ім\'я файлу</string>
     <string name="pdf_save_sucess">Успішно збережено</string>
+    <string name="permission_management">Дозволи</string>
     <string name="phone">Телефон:</string>
     <string name="phone_can_not_be_empty">"Поле номера телефону не може бути порожнім"</string>
     <string name="phone_number">Номер телефону</string>
@@ -427,6 +441,11 @@
     <string name="preparing_sd">Підготовка внутрішньої пам\'яті…</string>
     <string name="previous">Назад</string>
     <string name="privacy_policy">Політика конфіденційності</string>
+    <string name="privacy_policy_update">Оновлена Політика конфіденційності</string>
+    <string name="privacy_policy_update_message"><Data>Ви не зможете використовувати Сканер, якщо не приймете оновлену &lt;a href=\"%1$s\">Політику конфіденційності&lt;/a>. Приймаєте?</Data></string>
+    <string name="privacy_policy_update_welcome">Оновлена Політика конфіденційності:</string>
+    <string name="privacy_policy_withdrawal_error">Не вдалося відкликати згоду. Спробуйте пізніше.</string>
+    <string name="privacy_policy_withdrawal_message"><Data>"Якщо ви продовжите, згода з Політикою конфіденційності буде відкликана. Це буде розглядатися як відмова від послуг сканера. Вам доведеться прийняти &lt;a href=\"%1$s\">Політику конфіденційності&lt;/a> ще раз, якщо ви знову вирішите використати Сканер. Відкликати згоду зараз?"</Data></string>
     <string name="processing">Обробка…</string>
     <string name="prompt">Увага</string>
     <string name="qr_code_details">Деталі QR-коду:</string>
@@ -643,9 +662,12 @@
     <string name="url_is_safety">Цей сайт безпечний</string>
     <string name="url_is_unknown">"Не вдається перевірити чи цей сайт безпечний"</string>
     <string name="url_is_unsafety">"Цей сайт небезпечний"</string>
+    <string name="user_agreement">Угода користувача</string>
+    <string name="user_notification">Відкликання згоди</string>
     <string name="v7_preference_off">ВИМКНЕНО</string>
     <string name="v7_preference_on">УВІМКНЕНО</string>
     <string name="vender_info_translation_kingsoft">Підтримка: Kingsoft</string>
+    <string name="version_code">"Версія: "</string>
     <string name="visit">Переглянути</string>
     <string name="waybill_num">"Замовлення: "</string>
     <string name="web">Сайт:</string>
@@ -680,28 +702,4 @@
     <string name="you_have_permission_to_download">Натисніть для завантаження бета-версії</string>
     <string name="you_id">"Ваш ID: "</string>
     <string name="your_application_is_under_review">" (Ваша заявка розглядається.)"</string>
-    <string name="permission_management">Дозволи</string>
-    <string name="user_agreement">Угода користувача</string>
-    <string name="privacy_policy_withdrawal_message"><Data>"Якщо ви продовжите, згода з Політикою конфіденційності буде відкликана. Це буде розглядатися як відмова від послуг сканера. Вам доведеться прийняти &lt;a href=\"%1$s\">Політику конфіденційності&lt;/a> ще раз, якщо ви знову вирішите використати Сканер. Відкликати згоду зараз?"</Data></string>
-    <string name="user_notification">Відкликання згоди</string>
-    <string name="logout_service">Відкликання згоди</string>
-    <string name="privacy_policy_update">Оновлена Політика конфіденційності</string>
-    <string name="privacy_policy_update_message"><Data>Ви не зможете використовувати Сканер, якщо не приймете оновлену &lt;a href=\"%1$s\">Політику конфіденційності&lt;/a>. Приймаєте?</Data></string>
-    <string name="privacy_policy_update_welcome">Оновлена Політика конфіденційності:</string>
-    <string name="privacy_policy_withdrawal_error">Не вдалося відкликати згоду. Спробуйте пізніше.</string>
-    <string name="version_code">"Версія: "</string>
-
-
-  <string name="fmt_date_long_month">MMMM</string>
-  <string name="fmt_date_long_month_day">d MMMM</string>
-  <string name="fmt_date_long_year_month">MMMM, yyyy</string>
-  <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
-  <string name="fmt_date_numeric_month_day">d.M.</string>
-  <string name="fmt_date_numeric_year">yyyy</string>
-  <string name="fmt_date_numeric_year_month">M-yyyy</string>
-  <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
-  <string name="fmt_date_short_month">MMM</string>
-  <string name="fmt_date_short_month_day">d MMM</string>
-  <string name="fmt_date_short_year_month">MMM, yyyy</string>
-  <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
 </resources>  

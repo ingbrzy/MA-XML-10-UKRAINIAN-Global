@@ -1,19 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="a">Перейти на головний</string>
-    <string name="b">Перейти вгору</string>
-    <string name="c">Інші опції</string>
-    <string name="d">Готово</string>
-    <string name="e">Переглянути всі</string>
-    <string name="f">Вибрати програму</string>
-    <string name="g">ВИМК.</string>
-    <string name="h">УВІМК.</string>
-    <string name="u">Alt+</string>
-    <string name="v">Ctrl+</string>
-    <string name="w">delete</string>
-    <string name="x">enter</string>
-    <string name="y">Function+</string>
-    <string name="z">Meta+</string>
     <string name="a0">Shift+</string>
     <string name="a1">пробіл</string>
     <string name="a2">Sym+</string>
@@ -41,6 +28,7 @@
     <string name="an">Встановлено</string>
     <string name="ao">Не встановлено</string>
     <string name="ap">Доступне оновлення</string>
+    <string name="app_name">ShareMe</string>
     <string name="aq">Встановити</string>
     <string name="ar">Відкрити</string>
     <string name="as">Оновити</string>
@@ -49,8 +37,8 @@
     <string name="av">Файли на пристрої</string>
     <string name="aw">Оновити програми</string>
     <string name="ax">Mi Mover</string>
-    <string name="app_name">ShareMe</string>
     <string name="ay">Ця програма може бути не сумісна з пристроєм отримувача</string>
+    <string name="b">Перейти вгору</string>
     <string name="b0">Попросіть іншого користувача показати QR-код</string>
     <string name="b1">Автооновлення</string>
     <string name="b2">Використання мобільного інтернету для завантаження оновлень програм може викликати додаткові витрати</string>
@@ -84,6 +72,7 @@
     <string name="bx">Перевірка оновлень…</string>
     <string name="by">Тип підключення</string>
     <string name="bz">Очистити все</string>
+    <string name="c">Інші опції</string>
     <string name="c0">Натисніть на фото профілю, щоб відправити</string>
     <string name="c1">Увімкнути</string>
     <string name="c2">Додаток %1$s не працюватиме, якщо не ввімкнути сервіси Google Play.</string>
@@ -121,6 +110,7 @@
     <string name="cx">Власна тема</string>
     <string name="cy">Мова системи</string>
     <string name="cz">Видалити</string>
+    <string name="d">Готово</string>
     <string name="d0">Видалити цей файл?</string>
     <string name="d1">Видалити цей файл із списку передач?</string>
     <string name="d2">Продовжити</string>
@@ -158,6 +148,7 @@
 - Увімкніть Wi-Fi"</string>
     <string name="dw">Вийти</string>
     <string name="dz">Щось пішло не так</string>
+    <string name="e">Переглянути всі</string>
     <string name="e0">"Не вдалося отримати інформацію.
 Перевірте налаштування мережі та повторіть спробу."</string>
     <string name="e1">Звіт</string>
@@ -195,6 +186,7 @@
     <string name="ex">Не вдалося відкрити порт. Перевірте підключення до мережі або скиньте номери порту.</string>
     <string name="ey">Пароль</string>
     <string name="ez">Номер порту</string>
+    <string name="f">Вибрати програму</string>
     <string name="f0">Безпека</string>
     <string name="f1">"Введіть ім'я користувача та пароль"</string>
     <string name="f2">"Ім'я користувача"</string>
@@ -230,6 +222,7 @@
     <string name="fx">ShareMe</string>
     <string name="fy">Діліться даними з людьми поблизу.</string>
     <string name="fz">Відправляйте та отримуйте з дивовижною швидкістю.</string>
+    <string name="g">ВИМК.</string>
     <string name="g0">Виберіть файли та натисніть \"Відправити\".</string>
     <string name="g1">Натисніть, щоб відправити</string>
     <string name="g2">Виберіть ShareMe</string>
@@ -269,6 +262,7 @@
     <string name="gx">Неможливо увімкнути точку доступу Wi-Fi через недостатню кількість дозволів.</string>
     <string name="gy">Не вдалося знайти отримувача</string>
     <string name="gz">Встановлена остання версія програми.</string>
+    <string name="h">УВІМК.</string>
     <string name="h0">Немає мереж Wi-Fi</string>
     <string name="h1">Не вдалося знайти Wi-Fi мережі. Натисніть, щоб відкрити налаштування Wi-Fi.</string>
     <string name="h2">Ви можете поділитися цим посиланням, якщо у вашого друга немає ShareMe (Mi Drop) на пристрої.</string>
@@ -560,4 +554,10 @@
     <string name="p3">OK</string>
     <string name="p4">Нажаль, виникла помилка камери. Можливо, вам знадобиться перезавантажити пристрій.</string>
     <string name="p5">Щоб відсканувати штрих-код, помістіть його в прямокутник видошукача.</string>
+    <string name="u">Alt+</string>
+    <string name="v">Ctrl+</string>
+    <string name="w">delete</string>
+    <string name="x">enter</string>
+    <string name="y">Function+</string>
+    <string name="z">Meta+</string>
 </resources>

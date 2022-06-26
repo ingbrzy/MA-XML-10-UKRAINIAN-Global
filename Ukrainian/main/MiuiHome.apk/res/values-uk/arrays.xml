@@ -73,6 +73,11 @@
         <item>Я</item>
         <item>\#</item>
     </string-array>
+    <string-array name="animation_rate_entries">
+        <item>Елегантна</item>
+        <item>Баланс</item>
+        <item>Мінімалістична</item>
+    </string-array>
     <string-array name="cell_layout_size_entries">
         <item>4x4</item>
         <item>4x5</item>
@@ -131,10 +136,5 @@
         <item>Вимкнена (шпалери по центру)</item>
         <item>Вимкнена (шпалери ліворуч)</item>
         <item>Вимкнена (шпалери праворуч)</item>
-    </string-array>
-	<string-array name="animation_rate_entries">
-        <item>Елегантна</item>
-        <item>Баланс</item>
-        <item>Мінімалістична</item>
     </string-array>
 </resources>

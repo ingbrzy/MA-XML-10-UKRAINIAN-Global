@@ -1,31 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="cancel">Скасувати</string>
-    <string name="copy">Копіювати</string>
-    <string name="copyUrl">Копіювати URL</string>
-    <string name="cut">Вирізати</string>
-    <string name="defaultVoiceMailAlphaTag">Голосова пошта</string>
-    <string name="defaultMsisdnAlphaTag">MSISDN1</string>
-    <string name="emptyPhoneNumber">(Немає номера тел.)</string>
-    <string name="httpErrorBadUrl">Не вдалося відкрити сторінку, оскільки URL-адреса не дійсна.</string>
-    <string name="httpErrorUnsupportedScheme">Протокол не підтримується.</string>
-    <string name="no">Скасувати</string>
-    <string name="ok">OK</string>
-    <string name="paste">Вставити</string>
-    <string name="search_go">Пошук</string>
-    <string name="selectAll">Вибрати все</string>
-    <string name="unknownName">Невідомо</string>
-    <string name="untitled">&lt;Без назви></string>
-    <string name="VideoView_error_button">OK</string>
-    <string name="VideoView_error_text_unknown">Неможливо відтворити це відео.</string>
-    <string name="VideoView_error_title">Проблема з відео</string>
-    <string name="yes">OK</string>
-    <string name="dialog_alert_title">Увага</string>
-    <string name="VideoView_error_text_invalid_progressive_playback">Відео не придатне для потокового передавання в цей пристрій.</string>
-    <string name="selectTextMode">Вибрати текст</string>
-    <string name="fingerprint_icon_content_description">Значок відбитка пальця</string>
-    <string name="paste_as_plain_text">Вставити як простий текст</string>
-    <string name="autofill">Автозаповнення</string>
     <string name="BaMmi">Заборона викл.</string>
     <string name="CLIRDefaultOffNextCallOff">Ідентиф. абонента за умовч. не обмеж. Наст. дзвінок: не обмежений</string>
     <string name="CLIRDefaultOffNextCallOn">Ідентиф. абонента за умовч. не обмеж. Наст. дзвінок: обмеж.</string>
@@ -167,6 +141,10 @@
     <string name="RuacMmi">Відхил. небажаних надокучливих дзвінків</string>
     <string name="SetupCallDefault">Прийняти виклик?</string>
     <string name="ThreeWCMmi">Конференція</string>
+    <string name="VideoView_error_button">OK</string>
+    <string name="VideoView_error_text_invalid_progressive_playback">Відео не придатне для потокового передавання в цей пристрій.</string>
+    <string name="VideoView_error_text_unknown">Неможливо відтворити це відео.</string>
+    <string name="VideoView_error_title">Проблема з відео</string>
     <string name="accept">Прийняти</string>
     <string name="accessibility_binding_label">Спеціальні можливості</string>
     <string name="accessibility_button_instructional_text">Щоб переключитися між функціями, натисніть і утримуйте кнопку спеціальних можливостей.</string>
@@ -297,6 +275,7 @@
     <string name="app_suspended_unsuspend_message">Відновити доступ до додатка</string>
     <string name="app_upgrading_toast">Додаток %1$s оновлюється…</string>
     <string name="as_app_forced_to_restricted_bucket">Пакет \"%1$s\" додано в сегмент з обмеженнями</string>
+    <string name="autofill">Автозаповнення</string>
     <string name="autofill_address_name_separator">" "</string>
     <string name="autofill_address_summary_format">$1$2$3</string>
     <string name="autofill_address_summary_name_format">$1$2$3</string>
@@ -379,6 +358,7 @@
     <string name="call_notification_incoming_text">Вхідний виклик</string>
     <string name="call_notification_ongoing_text">Активний виклик</string>
     <string name="call_notification_screening_text">Вхідний виклик (Фільтр)</string>
+    <string name="cancel">Скасувати</string>
     <string name="capability_desc_canCaptureFingerprintGestures">Може фіксувати жести на сканері відбитків пальців.</string>
     <string name="capability_desc_canControlMagnification">Контролювати масштаб і розташування екрана.</string>
     <string name="capability_desc_canPerformGestures">Можна торкатися, проводити пальцем, стискати пальці та виконувати інші жести.</string>
@@ -435,11 +415,14 @@
     <string name="conversation_title_fallback_group_chat">Груповий чат</string>
     <string name="conversation_title_fallback_one_to_one">Чат</string>
     <string name="copied">Скопійовано</string>
+    <string name="copy">Копіювати</string>
+    <string name="copyUrl">Копіювати URL</string>
     <string name="country_detector">Визначення країни</string>
     <string name="country_selection_title">Вибір регіону</string>
     <string name="create_contact_using">"Створ. контакт
  викор. %s"</string>
     <string name="crossSimFormat_spn_cross_sim_calling">%s: резервний спосіб здійснення викликів</string>
+    <string name="cut">Вирізати</string>
     <string name="data_saver_description">Щоб зменшити використання трафіку, функція \"Заощадження трафіку\" не дозволяє деяким додаткам надсилати чи отримувати дані у фоновому режимі. Поточний додаток зможе отримувати доступ до таких даних, але рідше. Наприклад, зображення не відображатиметься, доки ви не торкнетеся його.</string>
     <string name="data_saver_enable_button">Увімкнути</string>
     <string name="data_saver_enable_title">Увімкнути заощадження трафіку?</string>
@@ -473,6 +456,8 @@
     <string name="days">дн.</string>
     <string name="decline">Відхилити</string>
     <string name="decline_remote_bugreport_action">ВІДХИЛИТИ</string>
+    <string name="defaultMsisdnAlphaTag">MSISDN1</string>
+    <string name="defaultVoiceMailAlphaTag">Голосова пошта</string>
     <string name="default_audio_route_category_name">Система</string>
     <string name="default_audio_route_name">Телефон</string>
     <string name="default_audio_route_name_dock_speakers">Динаміки док-станції</string>
@@ -493,6 +478,7 @@
     <string name="device_storage_monitor_notification_channel">Пам’ять пристрою</string>
     <string name="dial_number_using">"Набр. номер
  викор. %s"</string>
+    <string name="dialog_alert_title">Увага</string>
     <string name="disable_accessibility_shortcut">Вимкнути ярлик</string>
     <string name="dismiss_action">Закрити</string>
     <string name="display_manager_built_in_display_name">Вбудований екран</string>
@@ -525,6 +511,7 @@
     <string name="emailTypeWork">Робоча</string>
     <string name="emergency_call_dialog_number_for_display">Аварійний номер</string>
     <string name="emergency_calls_only">Лише екстрені виклики</string>
+    <string name="emptyPhoneNumber">(Немає номера тел.)</string>
     <string name="enablePin">Помилка. Увімкніть блокування SIM/RUIM.</string>
     <string name="enable_explore_by_touch_warning_message">%1$s хоче ввімкнути функцію дослідження дотиком. Увімкнувши функцію дослідження дотиком, можна чути або бачити опис елемента, розташованого під вашим пальцем, або виконувати жести для взаємодії з телефоном.</string>
     <string name="enable_explore_by_touch_warning_title">Увімкнути дослідження дотиком?</string>
@@ -669,6 +656,7 @@
     <string name="fingerprint_error_timeout">Час очікування відбитка пальця минув. Повторіть спробу.</string>
     <string name="fingerprint_error_unable_to_process">Повторіть спробу.</string>
     <string name="fingerprint_error_user_canceled">Користувач скасував дію з відбитком пальця.</string>
+    <string name="fingerprint_icon_content_description">Значок відбитка пальця</string>
     <string name="fingerprint_name_template">Відбиток пальця %d</string>
     <string name="fingerprint_or_screen_lock_app_setting_name">Використовувати відбиток пальця або дані для розблокування екрана</string>
     <string name="fingerprint_or_screen_lock_dialog_default_subtitle">Щоб продовжити, скористайтеся відбитком пальця або даними для розблокування екрана</string>
@@ -742,6 +730,7 @@
     <string name="hours">год.</string>
     <string name="httpError">Сталася помилка мережі.</string>
     <string name="httpErrorAuth">Не вдалось автентифікувати.</string>
+    <string name="httpErrorBadUrl">Не вдалося відкрити сторінку, оскільки URL-адреса не дійсна.</string>
     <string name="httpErrorConnect">Не вдалося під’єднатися до сервера.</string>
     <string name="httpErrorFailedSslHandshake">Не вдалося встановити безпечне з’єднання.</string>
     <string name="httpErrorFile">Не вдалось отримати доступ до файлу.</string>
@@ -754,6 +743,7 @@
     <string name="httpErrorTimeout">Час підключення до сервера минув.</string>
     <string name="httpErrorTooManyRequests">Обробляється забагато запитів. Спробуйте пізніше.</string>
     <string name="httpErrorUnsupportedAuthScheme">Схема автентифікації сайту не підтримується.</string>
+    <string name="httpErrorUnsupportedScheme">Протокол не підтримується.</string>
     <string name="imProtocolAim">AIM</string>
     <string name="imProtocolCustom">Указати</string>
     <string name="imProtocolGoogleTalk">Hangouts</string>
@@ -1167,6 +1157,7 @@
     <string name="new_sms_notification_content">Щоб переглянути, відкрийте додаток для SMS</string>
     <string name="new_sms_notification_title">У вас є нові повідомлення</string>
     <string name="next_button_label">Далі</string>
+    <string name="no">Скасувати</string>
     <string name="noApplications">Жодний додаток не може виконати цю дію.</string>
     <string name="no_file_chosen">Не вибрано файл</string>
     <string name="no_matches">Немає збігів</string>
@@ -1231,6 +1222,7 @@
     <string name="number_picker_increment_button">Збільшити</string>
     <string name="number_picker_increment_scroll_action">Проведіть пальцем угору, щоб збільшити, і вниз, щоб зменшити.</string>
     <string name="number_picker_increment_scroll_mode">%s – натисніть і утримуйте.</string>
+    <string name="ok">OK</string>
     <string name="old_app_action">Назад у додаток %1$s</string>
     <string name="older">Давніше</string>
     <string name="oneMonthDurationPast">1 міс. тому</string>
@@ -1250,6 +1242,8 @@
     <string name="password_keyboard_label_alpha_key">ABC</string>
     <string name="password_keyboard_label_alt_key">ALT</string>
     <string name="password_keyboard_label_symbol_key">\?123</string>
+    <string name="paste">Вставити</string>
+    <string name="paste_as_plain_text">Вставити як простий текст</string>
     <string name="pasted_content">Скопійований контент вставлено в додатку %1$s</string>
     <string name="pasted_from_app">Дані з додатка %2$s вставлено в %1$s</string>
     <string name="pasted_from_clipboard">Дані з буфера обміну вставлено в додатку %1$s</string>
@@ -1723,6 +1717,7 @@
     <string name="screen_lock_app_setting_name">Доступ розблокуванням екрана</string>
     <string name="screen_lock_dialog_default_subtitle">Щоб продовжити, введіть дані для розблокування екрана</string>
     <string name="screenshot_edit">Редагувати</string>
+    <string name="search_go">Пошук</string>
     <string name="search_hint">Пошук…</string>
     <string name="search_language_hint">Введіть назву мови</string>
     <string name="searchview_description_clear">Очистити запит</string>
@@ -1732,6 +1727,8 @@
     <string name="searchview_description_voice">Голосовий пошук</string>
     <string name="second">сек.</string>
     <string name="seconds">сек.</string>
+    <string name="selectAll">Вибрати все</string>
+    <string name="selectTextMode">Вибрати текст</string>
     <string name="select_character">Вставл-ня символу</string>
     <string name="select_day">Виберіть місяць і день</string>
     <string name="select_hours">Виберіть години</string>
@@ -1883,6 +1880,7 @@
     <string name="ui_translation_accessibility_translated_text">%1$s (перекладене повідомлення).</string>
     <string name="ui_translation_accessibility_translation_finished">Повідомлення перекладено (мова оригіналу: %1$s, мова перекладу: %2$s).</string>
     <string name="undo">Відмінити</string>
+    <string name="unknownName">Невідомо</string>
     <string name="unpin_specific_target">Відкріпити додаток %1$s</string>
     <string name="unpin_target">Відкріпити</string>
     <string name="unread_convo_overflow">%1$d+</string>
@@ -1891,6 +1889,7 @@
     <string name="unsupported_compile_sdk_show">Завжди показувати</string>
     <string name="unsupported_display_size_message">Додаток %1$s не підтримує поточне налаштування розміру екрана та може працювати неналежним чином.</string>
     <string name="unsupported_display_size_show">Завжди показувати</string>
+    <string name="untitled">&lt;Без назви></string>
     <string name="upload_file">Виберіть файл</string>
     <string name="usb_accessory_notification_title">Під’єднано USB-аксесуар</string>
     <string name="usb_charging_notification_title">Пристрій заряджається через USB</string>
@@ -2016,6 +2015,7 @@
     <string name="write_fail_reason_cannot_write">Помилка записування вмісту</string>
     <string name="year">рік</string>
     <string name="years">р.</string>
+    <string name="yes">OK</string>
     <string name="zen_mode_alarm">До %1$s (наступний будильник)</string>
     <string name="zen_mode_default_events_name">Подія</string>
     <string name="zen_mode_default_every_night_name">Під час сну</string>

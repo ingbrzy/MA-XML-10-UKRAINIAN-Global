@@ -177,7 +177,6 @@
     <string name="dialog_request_network_btn_positive">Погоджуюсь</string>
     <string name="dialog_request_network_message">Ласкаво просимо до Mi Mover! Ви можете використовувати цю програму, щоб перенести дані зі старого пристрою на новий.
 Ми будемо захищати вашу особисту інформацію відповідно до чинного законодавства, правил та Політики конфіденційності. Додаток Mi Mover потребує підключення до Інтернету та наступних дозволів для збирання вашої особистої інформації: увімкнення та вимкнення Wi-Fi, доступ до контактів, журналу дзвінків, SMS, MMS, записів дзвінків та аудіозаписів, та їх передача.</string>
-    <string name="dialog_request_permission_message">Ласкаво просимо до Mi Mover! Ви можете використовувати цей додаток, щоб передавати дані з iCloud або ваш старий пристрій на новий. Цей додаток потребує підключення до Інтернету і вимагає таких дозволів для нормальної роботи:</string>
     <string name="dialog_request_permission_message">"Ласкаво просимо до Mi Mover! 
 Ви можете використовувати цю програму, щоб перенести дані зі старого пристрою на новий.
 Дані будуть передаватися лише між двома пристроями та не завантажуватимуться на наші сервери.
@@ -228,15 +227,18 @@
     <string name="failed_description">Не вдалося</string>
     <string name="faq">ЧАП</string>
     <string name="finished">Завершено</string>
+    <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
-    <string name="fmt_date_long_year_month">MMMM yyyy</string>
-    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
-    <string name="fmt_date_numeric_month_day">dd.MM</string>
-    <string name="fmt_date_numeric_year_month">MM.yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">dd.MM.yyyy</string>
+    <string name="fmt_date_long_year_month">MMMM, yyyy</string>
+    <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
+    <string name="fmt_date_numeric_month_day">d.M.</string>
+    <string name="fmt_date_numeric_year">yyyy</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
+    <string name="fmt_date_short_month">MMM</string>
     <string name="fmt_date_short_month_day">d MMM</string>
-    <string name="fmt_date_short_year_month">MMM yyyy</string>
-    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
+    <string name="fmt_date_short_year_month">MMM, yyyy</string>
+    <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
     <string name="fmt_time_12hour">"h 'Г'"</string>
     <string name="fmt_time_24hour">"HH 'Г'"</string>
     <string name="fmt_time_millis">"S'мс'"</string>
@@ -590,7 +592,6 @@
     <string name="permission_request_title">Надайте \"%1$s\"</string>
     <string name="permission_setting_button">Налаштування</string>
     <string name="permission_storage_summary">Для перенесення файлів і фотографій на новий пристрій</string>
-    <string name="permission_storage_title">Доступ до сховища</string>
     <string name="permission_storage_title">Доступ до файлів та збереження фотографій, що зберігаються на пристрої</string>
     <string name="permission_wifi_summary">Для перенесення елементів на новий пристрій</string>
     <string name="permission_wifi_title">Увімкнення та вимкнення Wi-Fi</string>
@@ -613,9 +614,9 @@
     <string name="provisiion_set_old_phone_summary">Використовуйте Mi Mover для імпорту даних зі старого пристрою без підключення до Інтернету</string>
     <string name="provision_cta_title">Перенесення зі старого пристрою</string>
     <string name="provision_receiver_finish_button">Далі</string>
-    <string name="qq_app">QQ</string>
     <string name="provision_select_data_null">Виберіть дані для передачі</string>
     <string name="provision_set_new_phone">Використовувати як новий пристрій</string>
+    <string name="qq_app">QQ</string>
     <string name="qq_app_receive_fail">"Не вдалося отримати QQ"</string>
     <string name="qq_app_send_fail">"Не вдалося надіслати QQ"</string>
     <string name="qq_data_external">Дані QQ SD карти</string>
@@ -856,7 +857,6 @@
     <string name="trans_one_key_migrate">Mi Mover</string>
     <string name="trans_receive_time_remained">Отримано: %1$s | Залишилося: %2$s</string>
     <string name="trans_send_time_remained">Надіслано: %1$s | Залишилося: %2$s</string>
-    <string name="trans_show_qr_code_label">Підключитися до старого пристрою</string>
     <string name="trans_show_qr_code_label">Відкрити Mi Mover на старому пристрої</string>
     <string name="trans_sync_transfer_data_list">Виберіть елементи для переносу на старий пристрій</string>
     <string name="trans_sync_transfer_data_list_apple">"Виберіть дані для передачі
@@ -935,28 +935,15 @@
     <string name="wednesday">Середа</string>
     <string name="wednesday_short">Ср</string>
     <string name="wednesday_shortest">Ср</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Не зараз</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Оновити</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Доступне оновлення</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Менеджер завантаження з\'єднання втрачено, будь ласка, перевірте стан менеджера завантажень в менеджері програм.</string>
     <string name="xiaomi_update_sdk_dialog_message">"Представлена версія %1$s
 Розмір: %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_message_diff">"Представлена версія %1$s
 Розмір дельти оновлення: %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_title">%1$s оновлення!</string>
-    <string name="xiaomi_market_sdk_update_dialog_ok">Оновити</string>
-    <string name="xiaomi_market_sdk_update_dialog_cancel">Не зараз</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">Сховище недоступне, будь ласка, перевірте карту SD.</string>
     <string name="yesterday">Вчора</string>
-    <string name="xiaomi_market_sdk_update_dialog_title">Доступне оновлення</string>
-
-  <string name="fmt_date_long_month">MMMM</string>
-  <string name="fmt_date_long_month_day">d MMMM</string>
-  <string name="fmt_date_long_year_month">MMMM, yyyy</string>
-  <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
-  <string name="fmt_date_numeric_month_day">d.M.</string>
-  <string name="fmt_date_numeric_year">yyyy</string>
-  <string name="fmt_date_numeric_year_month">M-yyyy</string>
-  <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
-  <string name="fmt_date_short_month">MMM</string>
-  <string name="fmt_date_short_month_day">d MMM</string>
-  <string name="fmt_date_short_year_month">MMM, yyyy</string>
-  <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
 </resources>  

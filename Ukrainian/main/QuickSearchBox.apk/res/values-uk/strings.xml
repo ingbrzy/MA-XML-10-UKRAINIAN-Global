@@ -36,6 +36,18 @@
     <string name="default_hint">Пошук</string>
     <string name="device_settings_category_title">Очистити історію пошуку</string>
     <string name="entrance_setting">Запуск</string>
+    <string name="fmt_date_long_month">MMMM</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month">MMMM, yyyy</string>
+    <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
+    <string name="fmt_date_numeric_month_day">d.M.</string>
+    <string name="fmt_date_numeric_year">yyyy</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
+    <string name="fmt_date_short_month">MMM</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month">MMM, yyyy</string>
+    <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
     <string name="google_app_label">Пошук Google</string>
     <string name="google_search_description">Пропозиції пошуку Google</string>
     <string name="google_search_hint">Пошук Google</string>
@@ -117,18 +129,4 @@
     <string name="voice_search_hint_title">Говоріть:</string>
     <string name="web_search_results">Результати пошуку</string>
     <string name="xiaomi_search_label">Результати онлайн</string>
-
-
-  <string name="fmt_date_long_month">MMMM</string>
-  <string name="fmt_date_long_month_day">d MMMM</string>
-  <string name="fmt_date_long_year_month">MMMM, yyyy</string>
-  <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
-  <string name="fmt_date_numeric_month_day">d.M.</string>
-  <string name="fmt_date_numeric_year">yyyy</string>
-  <string name="fmt_date_numeric_year_month">M-yyyy</string>
-  <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
-  <string name="fmt_date_short_month">MMM</string>
-  <string name="fmt_date_short_month_day">d MMM</string>
-  <string name="fmt_date_short_year_month">MMM, yyyy</string>
-  <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
 </resources>  

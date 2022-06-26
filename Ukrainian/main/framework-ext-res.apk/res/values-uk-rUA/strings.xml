@@ -99,6 +99,18 @@
     <string name="first_back_long_press_message">Щоб задати власні дії \"Натиснути та Утримувати\" для кнопок навігації, перейдіть в розділ Налаштування &gt; Додаткові налаштування &gt; Кнопки</string>
     <string name="flip_screen_camera_tip">Поверніть пристрій для використання камери</string>
     <string name="fm_record_smaple_prefix_miui">Запис FM</string>
+    <string name="fmt_date_long_month">MMMM</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month">MMMM, yyyy</string>
+    <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
+    <string name="fmt_date_numeric_month_day">d.M.</string>
+    <string name="fmt_date_numeric_year">yyyy</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
+    <string name="fmt_date_short_month">MMM</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month">MMM, yyyy</string>
+    <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
     <string name="force_exit_message">Критична помилка %1$s</string>
     <string name="force_exit_skip_message">"Програма \"%1$s\" є ключовим компонентом системи. 
 Неможливо примусово завершити процес."</string>
@@ -378,18 +390,4 @@
     <string name="xspace_resolver_activity_title">Виберіть програму</string>
     <string name="zte">ZTE</string>
     <string name="zte_phone">ZTE</string>
-
-
-  <string name="fmt_date_long_month">MMMM</string>
-  <string name="fmt_date_long_month_day">d MMMM</string>
-  <string name="fmt_date_long_year_month">MMMM, yyyy</string>
-  <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
-  <string name="fmt_date_numeric_month_day">d.M.</string>
-  <string name="fmt_date_numeric_year">yyyy</string>
-  <string name="fmt_date_numeric_year_month">M-yyyy</string>
-  <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
-  <string name="fmt_date_short_month">MMM</string>
-  <string name="fmt_date_short_month_day">d MMM</string>
-  <string name="fmt_date_short_year_month">MMM, yyyy</string>
-  <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
 </resources>  
