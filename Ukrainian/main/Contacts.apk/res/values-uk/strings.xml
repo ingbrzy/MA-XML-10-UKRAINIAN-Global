@@ -214,8 +214,6 @@
     <string name="composer_has_no_exportable_contact">Не знайдені контакти для експорту. Можливо, експорт контактів з пристрою не підтримується постачальником послуг передачі даних.</string>
     <string name="composer_not_initialized">Редактор vCard запущений некоректно.</string>
     <string name="conference_call_disable_tip">Неможливо здійснювати виклики. Переконайтеся, що пристрій підключено до мережі 4G з підтримкою VoLTE.</string>
-    <string name="confirm_call_log_dial_summary">Щоб запобігти випадковим викликам, запитувати підтвердження перед набором з журналів викликів.</string>
-    <string name="confirm_call_log_dial_title">Підтвердьте набір з журналів викликів</string>
     <string name="confirm_delete_contact_all_call_logs">Очистити всю історю %s?</string>
     <string name="confirm_delete_selected_all_call_logs">Очистити журнал викликів?</string>
     <string name="confirm_delete_sim_entry_miui_title">Видалити</string>
@@ -505,6 +503,7 @@
     <string name="friday">"П'ятниця"</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">"Ім'я"</string>
     <string name="gallery">Галерея</string>
     <string name="ghostData_company">Компанія</string>
@@ -630,6 +629,7 @@
     <string name="menu_sync_remove">Вимкнути синхронізацію групи</string>
     <string name="midnight">Ніч</string>
     <string name="miprofile_account_type">Візитки</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">Змінити профіль</string>
     <string name="miprofile_name">Мій профіль</string>
     <string name="miprofile_nick_name_divider">"  |  "</string>
@@ -786,6 +786,7 @@
     <string name="permission_retry_dialog_msg_pad">Щоб використовувати свою SIM-карту за допомогою цієї програми та керувати своїми контактами, надайте цій програмі доступ до ваших контактів та їх редагування, а також доступ до інформації про пристрій.</string>
     <string name="permission_retry_setting">Налаштування</string>
     <string name="phoneLabelsGroup">Телефон</string>
+    <string name="phone_info_divider">" | "</string>
     <string name="phone_number_too_long_toast">Номер занадто довгий</string>
     <string name="phone_primary">Основний</string>
     <string name="photoPickerNotFoundText">На пристрої немає зображень.</string>
@@ -1026,6 +1027,7 @@
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">Немає контактів у групі</string>
     <string name="six_letter">MNO</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">За компаніями</string>
     <string name="smart_group_company_unavailable">Немає компанії</string>
     <string name="smart_group_frequency_1">Впродовж місяця</string>
@@ -1067,6 +1069,7 @@
     <string name="starred_contacts">Обрані</string>
     <string name="status_available">На місці</string>
     <string name="status_away">Відсутній</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_busy">Не турбувати</string>
     <string name="strequentList">Обрані</string>
     <string name="success_message_import_from_account">Імпорт завершено</string>
@@ -1204,4 +1207,6 @@
     <string name="yesterday">Вчора</string>
     <string name="zero_items_selected">Виберіть контакти</string>
     <string name="zero_letter">+</string>
+    <string name="confirm_call_log_dial_summary">Щоб запобігти випадковим викликам, запитувати підтвердження перед набором з журналів викликів.</string>
+    <string name="confirm_call_log_dial_title">Підтвердьте набір з журналів викликів</string>
 </resources>

@@ -148,6 +148,18 @@
         <item quantity="few">Ви сьогодні переглянули %d хв</item>
         <item quantity="many">Ви сьогодні переглянули %d хв</item>
     </plurals>
+    <plurals name="incentive_popup_window_share_success">
+        <item quantity="other">Відправлено успішно. Ви отримали %d балів.</item>
+        <item quantity="one">Відправлено успішно. Ви отримали %d бал.</item>
+        <item quantity="few">Відправлено успішно. Ви отримали %d бали.</item>
+        <item quantity="many">Відправлено успішно. Ви отримали %d балів.</item>
+    </plurals>
+    <plurals name="incentive_popup_window_subscribe_success">
+        <item quantity="other">Підписано успішно. Ви отримали %d балів.</item>
+        <item quantity="one">Підписано успішно. Ви отримали %d бал.</item>
+        <item quantity="few">Підписано успішно. Ви отримали %d бали.</item>
+        <item quantity="many">Підписано успішно. Ви отримали %d балів.</item>
+    </plurals>
     <plurals name="incentive_task_watchvideo_begin">
         <item quantity="other">Отримайте %d балів!</item>
         <item quantity="one">Отримайте %d бал!</item>

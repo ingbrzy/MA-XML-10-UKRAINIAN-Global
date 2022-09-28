@@ -27,21 +27,8 @@
     <string name="abc_shareactionprovider_share_with">Надіслати через</string>
     <string name="abc_shareactionprovider_share_with_application">Поділитися через додаток %s</string>
     <string name="abc_toolbar_collapse_description">Згорнути</string>
-    <string name="app_name">Cit_QR</string>
     <string name="close">Закрити</string>
     <string name="close_hit_again">Натисніть ще раз, щоб вийти</string>
-    <string name="fmt_date_long_month">MMMM</string>
-    <string name="fmt_date_long_month_day">d MMMM</string>
-    <string name="fmt_date_long_year_month">MMMM, yyyy</string>
-    <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
-    <string name="fmt_date_numeric_month_day">d.M.</string>
-    <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">M-yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
-    <string name="fmt_date_short_month">MMM</string>
-    <string name="fmt_date_short_month_day">d MMM</string>
-    <string name="fmt_date_short_year_month">MMM, yyyy</string>
-    <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
     <string name="important_ration_info">Важлива інформація</string>
     <string name="no_important_ration_info">Налагодження інформації</string>
     <string name="qr_load">Завантаження... Будь ласка, зачекайте...</string>
@@ -49,4 +36,19 @@
     <string name="qualitative_title">Інформація про стійкість</string>
     <string name="ration_title">Інформація класу ID</string>
     <string name="search_menu_title">Пошук</string>
+    <string name="app_name">Cit_QR</string>
+
+
+  <string name="fmt_date_long_month">MMMM</string>
+  <string name="fmt_date_long_month_day">d MMMM</string>
+  <string name="fmt_date_long_year_month">MMMM, yyyy</string>
+  <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
+  <string name="fmt_date_numeric_month_day">d.M.</string>
+  <string name="fmt_date_numeric_year">yyyy</string>
+  <string name="fmt_date_numeric_year_month">M-yyyy</string>
+  <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
+  <string name="fmt_date_short_month">MMM</string>
+  <string name="fmt_date_short_month_day">d MMM</string>
+  <string name="fmt_date_short_year_month">MMM, yyyy</string>
+  <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
 </resources>  

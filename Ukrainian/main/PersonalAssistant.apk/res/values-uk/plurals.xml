@@ -2,33 +2,33 @@
 <resources>
     <plurals name="a_hour_ago">
         <item quantity="other">Годину тому</item>
-    </plurals>
+     </plurals>
     <plurals name="abbrev_a_hour_ago">
         <item quantity="other">Годину тому</item>
-    </plurals>
+     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Півгодини тому</item>
-    </plurals>
+     </plurals>
     <plurals name="abbrev_in_a_hour">
         <item quantity="other">Через годину</item>
-    </plurals>
+     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Через півгодини</item>
-    </plurals>
+     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
         <item quantity="other">Зараз</item>
-    </plurals>
+     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">Через %d хв.</item>
         <item quantity="one">Через 1 хв.</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Тільки що</item>
-    </plurals>
+     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d хв. тому</item>
         <item quantity="one">1 хв. тому</item>
-    </plurals>
+     </plurals>
     <plurals name="agenda_anniversary_day">
         <item quantity="other">·%1$d днів</item>
         <item quantity="one">·%1$d день</item>
@@ -136,27 +136,27 @@
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Півгодини тому</item>
-    </plurals>
+     </plurals>
     <plurals name="hours_ago">
         <item quantity="other">%1$d г. тому</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">Через годину</item>
-    </plurals>
+     </plurals>
     <plurals name="in_half_hour">
         <item quantity="other">Через півгодини</item>
-    </plurals>
+     </plurals>
     <plurals name="in_less_than_one_minute">
         <item quantity="other">Зараз</item>
-    </plurals>
+     </plurals>
     <plurals name="in_num_minutes">
         <item quantity="other">через %d хвилин</item>
         <item quantity="one">через 1 хвилину</item>
         <item quantity="few">через %d хвилини</item>
-    </plurals>
+     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Тільки що</item>
-    </plurals>
+     </plurals>
     <plurals name="main_delete_desc">
         <item quantity="other">Видалити %s елементів із вибраних?</item>
         <item quantity="one">Видалити %s елемент із вибраних?</item>

@@ -94,7 +94,6 @@
     <string name="all_apps_slide_up_tips">Рух вгору призначений для відкриття Помічника програм. Перейдіть на звичайний режим Робочого столу та повторіть спробу.</string>
     <string name="all_apps_suggestions">Пропозиції програми</string>
     <string name="am">ДО</string>
-    <string name="animation_rate_title">Швидкість анімації</string>
     <string name="announce_for_app_move_in_folder">Переміщено на позицію %1$d у папці</string>
     <string name="announce_for_checked">%1$s, вибрано</string>
     <string name="announce_for_choose_default_screen">Встановити екран %1$d як екран за замовчуванням</string>
@@ -168,8 +167,6 @@
     <string name="aqi_quality_index_light_pollution">Легке забруднення</string>
     <string name="aqi_quality_index_moderate">Помірне</string>
     <string name="aqi_quality_index_unhealthy">Шкідливе</string>
-    <string name="assistant_edge_gesture_summary">Проведіть пальцем угору від нижнього лівого або нижнього правого кута, щоб відкрити Google Асистент</string>
-    <string name="assistant_edge_gesture_title">Проведіть пальцем з кута вгору, щоб відкрити Google Асистент</string>
     <string name="auto_add_app_shortcut">Додавати нові програми на робочий стіл</string>
     <string name="auto_delete_category_dialog_content">Поточні програми буде видалено з категорії і саму категорію також буде видалено. Видалити категорію?</string>
     <string name="auto_delete_category_dialog_title">Видалення категорії</string>
@@ -285,7 +282,6 @@
     <string name="deleted_system_applications">Видалені системні програми</string>
     <string name="deselect_all">Зняти вибір</string>
     <string name="disable_wallpaper_scroll">Вимкнути прокрутку шпалер</string>
-    <string name="double_tap_to_lock_title">Торкніться двічі, щоб заблокувати екран</string>
     <string name="download_action">Завантажити</string>
     <string name="drag_icon_to_homescreen_guide">Утримуйте значок програми, потім перетягніть його на робочий стіл, щоб додати ярлик</string>
     <string name="drag_multiple_item_name" />
@@ -445,7 +441,6 @@
     <string name="guide_permission_title">Необхідні дозволи</string>
     <string name="guide_privacy_dialog_title">Умови обслуговування</string>
     <string name="guide_tips_editing_mode">Натисніть та утримуйте для вибору віджета</string>
-    <string name="hide_apps_title">Приховування додатків</string>
     <string name="home_gesture_content_center">Контент-центр</string>
     <string name="home_gesture_global_search">Пошук</string>
     <string name="home_gesture_no_action">Нічого</string>
@@ -469,11 +464,9 @@
     <string name="launcher_not_exist">Сталася помилка. Поверніться на робочий стіл та повторіть спробу.</string>
     <string name="launcher_pull_down_title">Жест вниз на робочому столі</string>
     <string name="launcher_search">Пошук на робочому столі</string>
-    <string name="launcher_search_bar_provider_title">Постачальник панелі пошуку</string>
     <string name="launcher_search_bar_title">Панель пошуку на робочому столі</string>
     <string name="launcher_search_bar_value_disable">Вимк.</string>
     <string name="launcher_search_bar_value_enable">Увімк.</string>
-    <string name="launcher_slide_up_search_provider_title">Проведіть пальцем угору для постачальника пошуку</string>
     <string name="launcher_slide_up_title">Жест вгору на робочому столі</string>
     <string name="launcher_sliding_up_gesture">Проведіть вверх на робочому столі, щоб відкрити пошук</string>
     <string name="launcher_title">Робочий екран та Нещодавні</string>
@@ -837,6 +830,7 @@
     <string name="sort_by_not_defined">По порядку</string>
     <string name="start_activity_failed">Не вдалося запустити робочий стіл</string>
     <string name="starting_preset_app">Запуск…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recent_memory_giga">%1$s ГБ</string>
     <string name="status_bar_recent_memory_info1">%1$s з %2$s доступно</string>
     <string name="status_bar_recent_memory_info2" />
@@ -977,4 +971,11 @@
     <string name="work_profile_title">Робочий профіль</string>
     <string name="work_profile_toggle_label">Робочий профіль</string>
     <string name="yesterday">Вчора</string>
+    <string name="animation_rate_title">Швидкість анімації</string>
+    <string name="assistant_edge_gesture_title">Проведіть пальцем з кута вгору, щоб відкрити Google Асистент</string>
+    <string name="assistant_edge_gesture_summary">Проведіть пальцем угору від нижнього лівого або нижнього правого кута, щоб відкрити Google Асистент</string>
+    <string name="launcher_search_bar_provider_title">Постачальник панелі пошуку</string>
+    <string name="double_tap_to_lock_title">Торкніться двічі, щоб заблокувати екран</string>
+    <string name="hide_apps_title">Приховування додатків</string>
+    <string name="launcher_slide_up_search_provider_title">Проведіть пальцем угору для постачальника пошуку</string>
 </resources>

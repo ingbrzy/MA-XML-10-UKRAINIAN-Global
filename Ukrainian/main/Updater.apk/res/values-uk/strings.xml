@@ -83,7 +83,6 @@
     <string name="backup_data_content">Зміна версії вбудованого ПЗ може привести до видалення всіх даних на цьому пристрої. Створіть резервну копію всіх важливих даних, перш ніж продовжити. Ви можете пропустити цей крок, якщо вже створили резервну копію.</string>
     <string name="beta_build">Стабільна (внутрішня)</string>
     <string name="boot_recovery">Перезавантажити в режим Recovery?</string>
-    <string name="btn_share">Поділитися</string>
     <string name="button_delay_update_reboot">Перезавантажити та оновити</string>
     <string name="button_text_cancel">Скасувати</string>
     <string name="button_text_check">Перевірити оновлення</string>
@@ -117,7 +116,6 @@
     <string name="check_local_package_wipe_msg_pad">Ви збираєтеся повернутися до версії MIUI %s. Ваші особисті дані буде видалено. Переконайтеся, що ви зробили резервну копію всіх важливих даних перед початком.</string>
     <string name="check_local_package_wipe_title">Очистити дані</string>
     <string name="check_network">Неможливо підключитися до мережі</string>
-    <string name="check_new_version">Перевірити наявність оновлень</string>
     <string name="clean_up_button">Очистити</string>
     <string name="clearable_edittext_clear_description">Очистити</string>
     <string name="close">Закрити</string>
@@ -304,7 +302,6 @@
     <string name="menu_title_privacy">Політика конфіденційності</string>
     <string name="menu_title_recovery">Перезавантажити в режим Recovery</string>
     <string name="menu_title_report">Надати відгук</string>
-    <string name="menu_title_show_notifications">Показувати сповіщення</string>
     <string name="menu_title_switch_dev">Перейти на бета-прошивку</string>
     <string name="menu_title_switch_stable">Перейти на стабільну прошивку</string>
     <string name="mi_community_report_content">Давайте зробимо MIUI ще краще!</string>
@@ -494,11 +491,10 @@ http://zhushou.xiaomi.com"</string>
     <string name="set_network_msg">Перевірте параметри завантаження оновлень</string>
     <string name="set_network_root_msg">Підключіться до Wi-Fi, щоб отримати ROOT доступ.</string>
     <string name="set_network_title">Інтернет недоступний</string>
-    <string name="share_title">Поділитися за допомогою</string>
     <string name="space_not_enough_msg">Недостатньо місця для завантаження прошивки.</string>
     <string name="space_not_enough_title">"Пам'ять заповнена"</string>
-    <string name="stable">Стабільна</string>
     <string name="stable_build">стабільна збірка</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="store_auto_summary">Оновлювати вибрані програми автоматично після оновлення MIUI</string>
     <string name="store_auto_update">Оновлювати автоматично</string>
     <string name="store_log_detail">Ви можете автоматично оновлювати наступні системні програми</string>
@@ -600,7 +596,6 @@ http://zhushou.xiaomi.com"</string>
     <string name="v7_preference_on">УВІМКНЕНО</string>
     <string name="validate_pkg_failed_msg">Завантажена прошивка не з офіційного сайту. Рекомендуємо завантажити знову.</string>
     <string name="validate_pkg_failed_title">Помилка перевірки</string>
-    <string name="version">На даний час встановлено:</string>
     <string name="view_full_log">Дізнайтеся про новини</string>
     <string name="vote_error_nonetwork">Не вдається підключитися до мережі</string>
     <string name="warning_dialog_checkbox">Я усвідомлюю всі ризики</string>
@@ -619,7 +614,13 @@ http://zhushou.xiaomi.com"</string>
     <string name="wednesday">Середа</string>
     <string name="wednesday_short">Ср</string>
     <string name="wednesday_shortest">Ср</string>
-    <string name="weekly">Щотижнева</string>
     <string name="weekly_build">щотижнева збірка</string>
     <string name="yesterday">Вчора</string>
+    <string name="menu_title_show_notifications">Показувати сповіщення</string>
+    <string name="version">На даний час встановлено:</string>
+    <string name="stable">Стабільна</string>
+    <string name="weekly">Щотижнева</string>
+    <string name="check_new_version">Перевірити наявність оновлень</string>
+    <string name="btn_share">Поділитися</string>
+    <string name="share_title">Поділитися за допомогою</string>
 </resources>

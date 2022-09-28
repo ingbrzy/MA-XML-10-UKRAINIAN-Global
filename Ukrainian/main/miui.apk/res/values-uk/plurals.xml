@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="items_selected">
+        <item quantity="other">Обрано: %d</item>
+        <item quantity="one">Обрано: %d</item>
+        <item quantity="few">Обрано: %d</item>
+        <item quantity="many">Обрано: %d</item>
+    </plurals>
     <plurals name="a_hour_ago">
         <item quantity="other">Годину тому</item>
         <item quantity="one">Годину тому</item>
@@ -83,12 +89,6 @@
         <item quantity="one">через 1 хв</item>
         <item quantity="few">через %d хв</item>
         <item quantity="many">через %d хв</item>
-    </plurals>
-    <plurals name="items_selected">
-        <item quantity="other">Обрано: %d</item>
-        <item quantity="one">Обрано: %d</item>
-        <item quantity="few">Обрано: %d</item>
-        <item quantity="many">Обрано: %d</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Щойно</item>

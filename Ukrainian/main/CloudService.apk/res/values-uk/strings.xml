@@ -143,6 +143,8 @@
     <string name="feedback_custom_hint">Опишіть проблеми, з якими ви зіткнулися. Якщо ви можете надати пропозиції, ми будемо вдячні за більш детальну інформацію!</string>
     <string name="find_device">Пошук пристрою</string>
     <string name="find_device_dspt_provision">Якщо ви втратите свій пристрій, то ви зможете виявити, заблокувати або перезапустити його на &lt;font color=#0097FF>%s&lt;/font>. Функцію можна активувати або вимкнути в Налаштуваннях у будь-який час.</string>
+    <string name="find_device_dspt_provision_2">i.mi.com</string>
+    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_gdpr_prompt">Увімкнувши функцію Пошук пристрою, ви приймаєте нашу <a href="app://com.miui.cloudservice.gdpr.license"><u>Політику конфіденційності</u></a>. Для відкликання дозволу вимкніть цю функцію.</string>
     <string name="find_device_operation_failure_rpc">Не вдалося виконати операцію через помилку RPC.</string>
     <string name="find_device_permissions_footer">Натисніть “Надати”, щоб надати вибрані дозволи.</string>

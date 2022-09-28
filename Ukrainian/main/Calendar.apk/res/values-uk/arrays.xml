@@ -140,18 +140,18 @@
         <item>21.05-21.06</item>
     </string-array>
     <string-array name="hijri_samvat_month_names">
-        <item>Мухаррам</item>
-        <item>Сафар</item>
-        <item>Рабі аль-Авваль</item>
-        <item>Рабі Аль-Тані</item>
-        <item>Джумада Аль-Авваль</item>
-        <item>Джумада Аль-Тані</item>
-        <item>Раджаб</item>
-        <item>Шабан</item>
-        <item>Рамадан</item>
-        <item>Шавваль</item>
-        <item>Зуль-Када</item>
-        <item>Зуль-Хіджа</item>
+         <item>Мухаррам</item>
+         <item>Сафар</item>
+         <item>Рабі аль-Авваль</item>
+         <item>Рабі Аль-Тані</item>
+         <item>Джумада Аль-Авваль</item>
+         <item>Джумада Аль-Тані</item>
+         <item>Раджаб</item>
+         <item>Шабан</item>
+         <item>Рамадан</item>
+         <item>Шавваль</item>
+         <item>Зуль-Када</item>
+         <item>Зуль-Хіджа</item>
     </string-array>
     <string-array name="hindi_horoscope_names">
         <item>Міша</item>
@@ -315,7 +315,7 @@
         <item>Прийняти</item>
         <item>Вирішити пізніше</item>
         <item>Відхилити</item>
-    </string-array>
+     </string-array>
     <string-array name="sagittarius_info">
         <item>стрілець</item>
         <item>Стрілець</item>
@@ -695,18 +695,18 @@
         <item>За 1 день</item>
     </string-array>
     <string-array name="vikrami_samvat_month_names">
-        <item>Чайтра</item>
-        <item>Вайшакха</item>
-        <item>Джьєштха</item>
-        <item>Ашадха</item>
-        <item>Шравана</item>
-        <item>Бхадрапада</item>
-        <item>Ашвіна</item>
-        <item>Картика</item>
-        <item>Маргаширша</item>
-        <item>Пауша</item>
-        <item>Магха</item>
-        <item>Пхальгуна</item>
+         <item>Чайтра</item>
+         <item>Вайшакха</item>
+         <item>Джьєштха</item>
+         <item>Ашадха</item>
+         <item>Шравана</item>
+         <item>Бхадрапада</item>
+         <item>Ашвіна</item>
+         <item>Картика</item>
+         <item>Маргаширша</item>
+         <item>Пауша</item>
+         <item>Магха</item>
+         <item>Пхальгуна</item>
     </string-array>
     <string-array name="virgo_info">
         <item>діва</item>

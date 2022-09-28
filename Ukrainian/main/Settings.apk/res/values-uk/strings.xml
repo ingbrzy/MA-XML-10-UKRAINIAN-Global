@@ -521,7 +521,6 @@
     <string name="all_network_unavailable">Немає доступних мереж</string>
     <string name="all_volume_title">Гучність</string>
     <string name="allow">Дозволити</string>
-    <string name="allow_all_rotations_title">Дозволити всі оберти</string>
     <string name="allow_bind_app_widget_activity_allow_bind">Після створення віджета хост %1$s зможе отримувати доступ до всіх даних, які в ньому відображаються.</string>
     <string name="allow_bind_app_widget_activity_allow_bind_title">Створити віджет і дозволити доступ?</string>
     <string name="allow_bind_app_widget_activity_always_allow_bind">Завжди дозволяти хосту %1$s створювати віджети й отримувати доступ до їх даних</string>
@@ -813,7 +812,6 @@
 
  2. Якщо динамік сильно запилився, запустіть цю функцію 2-5 разів, одночасно струшуючи пристрій динаміком вниз."</string>
     <string name="auto_clean_summary">Відтворити 30-секундний сигнал для очищення динаміка</string>
-    <string name="auto_clean_summary_new">Відтворіть звук %d секунди, щоб очистити динамік. Використовуйте цю функцію кілька разів поспіль для очищення значної кількості бруду.</string>
     <string name="auto_clean_title">Очищення динаміка</string>
     <string name="auto_disable_screenbuttons_ask">Запитувати</string>
     <string name="auto_disable_screenbuttons_auto">Завжди вимикати</string>
@@ -1625,6 +1623,7 @@
 Якщо ви вже зробили що-небудь з перерахованого вище, знову додайте свій Mi акаунт; в іншому випадку ви не зможете розблокувати свій пристрій."</string>
     <string name="bootloader_tips_ok">Зрозуміло</string>
     <string name="bootloader_tips_warning">Не відключайтеся від мережі, не виходьте з Mi акаунту, не виконуйте Скидання налаштувань або видалення системних даних.</string>
+    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="bottom_function_settings">Функції додаткових кнопок</string>
     <string name="bottomsheet_action_expand_halfway">Розгорнути нижню половину</string>
     <string name="breathing_light_color_menu_title">Колір індикатора</string>
@@ -1885,11 +1884,6 @@
     <string name="channel_notifications_off_desc">На ваш запит Android блокує цю категорію сповіщень на пристрої</string>
     <string name="character_counter_content_description">Введено символів: %1$d з %2$d</string>
     <string name="character_counter_overflowed_content_description">Перевищено ліміт символів: %1$d з %2$d</string>
-    <string name="charge_animation_style_lollipop">Потік</string>
-    <string name="charge_animation_style_none">Вимк</string>
-    <string name="charge_animation_style_title">Анімація зарядки</string>
-    <string name="charge_animation_style_video">Світіння</string>
-    <string name="charge_animation_style_wave">Хвиля</string>
     <string name="charge_length_format">%1$s тому</string>
     <string name="charging_sounds_title">Звук і вібрація для заряджання</string>
     <string name="check_find_device_status_failure_confirm">ОК</string>
@@ -2186,8 +2180,6 @@
     <string name="copyable_slice_toast">%1$s: скопійовано в буфер обміну.</string>
     <string name="copyright">Авторські права</string>
     <string name="copyright_title">Автор. право</string>
-    <string name="corner_assistant_gesture_summary">Проведіть пальцем угору від нижнього лівого або нижнього правого кута, щоб відкрити Google Асистент</string>
-    <string name="corner_assistant_gesture_title">Проведіть пальцем з кута вгору, щоб відкрити Google Асистент</string>
     <string name="country_name">%s (система)</string>
     <string name="create">Створити</string>
     <string name="creating_new_user_dialog_message">Створення нового користувача…</string>
@@ -2550,7 +2542,6 @@
     <string name="default_suppression_title">За замовчуванням (рекомендується)</string>
     <string name="default_theme">За умовчанням</string>
     <string name="default_usb_mode">Режим USB</string>
-    <string name="default_vol_stream_title">Потік регулювання гучності за замовчуванням</string>
     <string name="delete">Видалити</string>
     <string name="delete_blob_confirmation_text">Ви впевнені, що хочете видалити ці спільні дані?</string>
     <string name="delete_blob_text">Видалити спільні дані</string>
@@ -2607,11 +2598,6 @@
     <string name="device_cpu4_info">Чотири ядра</string>
     <string name="device_cpu6_info">Шість ядер</string>
     <string name="device_cpu8_info">Вісім ядер</string>
-    <string name="device_description_battery">Ємність акумулятора</string>
-    <string name="device_description_cpu">Процесор</string>
-    <string name="device_description_ram">ОЗП</string>
-    <string name="device_description_resolution">Роздільна здатність</string>
-    <string name="device_description_screen">Розмір екрану</string>
     <string name="device_details_title">Про пристрій</string>
     <string name="device_display_layout_title">Спеціальні функції</string>
     <string name="device_edit_title">Перейменувати пристрій</string>
@@ -2701,6 +2687,7 @@
     <string name="dialog_wifi_context">Для завершення налаштування вашого пристрою необхідно підключитися до інтернету. Якщо ви не підключені до мережі Wi-Fi, може бути використаний мобільний інтернет. Це може викликати додаткові витрати. Використовувати мобільний інтернет?</string>
     <string name="dialog_wifi_title">Використовується мобільний інтернет</string>
     <string name="dialog_yes">Так</string>
+    <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">Нотатка: розблокуйте пристрій, щоб мати можливість використовувати цю програму після перезавантаження.</string>
     <string name="disable_overlays">Відключити накладення</string>
     <string name="disable_overlays_summary">Завжди використовувати GPU під час компонування екрана</string>
@@ -2787,6 +2774,7 @@
     <string name="dndm_auto_button_title">Повторювати режим \"Не турбувати\"</string>
     <string name="dndm_auto_setting_group">За розкладом</string>
     <string name="dndm_auto_time_setting">Налаштування часу</string>
+    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">Закінчення</string>
     <string name="dndm_auto_time_turn_off_title">Автоматичне вимкнення режиму \"Не турбувати\"</string>
     <string name="dndm_auto_time_turn_on">Початок</string>
@@ -3153,7 +3141,6 @@
     <string name="every_day">Щодня</string>
     <string name="exceptional_case">Винятки</string>
     <string name="expand_button_title">Додатково</string>
-    <string name="expand_card_action">Додаткові картки</string>
     <string name="expandable_under_keyguard_title">Доступ з екрана блокування</string>
     <string name="experimental_category_title">Експериментальні налаштування</string>
     <string name="experimental_preference">(Експериментальна функція)</string>
@@ -4270,6 +4257,7 @@ Xiaomi Cloud
     <string name="lights_title">Світловий індикатор</string>
     <string name="line_breaking_summary">Виправити порушення пунктів абзацу</string>
     <string name="line_breaking_title">Оптимізація тексту</string>
+    <string name="link_speed">%1$d Мбіт/с</string>
     <string name="link_turbo_prompt">"Статистка на цій сторінці відображає тільки обсяг даних, які використовуються для підвищення швидкості Wi-Fi з'єднання. Дана статистика не відображає фактичне використання мобільних даних."</string>
     <string name="link_turbo_settings_all_app_display_loading">Хвилинку…</string>
     <string name="link_turbo_settings_all_app_reach_max">Ви можете вибрати до 15 програм</string>
@@ -4643,8 +4631,6 @@ Xiaomi Cloud
     <string name="lockscreen_remote_input">Заборонити введення відповідей чи іншого тексту в сповіщеннях, якщо пристрій заблоковано</string>
     <string name="lockscreen_settings_title">Заблокований екран</string>
     <string name="lockscreen_settings_what_to_show_category">Що показувати</string>
-    <string name="lockscreen_sidepanel_shortcuts_summary">Налаштуйте програми, які відображаються на бічній панелі екрана блокування</string>
-    <string name="lockscreen_sidepanel_shortcuts_title">Ярлики бічної панелі</string>
     <string name="login_account_dialog_message">Увійдіть до Mi акаунту та увімкніть синхронізацію із Xiaomi Cloud.</string>
     <string name="login_account_dialog_title">Увійдіть до Mi акаунту</string>
     <string name="login_account_summary">Керуйте акаунтами, хмарними послугами, оплатами і т.д.</string>
@@ -4862,6 +4848,7 @@ Xiaomi Cloud
     <string name="memory_title">Доступно: %1$s\u0009\u0009Всього: %2$s</string>
     <string name="memory_usage">Використання пам’яті</string>
     <string name="memory_usage_apps">"Використання пам'яті додатками"</string>
+    <string name="memory_use_running_format">%1$s / %2$s</string>
     <string name="memory_use_summary">За останні 3 години було використано в середньому %1$s пам’яті</string>
     <string name="memorycard_calculating">Розрахунок…</string>
     <string name="menu_cancel">Скасувати</string>
@@ -4895,7 +4882,6 @@ Xiaomi Cloud
     <string name="mi_service">Mi послуги</string>
     <string name="mi_service_app_detail">Інформація про трафік</string>
     <string name="mi_shopping_mall">Mi Маркет</string>
-    <string name="mi_smart_play_entry_title">Mi Смарт Ігри</string>
     <string name="mi_transfer">Mi Mover</string>
     <string name="mi_upi_settings">Акаунт Mi Pay</string>
     <string name="mic_toggle_title">Доступ до мікрофона</string>
@@ -5018,7 +5004,7 @@ Xiaomi Cloud
     <string name="miui_accessibility_asr_title">Mi Ditto</string>
     <string name="miui_allow_alarm">Будильники</string>
     <string name="miui_allow_light">Сигнал сповіщення</string>
-    <string name="miui_allow_music">Медія</string>
+    <string name="miui_allow_music">Медіа</string>
     <string name="miui_allow_vibrate">Вібрація</string>
     <string name="miui_data_usage_menu_metered">Мобільні точки доступу</string>
     <string name="miui_experience_optimization">Увімкнути оптимізацію MIUI</string>
@@ -5316,6 +5302,7 @@ Xiaomi Cloud
     <string name="mtrl_picker_a11y_next_month">Перейти до наступного місяця</string>
     <string name="mtrl_picker_a11y_prev_month">Перейти до попереднього місяця</string>
     <string name="mtrl_picker_announce_current_selection">Поточний вибір: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Виберіть дату</string>
     <string name="mtrl_picker_date_header_unselected">Вибрана дата</string>
@@ -5357,7 +5344,6 @@ Xiaomi Cloud
     <string name="multifunction_keyboard">Багатофункціональна</string>
     <string name="multiple_users_main_switch_title">Використовувати режим кількох користувачів</string>
     <string name="music_equalizer">Еквалайзер</string>
-    <string name="music_playback_control_cross_device_flow">Перенесіть відтворення аудіо між пристроями</string>
     <string name="musicfx_title">Музичні ефекти</string>
     <string name="mute">Без звуку</string>
     <string name="mute_media_sound_summary">Ігри, музика, відео та інші програми</string>
@@ -5486,6 +5472,7 @@ Xiaomi Cloud
     <string name="nfc_how_it_works_title">Оплата через термінал</string>
     <string name="nfc_main_switch_title">Використовувати NFC</string>
     <string name="nfc_more_title">Більше…</string>
+    <string name="nfc_payment_app_and_desc">%1$s – %2$s</string>
     <string name="nfc_payment_btn_text_set_deault">Установити за умовчанням</string>
     <string name="nfc_payment_btn_text_update">Оновити</string>
     <string name="nfc_payment_default">Додаток для платежів за умовчанням</string>
@@ -5874,6 +5861,7 @@ OTG автоматично відключається через 10 хвилин
     <string name="overlay_settings_title">Дозволити показ поверх інших вікон у налаштуваннях</string>
     <string name="overlay_toast_failed_to_apply">Не вдалося застосувати накладання</string>
     <string name="owner_info_settings_edit_text_hint">Наприклад, \"Android Олега\".</string>
+    <string name="owner_info_settings_status">%1$d/%2$d</string>
     <string name="owner_info_settings_summary">Немає</string>
     <string name="owner_info_settings_title">Підпис на екрані блокування</string>
     <string name="owner_space">Перший простір</string>
@@ -6094,8 +6082,6 @@ Read and agree to %s before using this service."</string>
     <string name="power_menu_summary_long_press_for_assist_disabled_no_action">Функція втримання кнопки живлення вимкнена</string>
     <string name="power_menu_summary_long_press_for_assist_disabled_with_power_menu">Утримуйте кнопку живлення, щоб відкрити відповідне меню</string>
     <string name="power_menu_summary_long_press_for_assist_enabled">Утримуйте кнопку живлення, щоб активувати Асистента</string>
-    <string name="power_menu_under_keyguard_summary">Надайте доступ до меню живлення, коли пристрій заблоковано</string>
-    <string name="power_menu_under_keyguard_title">Доступ до меню живлення</string>
     <string name="power_mgr">Оптимізація батареї</string>
     <string name="power_mode">Режим живлення</string>
     <string name="power_mode_balanced_title">Балансування потужності</string>
@@ -6112,6 +6098,7 @@ Read and agree to %s before using this service."</string>
     <string name="power_remaining_less_than_duration_only">Залишилося менше %1$s</string>
     <string name="power_remaining_more_than_subtext">Залишилося більше %1$s (%2$s)</string>
     <string name="power_remaining_only_more_than_subtext">Залишилося більше %1$s</string>
+    <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
     <string name="power_screen">Екран</string>
     <string name="power_settings_title">Продуктивність системи</string>
     <string name="power_suggestion_battery_run_out">Батарея розрядиться приблизно о %1$s</string>
@@ -6358,6 +6345,8 @@ Read and agree to %s before using this service."</string>
     <string name="privileged_action_disable_sub_dialog_title">Вимкнути оператора %1$s?</string>
     <string name="privileged_action_disable_sub_dialog_title_without_carrier">Вимкнути SIM-карту?</string>
     <string name="process_dex2oat_label">Оптимізація додатка</string>
+    <string name="process_format">%1$s (%2$d)</string>
+    <string name="process_kernel_label">ОС Android</string>
     <string name="process_mediaserver_label">Медіа-сервер</string>
     <string name="process_provider_in_use_description">Постачальник %1$s використ.</string>
     <string name="process_service_in_use_description">Служба %1$s використов.</string>
@@ -6380,8 +6369,6 @@ Read and agree to %s before using this service."</string>
     <string name="profile_owner_add_title">Активувати менеджер профілів?</string>
     <string name="profile_owner_add_title_simplified">Дозволити батьківський контроль?</string>
     <string name="profile_section_header">Робочі сповіщення</string>
-    <string name="progress_dialog_speaker_auto_clean_button">Зупинити</string>
-    <string name="progress_dialog_speaker_auto_clean_title">Очищення динаміка…</string>
     <string name="progress_scanning">Пошук</string>
     <string name="promote_conversation_summary">Додати в список розмов</string>
     <string name="promote_conversation_title">Це чат</string>
@@ -7125,6 +7112,7 @@ Read and agree to %s before using this service."</string>
     <string name="security_encryption_attention_3">Вам буде потрібно задати новий пароль блокування екрана.</string>
     <string name="security_encryption_attention_4">"Переконайтеся, що ви запам'ятали свій пароль блокування екрана, інакше вам треба буде зробити повне скидання налаштувань та видалити всі дані на пристрої."</string>
     <string name="security_encryption_attention_info">Ви можете зашифрувати свої акаунти, налаштування, завантажені програми та їх дані, мультимедійні та інші файли.</string>
+    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">Важливо</string>
     <string name="security_encryption_close_dialog_info">Якщо ви вирішите не шифрувати пристрій, то використання паролю блокування екрана зробить деякі послуги Google недоступними.</string>
     <string name="security_encryption_close_dialog_title">Повернутися до шифрування системи за замовчуванням</string>
@@ -7623,6 +7611,7 @@ Read and agree to %s before using this service."</string>
     <string name="sim_select_card">Виберіть SIM-карту</string>
     <string name="sim_selection_channel_title">Вибір SIM-карти</string>
     <string name="sim_selection_required_pref">Потрібно вибрати</string>
+    <string name="sim_settings_summary">%1$s – %2$s</string>
     <string name="sim_settings_title">SIM-карти</string>
     <string name="sim_setup_channel_id">Активація мережі</string>
     <string name="sim_setup_wizard_title">SIM-карти</string>
@@ -7642,6 +7631,7 @@ Read and agree to %s before using this service."</string>
     <string name="size_kilo_byte">кБ</string>
     <string name="size_mega_byte">МБ</string>
     <string name="size_peta_byte">ПБ</string>
+    <string name="size_suffix">%1$s %2$s</string>
     <string name="size_tera_byte">ТБ</string>
     <string name="skip_anyway_button_label">Пропустити</string>
     <string name="skip_label">Пропустити</string>
@@ -7819,12 +7809,12 @@ Read and agree to %s before using this service."</string>
     <string name="status_bar_app_enable_keyguard">Екран блокування</string>
     <string name="status_bar_app_enable_message">Значки</string>
     <string name="status_bar_carrier_settings_no_sim_card">Немає SIM-карти</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_settings">Сповіщення та рядок стану</string>
     <string name="status_bar_settings_all_app_display_loading">Секунду…</string>
+    <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
     <string name="status_bar_settings_manage_notification">Сповіщення програм</string>
     <string name="status_bar_settings_notification_bar">Панель сповіщень</string>
-    <string name="status_bar_settings_notification_use_app_icon">Використовувати значки програм для сповіщень</string>
-    <string name="status_bar_settings_show_lte_for_4g">Показувати значок LTE замість 4G</string>
     <string name="status_bar_settings_status_bar">Рядок стану</string>
     <string name="status_bar_title">Центр керування та рядок стану</string>
     <string name="status_bt_address">Адреса Bluetooth</string>
@@ -8046,7 +8036,6 @@ Read and agree to %s before using this service."</string>
     <string name="storageuse_settings_title">"Використання пам'яті"</string>
     <string name="strict_mode">Суворий режим</string>
     <string name="strict_mode_summary">Блимати екраном під час тривалих операцій</string>
-    <string name="string_float_seconds">%f секунда(-и)</string>
     <string name="strong_suppression_summary">Пристрій буде менше реагувати на випадкові натиснення. Деякі жести можуть перестати працювати поруч з краями екрана</string>
     <string name="strong_suppression_title">Велика область</string>
     <string name="structure_add_facerecoginition_text">Додавання 3D даних про обличчя</string>
@@ -8116,6 +8105,7 @@ Read and agree to %s before using this service."</string>
     <string name="sum_carrier_select">Виберіть оператора мережі</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_divider_text">", "</string>
+    <string name="summary_range_symbol_combination">%1$s – %2$s</string>
     <string name="summary_range_verbal_combination">%1$s – %2$s</string>
     <string name="sunday">Неділя</string>
     <string name="sunday_short">Нед</string>
@@ -8319,9 +8309,6 @@ Read and agree to %s before using this service."</string>
     <string name="time_floating_window">Спливаючий годинник</string>
     <string name="time_floating_window_summary">Відображати годинник у спливаючому вікні поверх програм.</string>
     <string name="time_format_category_title">Формат часу</string>
-    <string name="time_format_entries_1">%d-година 1:00 PM</string>
-    <string name="time_format_entries_2">%d-година 13:00</string>
-    <string name="time_format_entries_3">Авто (на основі мови системи)</string>
     <string name="time_picker_dialog_title">Задати час</string>
     <string name="time_picker_label_hour">Г</string>
     <string name="time_picker_label_minute">Х</string>
@@ -8581,7 +8568,6 @@ Read and agree to %s before using this service."</string>
     <string name="unlogin_account_summary">Всi Mi послуги. Один Mi акаунт.</string>
     <string name="unlogin_account_title">Увійти до Mi акаунту</string>
     <string name="unmount_inform_text">Носій USB буде відключено.</string>
-    <string name="unmute_sound_title">Відтворювати звук, коли беззвучний режим вимкнено</string>
     <string name="unrestrict_max_aspect_ratio_title">Ці програми оптимізовані для повноекранного режиму</string>
     <string name="unrestricted_app_summary">Не обмежувати доступ до трафіку, коли ввімкнено Заощадження трафіку</string>
     <string name="unrestricted_app_title">Необмеж. використання трафіку</string>
@@ -8974,6 +8960,7 @@ Read and agree to %s before using this service."</string>
     <string name="vision_settings_title">Спеціальні можливості</string>
     <string name="voice_access">Голосове керування</string>
     <string name="voice_assist">Mi AI</string>
+    <string name="voice_assist_volume_option_title">@string/voice_assist</string>
     <string name="voice_category">Мова</string>
     <string name="voice_helper_title">Голосовий помічник</string>
     <string name="voice_input_output_settings">Голосовий ввід і вивід</string>
@@ -10159,12 +10146,46 @@ Read and agree to %s before using this service."</string>
     <string name="zone_auto_summaryOn">Використовувати часовий пояс мережі</string>
     <string name="zone_auto_title">Установити часовий пояс автоматично</string>
     <string name="zone_change_to_from_dst">%1$s починається %2$s.</string>
+    <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
     <string name="zone_info_footer">Діє %1$s. %2$s починається %3$s.</string>
     <string name="zone_info_footer_no_dst">Діє %1$s. Немає переходу на літній час.</string>
+    <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
     <string name="zone_list_menu_sort_alphabetically">Сортувати за алфавітом</string>
     <string name="zone_list_menu_sort_by_timezone">Сортувати за часовим поясом</string>
     <string name="zone_menu_by_offset">За зміщенням від UTC</string>
     <string name="zone_menu_by_region">Вибрати за регіоном</string>
     <string name="zone_time_type_dst">Літній час</string>
     <string name="zone_time_type_standard">Стандартний час</string>
+    <string name="device_description_battery">Ємність акумулятора</string>
+    <string name="device_description_cpu">Процесор</string>
+    <string name="device_description_ram">ОЗП</string>
+    <string name="device_description_screen">Розмір екрану</string>
+    <string name="device_description_resolution">Роздільна здатність</string>
+    <string name="power_menu_under_keyguard_title">Доступ до меню живлення</string>
+    <string name="power_menu_under_keyguard_summary">Надайте доступ до меню живлення, коли пристрій заблоковано</string>
+    <string name="lockscreen_sidepanel_shortcuts_title">Ярлики бічної панелі</string>
+    <string name="lockscreen_sidepanel_shortcuts_summary">Налаштуйте програми, які відображаються на бічній панелі екрана блокування</string>
+    <string name="charge_animation_style_title">Анімація зарядки</string>
+    <string name="charge_animation_style_none">Вимк</string>
+    <string name="charge_animation_style_lollipop">Потік</string>
+    <string name="charge_animation_style_video">Світіння</string>
+    <string name="charge_animation_style_wave">Хвиля</string>
+    <string name="allow_all_rotations_title">Дозволити всі оберти</string>
+    <string name="default_vol_stream_title">Потік регулювання гучності за замовчуванням</string>
+    <string name="miui_allow_music">Медія</string>
+    <string name="unmute_sound_title">Відтворювати звук, коли беззвучний режим вимкнено</string>
+    <string name="expand_card_action">Додаткові картки</string>
+    <string name="mi_smart_play_entry_title">Mi Смарт Ігри</string>
+    <string name="music_playback_control_cross_device_flow">Перенесіть відтворення аудіо між пристроями</string>
+    <string name="status_bar_settings_notification_use_app_icon">Використовувати значки програм для сповіщень</string>
+    <string name="status_bar_settings_show_lte_for_4g">Показувати значок LTE замість 4G</string>
+    <string name="corner_assistant_gesture_title">Проведіть пальцем з кута вгору, щоб відкрити Google Асистент</string>
+    <string name="corner_assistant_gesture_summary">Проведіть пальцем угору від нижнього лівого або нижнього правого кута, щоб відкрити Google Асистент</string>
+    <string name="auto_clean_summary_new">Відтворіть звук %d секунди, щоб очистити динамік. Використовуйте цю функцію кілька разів поспіль для очищення значної кількості бруду.</string>
+    <string name="progress_dialog_speaker_auto_clean_title">Очищення динаміка…</string>
+    <string name="string_float_seconds">%f секунда(-и)</string>
+    <string name="progress_dialog_speaker_auto_clean_button">Зупинити</string>
+    <string name="time_format_entries_1">%d-година 1:00 PM</string>
+    <string name="time_format_entries_2">%d-година 13:00</string>
+    <string name="time_format_entries_3">Авто (на основі мови системи)</string>
 </resources>
