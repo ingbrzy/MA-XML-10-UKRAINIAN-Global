@@ -497,7 +497,6 @@
     <string name="shutdown_alarm_enable_summary">Будильник буде дзвонити, якщо час дзвінка не менше ніж на 10 хвилин пізніше моменту відключення пристрою</string>
     <string name="shutdown_alarm_title">Спрацювання при вимкненому пристрої</string>
     <string name="silent_alarm_summary">Без звуку</string>
-    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Вимкнути один раз %s</string>
     <string name="sleep_analysis">Статистика</string>
     <string name="sleep_analysis_chart_date_format">dd.MM</string>
@@ -543,7 +542,6 @@
     <string name="status_bar_clock_date_time_format">H:mm:ss</string>
     <string name="status_bar_clock_date_time_format_12">h:mm:ss aa</string>
     <string name="status_bar_clock_date_time_format_seconds_12">h:mm:ss</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stopwatch_lap_empty_text">Немає кіл</string>
     <string name="stopwatch_reset_notification">Секундомір було скинуто</string>
     <string name="stopwatch_running_notification">Секундомір</string>
@@ -552,7 +550,6 @@
     <string name="sunday">Неділя</string>
     <string name="sunday_short">Нед</string>
     <string name="sunday_shortest">Нд</string>
-    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">Дозволити цій програмі доступ до інтернету для доступу до всіх функцій.</string>
     <string name="system_permission_main_purpose">Перегляд часу, встановлення будильників і таймерів, використання секундоміра</string>
     <string name="system_permission_purpose">Створення будильників в робочі дні та встановлення власних мелодій</string>

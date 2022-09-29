@@ -609,7 +609,6 @@
     <string name="mtrl_picker_a11y_next_month">Перейти до наступного місяця</string>
     <string name="mtrl_picker_a11y_prev_month">Перейти до попереднього місяця</string>
     <string name="mtrl_picker_announce_current_selection">Поточний вибір: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Виберіть дату</string>
     <string name="mtrl_picker_date_header_unselected">Вибрана дата</string>
@@ -724,7 +723,6 @@
     <string name="private_dns_mode_provider">Ім’я хосту постачальника приватного DNS-сервера</string>
     <string name="private_dns_mode_provider_failure">Не вдалося під’єднатися</string>
     <string name="private_dns_mode_provider_hostname_hint">Введіть ім’я хосту постачальника послуг DNS</string>
-    <string name="process_kernel_label">ОС Android</string>
     <string name="profile_connect_timeout_subtext">Не вдається підключитися. Перезавантажте пристрій.</string>
     <string name="profile_info_settings_title">Інформація профілю</string>
     <string name="remaining_length_format">Залишилося %1$s</string>

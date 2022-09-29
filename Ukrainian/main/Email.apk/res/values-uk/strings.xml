@@ -250,7 +250,6 @@
     <string name="back">Назад</string>
     <string name="bank_card_detail">Деталі кредитної картки</string>
     <string name="bcc">Прихована копія</string>
-    <string name="bcc_heading">"Прихована копія: "</string>
     <string name="bill_center_setting">Налаштування рахунку</string>
     <string name="bill_center_setting_head">Імпорт інформації з цих аккаунтів</string>
     <string name="bill_cycle_text">Платіжний цикл</string>
@@ -272,7 +271,6 @@
     <string name="cancel_pop3_attchemt_downloading">Неможливо скасувати поточні завантаження для вкладень у аккаунтах POP3</string>
     <string name="cant_move_or_change_labels">Не вдається перемістити повідомлення, оскільки вони знаходяться в різних аккаунтах.</string>
     <string name="cc">Копія</string>
-    <string name="cc_attribution">Копія: %1$s&lt;br></string>
     <string name="cc_bcc">Копія</string>
     <string name="cc_heading">"Копія: "</string>
     <string name="certificate_add_failed">Не вдалося додати сертифікат \"%s\"</string>
@@ -300,7 +298,6 @@
     <string name="click_download_all_content">[натисніть для завантаження]</string>
     <string name="click_to_reload">Торкніться екрана, щоб оновити</string>
     <string name="collapse_recipient_details">Приховати інформацію</string>
-    <string name="colon">:</string>
     <string name="compose">Створити</string>
     <string name="compose_event">Запрошення</string>
     <string name="compose_paste_address_oob">Занадто багато символів</string>
@@ -548,7 +545,6 @@
     <string name="go_to_mail_content">Переглянути пошту</string>
     <string name="have_auth_code">У мене є код</string>
     <string name="header_category_account">Аккаунти</string>
-    <string name="header_category_general">@string/header_label_general_preferences</string>
     <string name="header_label_general_preferences">Загальні</string>
     <string name="help_and_info">Довідка</string>
     <string name="help_me_get_qq_auth">Отримати код</string>
@@ -568,7 +564,6 @@
     <string name="invalid_recipient">Неправильна адреса \"%s\".</string>
     <string name="invalid_recipient_title">Неприпустимий одержувач</string>
     <string name="kilobytes">%s Кб</string>
-    <string name="label_notification_ticker">%1$s: %2$s</string>
     <string name="list_empty_to_fresh">Поки немає повідомлень електронної пошти.</string>
     <string name="load_from_remote">Продовжити пошук на сервері</string>
     <string name="load_more">Завантажити ще</string>
@@ -1017,10 +1012,8 @@
 %s"</string>
     <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
-    <string name="single_new_message_notification_title">%1$s: %2$s</string>
     <string name="smtp_password_error">Невірний пароль сервера вихідних повідомлень</string>
     <string name="sort_attachment">Сортування</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage">"Пам'ять"</string>
     <string name="str_select_all">Вибрати все</string>
     <string name="str_select_none">Зняти вибір з усіх</string>
