@@ -66,6 +66,24 @@
         <item quantity="few">Вибрано зірок: %s</item>
         <item quantity="many">Вибрано зірок: %s</item>
     </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Перемотати вперед на %d секунди</item>
+        <item quantity="one">Перемотати вперед на %d секунду</item>
+        <item quantity="few">Перемотати вперед на %d секунди</item>
+        <item quantity="many">Перемотати вперед на %d секунд</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Перемотати назад на %d секунди</item>
+        <item quantity="one">Перемотати назад на %d секунду</item>
+        <item quantity="few">Перемотати назад на %d секунди</item>
+        <item quantity="many">Перемотати назад на %d секунд</item>
+    </plurals>
+    <plurals name="fcmpts_dialog_one">
+        <item quantity="other">Подивіться ще %s секунд відео, щоб отримати бали та нагороди.</item>
+        <item quantity="one">Подивіться ще %s секунду відео, щоб отримати бали та нагороди.</item>
+        <item quantity="few">Подивіться ще %s секунди відео, щоб отримати бали та нагороди.</item>
+        <item quantity="many">Подивіться ще %s секунд відео, щоб отримати бали та нагороди.</item>
+    </plurals>
     <plurals name="feed_back_home">
         <item quantity="other">Перехід на головну сторінку через %1$d секунд…</item>
         <item quantity="one">Перехід на головну сторінку через %1$d секунду…</item>
@@ -77,6 +95,12 @@
         <item quantity="one">Півгодини тому</item>
         <item quantity="few">Півгодини тому</item>
         <item quantity="many">Півгодини тому</item>
+    </plurals>
+    <plurals name="hint_local_guide_views">
+        <item quantity="other">%s переглядів</item>
+        <item quantity="one">%s перегляд</item>
+        <item quantity="few">%s перегляда</item>
+        <item quantity="many">%s переглядів</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">Через годину</item>
@@ -292,6 +316,12 @@
         <item quantity="few">%d нові сповіщення</item>
         <item quantity="many">%d нових сповіщень</item>
     </plurals>
+    <plurals name="music_playlist_title_count">
+        <item quantity="other">Пісень: %d</item>
+        <item quantity="one">Пісень: %d</item>
+        <item quantity="few">Пісень: %d</item>
+        <item quantity="many">Пісень: %d</item>
+    </plurals>
     <plurals name="new_incentive_toast_share_success">
         <item quantity="other">Відправлено. Ви отримали %d балів. Отримати бали можна в Центрі балів.</item>
         <item quantity="one">Відправлено. Ви отримали %d бал. Отримати бали можна в Центрі балів.</item>
@@ -417,6 +447,12 @@
         <item quantity="one">Додати до %d закладки</item>
         <item quantity="few">Додати до %d закладок</item>
         <item quantity="many">Додати до %d закладок</item>
+    </plurals>
+    <plurals name="v_confirm_hide_videos_new">
+        <item quantity="other">Приховати %d вибраних файлів?</item>
+        <item quantity="one">Приховати %d вибраний файл?</item>
+        <item quantity="few">Приховати %d вибраних файла?</item>
+        <item quantity="many">Приховати %d вибраних файлів?</item>
     </plurals>
     <plurals name="video_like_text">
         <item quantity="other">%s лайків</item>

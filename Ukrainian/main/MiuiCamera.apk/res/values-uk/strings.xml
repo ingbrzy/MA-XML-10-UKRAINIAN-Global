@@ -666,6 +666,7 @@
     <string name="edit_smile">Посмішка</string>
     <string name="edit_solid">Контур</string>
     <string name="emoticon">Набір наклейок</string>
+    <string name="empty" />
     <string name="eras_ad">н. е.</string>
     <string name="eras_bc">до н. е.</string>
     <string name="error_fail_to_start_audio_capture">Неможливо записати звук</string>
@@ -1292,6 +1293,7 @@
     <string name="pref_camera_auxiliary_close">Вимк.</string>
     <string name="pref_camera_auxiliary_exposure_feedback">Підтвердження експозиції</string>
     <string name="pref_camera_auxiliary_focus_peak">Виділення області фокусування</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="pref_camera_beautify_entry_high">Високий</string>
     <string name="pref_camera_beautify_entry_low">Низький</string>
     <string name="pref_camera_beautify_entry_normal">Середній</string>

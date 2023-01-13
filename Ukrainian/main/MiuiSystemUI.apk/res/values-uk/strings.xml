@@ -1197,6 +1197,7 @@
     <string name="keyguard_missing_sim_instructions_long">SIM-карта відсутня або недоступна для читання. Вставте SIM-карту.</string>
     <string name="keyguard_missing_sim_message">У телефоні немає SIM-карти.</string>
     <string name="keyguard_missing_sim_message_short">Немає SIM-карти</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">Мережу заблоковано</string>
     <string name="keyguard_password_enter_password_code">Введіть пароль, щоб розблокувати</string>
     <string name="keyguard_password_enter_pin_code">Введіть PIN-код</string>
@@ -1506,12 +1507,14 @@ mm"</string>
 
 Щоб дізнатися більше, зв’яжіться з адміністратором."</string>
     <string name="monitoring_description_ca_cert_settings">Відкрити надійні облікові дані</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">На цьому пристрої встановлено центр сертифікації. Захищений мережевий трафік може відстежуватися або змінюватися.</string>
     <string name="monitoring_description_do_body">Адміністратор може відстежувати та контролювати налаштування, корпоративний доступ, додатки й дані, зв’язані з пристроєм, а також геодані пристрою.</string>
     <string name="monitoring_description_do_body_vpn">Під’єднано додаток %1$s, який може відстежувати вашу активність у мережі, як-от доступ до електронної пошти, додатків і веб-сайтів.</string>
     <string name="monitoring_description_do_header_generic">Вашим пристроєм керує додаток %1$s.</string>
     <string name="monitoring_description_do_header_with_name">Компанія %1$s керує вашим пристроєм за допомогою додатка %2$s.</string>
     <string name="monitoring_description_do_learn_more">Докладніше</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">Адміністратор організації встановив центр сертифікації у вашому робочому профілі. Захищений мережевий трафік може відстежуватися або змінюватися.</string>
     <string name="monitoring_description_managed_profile_named_vpn">Ваш робочий профіль під’єднано до додатка %1$s, який може відстежувати вашу активність у мережі, зокрема в електронній пошті, додатках і на веб-сайтах.</string>
     <string name="monitoring_description_managed_profile_network_logging">Ваш адміністратор увімкнув журнал мережі, щоб відстежувати трафік вашого робочого профілю (не особистого).</string>
@@ -1545,6 +1548,7 @@ IT-адміністратор може відстежувати й контро�
 
 Ваш пристрій також під’єднано до мережі VPN, у якій можна відстежувати ваші дії в мережі."</string>
     <string name="monitoring_description_vpn_settings">Відкрити налаштування мережі VPN</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_financed_description_named_management">"Компанія \"%1$s\" має доступ до даних, пов'язаних із цим пристроєм, а також може змінювати його налаштування та керувати додатками.
 
 Якщо у вас є запитання, зв'яжіться з компанією \"%2$s\"."</string>
@@ -1625,6 +1629,7 @@ IT-адміністратор може відстежувати й контро�
     <string name="mtrl_picker_a11y_next_month">Перейти до наступного місяця</string>
     <string name="mtrl_picker_a11y_prev_month">Перейти до попереднього місяця</string>
     <string name="mtrl_picker_announce_current_selection">Поточний вибір: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Виберіть дату</string>
     <string name="mtrl_picker_date_header_unselected">Вибрана дата</string>
@@ -1655,6 +1660,7 @@ IT-адміністратор може відстежувати й контро�
     <string name="nav_bar">Панель навігації</string>
     <string name="nav_bar_default">(за умовчанням)</string>
     <string name="nav_bar_layout">Макет</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="new_notification_image_content_description">%1$s надсилає зображення</string>
     <string name="new_notification_text_content_description">%1$s надсилає повідомлення: \"%2$s\"</string>
     <string name="new_status_content_description">%1$s публікує новий статус: \"%2$s\"</string>
@@ -1878,6 +1884,7 @@ IT-адміністратор може відстежувати й контро�
     <string name="private_dns_mode_provider">Ім’я хосту постачальника приватного DNS-сервера</string>
     <string name="private_dns_mode_provider_failure">Не вдалося під’єднатися</string>
     <string name="private_dns_mode_provider_hostname_hint">Введіть ім’я хосту постачальника послуг DNS</string>
+    <string name="process_kernel_label">ОС Android</string>
     <string name="profile_connect_timeout_subtext">Не вдається підключитися. Перезавантажте пристрій.</string>
     <string name="profile_info_settings_title">Інформація профілю</string>
     <string name="profile_owned_footer">Профіль може відстежуватись</string>
@@ -2242,6 +2249,8 @@ IT-адміністратор може відстежувати й контро�
     <string name="status_bar_clock_date_time_format_12">h:mm aa, EEE, dd MMMM</string>
     <string name="status_bar_clock_date_weekday_format">EEEE, d MMMM</string>
     <string name="status_bar_clock_date_weekday_format_12">EEEE, d MMMM</string>
+    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
+    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="status_bar_date_format">"E
 d MMM"</string>
     <string name="status_bar_date_format_12">"E

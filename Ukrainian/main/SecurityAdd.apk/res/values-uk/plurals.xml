@@ -97,15 +97,33 @@
         <item quantity="many">Обрано: %d</item>
     </plurals>
     <plurals name="net_booster_expire_notification_tip">
-        <item quantity="other">Залишилося %d днів до завершення сеансу збільшення швидкості мережі. Відновіть сеанс, щоб уникнути проблем з мережею.</item>
-        <item quantity="one">Залишився %d день до завершення сеансу збільшення швидкості мережі. Відновіть сеанс, щоб уникнути проблем з мережею.</item>
-        <item quantity="few">Залишилося %d дні до завершення сеансу збільшення швидкості мережі. Відновіть сеанс, щоб уникнути проблем з мережею.</item>
-        <item quantity="many">Залишилося %d днів до завершення сеансу збільшення швидкості мережі. Відновіть сеанс, щоб уникнути проблем з мережею.</item>
+        <item quantity="other">Сеанс збільшення швидкості мережі буде завершено через %d днів. Ви можете зіткнутися з затримками мережі. Продовжити сеанс?</item>
+        <item quantity="one">Сеанс збільшення швидкості мережі буде завершено через %d день. Ви можете зіткнутися з затримками мережі. Продовжити сеанс?</item>
+        <item quantity="few">Сеанс збільшення швидкості мережі буде завершено через %d дні. Ви можете зіткнутися з затримками мережі. Продовжити сеанс?</item>
+        <item quantity="many">Сеанс збільшення швидкості мережі буде завершено через %d днів. Ви можете зіткнутися з затримками мережі. Продовжити сеанс?</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d хв тому</item>
         <item quantity="one">1 хв тому</item>
         <item quantity="few">%d хв тому</item>
         <item quantity="many">%d хв тому</item>
+    </plurals>
+    <plurals name="power_battery_hour">
+        <item quantity="other">%s год</item>
+        <item quantity="one">%s год</item>
+        <item quantity="few">%s год</item>
+        <item quantity="many">%s год</item>
+    </plurals>
+    <plurals name="power_battery_minute">
+        <item quantity="other">%s хв</item>
+        <item quantity="one">%s хв</item>
+        <item quantity="few">%s хв</item>
+        <item quantity="many">%s хв</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute_screen_on">
+        <item quantity="other">Залишилося %s хв екранного часу</item>
+        <item quantity="one">Залишилося %s хв екранного часу</item>
+        <item quantity="few">Залишилося %s хв екранного часу</item>
+        <item quantity="many">Залишилося %s хв екранного часу</item>
     </plurals>
 </resources>

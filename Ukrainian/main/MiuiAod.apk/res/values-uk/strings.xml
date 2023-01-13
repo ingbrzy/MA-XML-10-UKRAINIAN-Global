@@ -259,6 +259,8 @@ dd.MM."</string>
     <string name="mtrl_picker_a11y_next_month">Перейти до наступного місяця</string>
     <string name="mtrl_picker_a11y_prev_month">Перейти до попереднього місяця</string>
     <string name="mtrl_picker_announce_current_selection">Поточний вибір: %1$s</string>
+    <string name="mtrl_picker_cancel">Скасувати</string>
+    <string name="mtrl_picker_confirm">OK</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Виберіть дату</string>
     <string name="mtrl_picker_date_header_unselected">Вибрана дата</string>
@@ -285,6 +287,8 @@ dd.MM."</string>
     <string name="mtrl_picker_toggle_to_day_selection">Натисніть, щоб вибрати день</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Перейти в режим введення тексту</string>
     <string name="mtrl_picker_toggle_to_year_selection">Натисніть, щоб вибрати рік</string>
+    <string name="mtrl_timepicker_cancel">Скасувати</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
     <string name="my_style_title">Моя тема</string>
     <string name="night">Вечір</string>
     <string name="noon">Полудень</string>
@@ -323,6 +327,8 @@ dd.MM."</string>
     <string name="select_notification_animation_style">Виберіть спеціальний ефект</string>
     <string name="select_notification_notify_style">Виберіть ефект сповіщення</string>
     <string name="send">Надіслати</string>
+    <string name="settings_view_btn_check_off">Вимк.</string>
+    <string name="settings_view_btn_check_on">Увімк.</string>
     <string name="share">Поділитися</string>
     <string name="share_to_community">Відравити до Xiaomi Community</string>
     <string name="show_battery">Показувати стан заряду батареї</string>
@@ -334,9 +340,10 @@ dd.MM."</string>
     <string name="shownone_arround_image">Немає</string>
     <string name="signature">Підпис</string>
     <string name="signature_default_content">"Завжди вірте, що щось
-прекрасне скоро станеться"</string>
+прекрасне скоро відбудеться​"</string>
     <string name="standard_clock_panel">Стандартний</string>
     <string name="standard_style">Стандартний</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="step_component_info_active_tip">"Кількість кроків надається програмою Xiaomi Здоров'я. Погодьтеся з Умовами використання Xiaomi Здоров'я для продовження."</string>
     <string name="step_component_info_desc">"Кількість кроків перетворюється на трофей, коли ви досягнете мети. Кількість кроків надається програмою Xiaomi Здоров'я."</string>
     <string name="step_component_info_tip">"Кількість кроків надається програмою Xiaomi Здоров'я. Встановіть або оновіть Xiaomi Здоров'я та погодьтеся з її Умовами використання для продовження."</string>

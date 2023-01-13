@@ -27,22 +27,28 @@
     <string name="abc_shareactionprovider_share_with">Поділитися:</string>
     <string name="abc_shareactionprovider_share_with_application">Поділитися через додаток %s</string>
     <string name="abc_toolbar_collapse_description">Згорнути</string>
-    <string name="actionbar_button_up_description">Назад</string>
     <string name="afternoon">Після обіду</string>
-    <string name="already_newest_version">Оновлення не потрібно</string>
     <string name="am">ДО</string>
-    <string name="cancel_download">Завантаження скасовано</string>
-    <string name="clearable_edittext_clear_description">Очистити</string>
-    <string name="close">Закрити</string>
-    <string name="copy">Скопіювати</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
-    <string name="date_picker_lunar">Традиційний китайський календар</string>
-    <string name="date_time_picker_dialog_title">Встановити дату та час</string>
-    <string name="download_button">Кнопка завантаження</string>
-    <string name="download_failed">Помилка завантаження</string>
     <string name="early_morning">Ранок</string>
+    <string name="earth_position_content_0">Природний парк мис Каменяк в Хорватії є домом для, мабуть, найбільш захоплюючих дух видів уздовж узбережжя Середземного моря. Вражаючі геологічні утворення перетворюють це місце в рай для дайверів. Щоліта сліпуче сонце і теплі води Середземного моря приваблюють незліченних любителів активного відпочинку.</string>
+    <string name="earth_position_content_1">"Терасові поля є результатом людської діяльності, але вони також служать видатним природним мальовничим місцем.
+У Китаї рисові тераси в основному розташовані на південь від річки Янцзи, де часто йдуть дощі і в достатку зустрічаються гірські хребти. Тераси Лонджі існують вже більше 700 років, а в довколишніх селах є досить багато історичних пам'яток."</string>
+    <string name="earth_position_content_2">"Ілуліссат розташований в Західній Гренландії, в 200 кілометрах на північ від Північного Полярного кола. Чудовий 56-кілометровий льодовик Ілуліссат розташований в безпосередній близькості від льодовика Якобсхавн Ісбре. Будучи найбільшим льодовиком у Північній півкулі, він щорічно виробляє 2 мільярди тонн айсбергів. Після короткого об'їзду на північ вони повертають на південь і впадають в Атлантичний океан."</string>
+    <string name="earth_position_content_3">Навайо - один з найкрасивіших пляжів на узбережжі острова Закінф (Іонічні острови, Греція). Після знаменитого корабельної аварії пляж також отримав назву \"Бухта контрабандистів\".</string>
+    <string name="earth_position_content_4">Доломітові Альпи - це гірський масив, розташований на північному сході Італії. Одним з наймальовничіших місць тут є гора Сечеда.</string>
+    <string name="earth_position_title_0">"Хорватія
+мис Каменяк"</string>
+    <string name="earth_position_title_1">"Гуансі, Китай
+Тераси Лонджі"</string>
+    <string name="earth_position_title_2">"Гренландія
+Ілуліссат"</string>
+    <string name="earth_position_title_3">"Греція
+Навайо"</string>
+    <string name="earth_position_title_4">"Італія
+Доломітові Альпи"</string>
     <string name="earth_summary">Колиска людської цивілізації.</string>
     <string name="earth_super_wallpaper_label">earth</string>
     <string name="earth_title">Земля</string>
@@ -50,38 +56,37 @@
     <string name="eras_ad">н. е.</string>
     <string name="eras_bc">до н. е.</string>
     <string name="evening">Після обіду</string>
-    <string name="expand_button_title">Додатково</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
     <string name="fmt_date_long_month">MMMM</string>
-    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_month_day">dd MMMM</string>
     <string name="fmt_date_long_year_month">MM.yyyy</string>
-    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
+    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
     <string name="fmt_date_numeric_day">d</string>
     <string name="fmt_date_numeric_month">M</string>
-    <string name="fmt_date_numeric_month_day">d.MM</string>
+    <string name="fmt_date_numeric_month_day">dd.MM.</string>
     <string name="fmt_date_numeric_year">yyyy</string>
     <string name="fmt_date_numeric_year_month">MM.yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">d MMMM yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">dd.MM.yyyy</string>
     <string name="fmt_date_short_month">MMMM</string>
-    <string name="fmt_date_short_month_day">d MMMM</string>
+    <string name="fmt_date_short_month_day">dd MMMМ</string>
     <string name="fmt_date_short_year_month">MM.yyyy</string>
-    <string name="fmt_date_short_year_month_day">d MMMM yyyy</string>
+    <string name="fmt_date_short_year_month_day">dd MMMM yyyy</string>
     <string name="fmt_date_time">D T</string>
     <string name="fmt_date_time_timezone">D T z</string>
     <string name="fmt_date_timezone">D z</string>
     <string name="fmt_date_year">yyyy</string>
     <string name="fmt_time">T</string>
-    <string name="fmt_time_12hour">"h 'Г'"</string>
+    <string name="fmt_time_12hour">"h 'o''clock'"</string>
     <string name="fmt_time_12hour_minute">h:mm</string>
     <string name="fmt_time_12hour_minute_pm">h:mm a</string>
     <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
     <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
     <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
     <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
-    <string name="fmt_time_12hour_pm">ha</string>
-    <string name="fmt_time_24hour">"H 'Г'"</string>
+    <string name="fmt_time_12hour_pm">h a</string>
+    <string name="fmt_time_24hour">"H 'o''clock'"</string>
     <string name="fmt_time_24hour_minute">H:mm</string>
     <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
     <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
@@ -109,47 +114,32 @@
     <string name="geometry_summary">Форми, світло та кольори</string>
     <string name="geometry_super_wallpaper_label">Геометрія</string>
     <string name="geometry_title">Геометрія</string>
-    <string name="install_failed">Не вдалося встановити</string>
-    <string name="mars_position_content_0">"This region contains cliffs, mesas, and wide flat valleys, which are believed to have been caused by debris-covered glaciers. Clay minerals have also been detected here, which are of great interest in the search for evidence of life on ancient Mars.
+    <string name="mars_position_content_0">"Цей регіон містить скелі, меси і широкі плоскі долини, які, як вважається, були викликані покритими сміттям льодовиками. Тут також були виявлені глинисті мінерали, які представляють великий інтерес для пошуку свідчень існування життя на стародавньому Марсі.
 
-NASA/JPL/University of Arizona"</string>
-    <string name="mars_position_content_1">"Taken when the Mars rover Curiosity is exploring the Pahrump Hills in Gale Crater. The region contains sedimentary rocks that scientists believe formed in the presence of water, and the dark areas are sand.
+NASA /JPL/Арізонський університет"</string>
+    <string name="mars_position_content_1">"Знімок зроблений, коли марсохід Curiosity досліджує пагорби Пахрумп в кратері Гейл. Цей регіон містить осадові породи, які, як вважають вчені, утворилися в присутності води, а темні ділянки - це пісок.
 
-NASA/JPL/University of Arizona"</string>
-    <string name="mars_position_content_2">"Mawrth Vallis is an ancient water outflow channel with light-colored clay-rich rocks. Clay minerals easily preserve microscopic life on Earth, so perhaps traces of ancient life may be found at Mawrth.
+NASA /JPL/Арізонський університет"</string>
+    <string name="mars_position_content_2">"Маврт-Валліс - це древній водовідвідний канал зі світлими глинистими породами. Глинисті мінерали легко зберігають мікроскопічне життя на Землі, тому, можливо, сліди стародавнього життя можна знайти в Маврті.
 
-NASA/JPL/University of Arizona"</string>
+NASA /JPL/Арізонський університет"</string>
+    <string name="mars_position_content_3">"Знімок зроблений, коли марсохід Curiosity досліджує пагорби Пахрумп в кратері Гейл. Цей регіон містить осадові породи, які, як вважають вчені, утворилися в присутності води, а темні ділянки - це пісок.
+
+NASA /JPL/Університет Арізони"</string>
+    <string name="mars_position_content_4">"Бахрам Валісом - це долина річки з одним руслом, в деяких місцях з зубчастими стінами. Наявність обтічних ерозійних елементів на її дні доводить, що на формування долини вплинув потік води.
+
+NASA /JPL/Університет Арізони"</string>
     <string name="mars_position_title_0">"Регіон
 Nilosyrtis Mensae"</string>
-    <string name="mars_position_title_1">Gale Crater</string>
-    <string name="mars_position_title_2">"Crater in
-Mawrth Vallis"</string>
+    <string name="mars_position_title_1">Кратер Гейл</string>
+    <string name="mars_position_title_2">"Кратер у
+долині Мавра"</string>
+    <string name="mars_position_title_3">Пагорби Парамп</string>
+    <string name="mars_position_title_4">Бахрам Валісом</string>
     <string name="mars_summary">Неосяжні пустелі на поверхні Марса завжди вабили своєю таємничістю.</string>
     <string name="mars_super_wallpaper_label">mars</string>
     <string name="mars_title">Червона планета</string>
     <string name="midnight">Ніч</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Зняти вибір</string>
-    <string name="miuix_appcompat_action_mode_select_all">Вибрати все</string>
-    <string name="miuix_appcompat_action_mode_title_empty">Вибрати</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ще</string>
-    <string name="miuix_appcompat_cancel_description">Скасувати</string>
-    <string name="miuix_appcompat_confirm_description">Підтвердити</string>
-    <string name="miuix_appcompat_delete_description">Видалити</string>
-    <string name="miuix_appcompat_deselect_all">Зняти вибір</string>
-    <string name="miuix_appcompat_deselect_all_description">Зняти вибір</string>
-    <string name="miuix_appcompat_search_action_mode_cancel">Скасувати</string>
-    <string name="miuix_appcompat_search_input_description">Пошук</string>
-    <string name="miuix_appcompat_select_all">Вибрати все</string>
-    <string name="miuix_appcompat_select_all_description">Вибрати все</string>
-    <string name="miuix_appcompat_select_item">Вибрати елементи</string>
-    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потягніть вниз для оновлення</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Оновлено</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshing">Оновлення…</string>
-    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">День дурня</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Більше нічого немає</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">Більше нічого немає</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Хвилинку…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Не вдалося завантажити елементи</string>
     <string name="monday">Понеділок</string>
     <string name="monday_short">Пон</string>
     <string name="monday_shortest">Пн</string>
@@ -189,15 +179,10 @@ Mawrth Vallis"</string>
     <string name="month_september">Вересень</string>
     <string name="month_september_short">Вер</string>
     <string name="month_september_shortest">Вер</string>
-    <string name="more">Ще</string>
     <string name="morning">Ранок</string>
     <string name="night">Вечір</string>
-    <string name="no_cta_agreed">У GetApps немає дозволів CTA</string>
-    <string name="no_install_permission">"У вас немає дозволу на встановлення цього об'єкту."</string>
     <string name="noon">Полудень</string>
-    <string name="not_set">Не налаштовано</string>
     <string name="pm">ПО</string>
-    <string name="preference_copied">\"%1$s\": скопійовано в буфер обміну.</string>
     <string name="saturday">Субота</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
@@ -205,90 +190,23 @@ Mawrth Vallis"</string>
     <string name="saturn_super_wallpaper_label">saturn</string>
     <string name="saturn_title">Далекі кільця</string>
     <string name="search_menu_title">Пошук</string>
-    <string name="send">Надіслати</string>
     <string name="snowmountain_summary">"Залиті сонцем гірські схили гори Сигун'ян"</string>
     <string name="snowmountain_super_wallpaper_label">Снігові вершини</string>
     <string name="snowmountain_title">Снігові вершини</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Неділя</string>
     <string name="sunday_short">Нед</string>
     <string name="sunday_shortest">Нд</string>
     <string name="super_wallpaper_list_label">Супершпалери</string>
-    <string name="super_wallpaper_setting_apply_success_toast">Застосовано успішно</string>
-    <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Застосувати</string>
-    <string name="super_wallpaper_setting_choose_position_btn_text">Виберіть місцезнаходження</string>
-    <string name="super_wallpaper_setting_coordinate_title">Координати</string>
-    <string name="super_wallpaper_setting_view_height_title">Висота</string>
-    <string name="task_already_exist">Це завдання вже існує</string>
-    <string name="the_anniversary_of_lifting_martial_law">Річниця скасування воєнного стану</string>
-    <string name="the_anti_aggression_day">День боротьби з агресією</string>
-    <string name="the_arbor_day">День деревонасадження</string>
-    <string name="the_armed_forces_day">День збройних сил</string>
-    <string name="the_armys_day">День заснування НОАК</string>
-    <string name="the_childrens_day">День захисту дітей</string>
-    <string name="the_chinese_youth_day">День молоді</string>
-    <string name="the_christmas_day">Різдво</string>
-    <string name="the_double_ninth_festival">"Подвійний Дев'ятий фестиваль"</string>
-    <string name="the_dragon_boat_festival">Свято човнів-драконів</string>
-    <string name="the_easter_day">Великдень</string>
-    <string name="the_eve_of_the_spring_festival">Канун Китайського новго року</string>
-    <string name="the_fifth_day">"П'ятий день Китайського нового року"</string>
-    <string name="the_fools_day">День дурнів</string>
-    <string name="the_forth_day">Четвертий день Китайського нового року</string>
-    <string name="the_hksar_establishment_day">День заснування САР Гонконг</string>
-    <string name="the_international_womens_day">Жіночий день</string>
-    <string name="the_laba_festival">Фестиваль Лаба</string>
-    <string name="the_labour_day">День праці</string>
-    <string name="the_lantern_festival">Фестиваль ліхтарів</string>
-    <string name="the_mid_autumn_festival">Свято середини осені</string>
-    <string name="the_national_day">Національний день</string>
-    <string name="the_national_father_day">День народження Сунь Ятсена</string>
-    <string name="the_new_years_day">Новий рік</string>
-    <string name="the_night_of_sevens">Свято Цисі</string>
-    <string name="the_partys_day">День заснування КПК</string>
-    <string name="the_peace_day">"День пам'яті"</string>
-    <string name="the_retrocession_day">День Ретроцесії</string>
-    <string name="the_second_day">Другий день Китайського нового року</string>
-    <string name="the_seventh_day">Сьомий день Китайського нового року</string>
-    <string name="the_sixth_day">Шостий день Китайського нового року</string>
-    <string name="the_spirit_festival">Фестиваль духів</string>
-    <string name="the_spring_festival">Китайський новий рік</string>
-    <string name="the_teachers_day">День вчителя</string>
-    <string name="the_third_day">Третій день Китайського нового року</string>
-    <string name="the_tw_childrens_day">День захисту дітей</string>
-    <string name="the_tw_youth_day">День молоді</string>
-    <string name="the_united_nations_day">"День Організації Об'єднаних Націй"</string>
-    <string name="the_valentines_day">День Святого Валентина</string>
-    <string name="the_water_lantern_festival">Фестиваль водних ліхтарів</string>
     <string name="thursday">Четвер</string>
     <string name="thursday_short">Чт</string>
     <string name="thursday_shortest">Чт</string>
-    <string name="time_picker_dialog_title">Задати час</string>
     <string name="time_picker_label_hour">Г</string>
     <string name="time_picker_label_minute">Х</string>
-    <string name="title_system_wallpaper_resource">Системні шпалери</string>
-    <string name="today">Сьогодні</string>
     <string name="tomorrow">Завтра</string>
     <string name="tuesday">Вівторок</string>
     <string name="tuesday_short">Вт</string>
     <string name="tuesday_shortest">Вт</string>
-    <string name="update">Оновити</string>
-    <string name="v7_preference_off">ВИМКНЕНО</string>
-    <string name="v7_preference_on">УВІМКНЕНО</string>
-    <string name="wallpaper_setting_aod_wallpaper_banner_button_text">Завжди активний екран</string>
-    <string name="wallpaper_setting_find_more_text">Інші онлайн-шпалери</string>
-    <string name="wallpaper_setting_home_wallpaper_banner_button_text">Робочий стіл</string>
-    <string name="wallpaper_setting_lock_screen_wallpaper_banner_button_text">Екран блокування</string>
-    <string name="wallpaper_setting_online_wallpaper_actionbar_title">Онлайн-шпалери</string>
-    <string name="wallpaper_setting_online_wallpaper_none_title">Пошук шпалер</string>
-    <string name="wallpaper_setting_online_wallpaper_title">Онлайн-шпалери</string>
-    <string name="wallpaper_setting_super_wallpaper_banner_title">Супершпалери</string>
-    <string name="wallpaper_setting_super_wallpaper_more_button_text">Ще</string>
-    <string name="wallpaper_setting_title">Шпалери</string>
-    <string name="weather_summary">Місцева погода</string>
-    <string name="weather_super_wallpaper_label">Погода</string>
-    <string name="weather_title">Погода</string>
     <string name="wednesday">Середа</string>
     <string name="wednesday_short">Ср</string>
     <string name="wednesday_shortest">Ср</string>

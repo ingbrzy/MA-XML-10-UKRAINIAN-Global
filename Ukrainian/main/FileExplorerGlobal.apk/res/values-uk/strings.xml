@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_bar_home_description">Перейти на головний</string>
+    <string name="abc_action_bar_home_description">Перейти на головну</string>
     <string name="abc_action_bar_up_description">Перейти вгору</string>
-    <string name="abc_action_menu_overflow_description">Інші опції</string>
+    <string name="abc_action_menu_overflow_description">Більше опцій</string>
     <string name="abc_action_mode_done">Готово</string>
-    <string name="abc_activity_chooser_view_see_all">Переглянути всі</string>
+    <string name="abc_activity_chooser_view_see_all">Показати всі</string>
     <string name="abc_activitychooserview_choose_application">Вибрати програму</string>
-    <string name="abc_capital_off">ВИМК.</string>
+    <string name="abc_capital_off">ЗНИЖКА</string>
     <string name="abc_capital_on">УВІМК.</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
@@ -18,13 +18,13 @@
     <string name="abc_menu_space_shortcut_label">пробіл</string>
     <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">Menu+</string>
-    <string name="abc_search_hint">Пошук…</string>
+    <string name="abc_search_hint">Введіть пошуковий запит…</string>
     <string name="abc_searchview_description_clear">Очистити запит</string>
     <string name="abc_searchview_description_query">Пошуковий запит</string>
     <string name="abc_searchview_description_search">Пошук</string>
-    <string name="abc_searchview_description_submit">Надіслати запит</string>
+    <string name="abc_searchview_description_submit">Наіслати запит</string>
     <string name="abc_searchview_description_voice">Голосовий пошук</string>
-    <string name="abc_shareactionprovider_share_with">Надіслати через</string>
+    <string name="abc_shareactionprovider_share_with">Поділитися:</string>
     <string name="abc_shareactionprovider_share_with_application">Поділитися через додаток %s</string>
     <string name="abc_toolbar_collapse_description">Згорнути</string>
     <string name="accept">Прийняти</string>
@@ -131,9 +131,11 @@
     <string name="confirm_know">ОК</string>
     <string name="connection_error">Не вдалося підключитися</string>
     <string name="connection_lost">Відключено</string>
+    <string name="copy">Скопіювати</string>
     <string name="copy_failed">Не вдалося скопіювати</string>
     <string name="copy_to">Скопіювати до…</string>
     <string name="copy_to_internal_storage_first">"Спочатку скопіюйте елементи до внутрішньої пам'яті."</string>
+    <string name="copy_toast_msg">Посилання скопійовано в буфер обміну</string>
     <string name="dark_mode">Темний режим</string>
     <string name="dark_mode_notice_message">Доступний Темний режим!</string>
     <string name="decompress_cancel">Скасувати</string>
@@ -172,6 +174,7 @@
     <string name="display_name">"Показувати ім'я"</string>
     <string name="domain">Домен</string>
     <string name="download_success">Завантажено успішно</string>
+    <string name="drag_not_support_with_dir">Неможливо перетягувати та відправляти папки</string>
     <string name="empty_by_forbid_access">Зміст цієї папки не може бути відображений через обмеження у Android .</string>
     <string name="enable_documentsui">Увімкніть %s у Налаштування > Всі програми</string>
     <string name="enable_sd_card">SD-карта пошкоджена або відключена</string>
@@ -194,12 +197,16 @@
     <string name="error_invalid_path">Неправильний шлях</string>
     <string name="error_not_support">Не підтримується</string>
     <string name="error_open_file_failed_no_app_found">Немає програм для відкриття цього файлу</string>
+    <string name="expand_button_title">Додатково</string>
     <string name="explicit">Явний</string>
     <string name="extended_storage_file_can_not_open">"Не вдалося відкрити файл. Скопіюйте його до пам'яті пристрою."</string>
     <string name="extract">Витягнути</string>
     <string name="fail_to_create_folder_unknown">Не вдається створити папку</string>
     <string name="failed_not_access_sd_card">Спочатку надайте доступ до SD-карти</string>
     <string name="failed_obtain_permissions">Не вдалося отримати дозволи</string>
+    <string name="fallback_menu_item_copy_link">Копіювати посилання</string>
+    <string name="fallback_menu_item_open_in_browser">Відкрити у веб-переглядачі</string>
+    <string name="fallback_menu_item_share_link">Надіслати посилання</string>
     <string name="favorite_notice_message">"Тепер можна додавати папки до Обраних
 Утримуйте папку, а потім натисніть \"Ще\", щоб додати."</string>
     <string name="favorite_photo">Фото</string>
@@ -309,6 +316,7 @@
     <string name="not_connect">Неможливо підключитися</string>
     <string name="not_connect_user">Не вдалося підключити: %1$s та %2$s</string>
     <string name="not_installed_documentsui">DocumentsUI не встановлено</string>
+    <string name="not_set">Не налаштовано</string>
     <string name="not_support_documentui">DocumentUI не підтримується на цьому пристрої</string>
     <string name="not_very_dissatisfied">Незадоволений</string>
     <string name="notif_server_starting">Запуск сервера FTP…</string>
@@ -391,6 +399,7 @@
     <string name="port">Порт</string>
     <string name="port_range">Номер порту має бути між значеннями 1024 та 65535</string>
     <string name="possible_permissions">"Необов'язкові дозволи"</string>
+    <string name="preference_copied">\"%1$s\": скопійовано в буфер обміну.</string>
     <string name="privacy_accept">Погодитися та продовжити</string>
     <string name="privacy_cancel"><u>Відхилити</u></string>
     <string name="privacy_desc">Ласкаво просимо в Провідник! Крім основних функцій, ця програма також надає наступні послуги:</string>
@@ -499,6 +508,7 @@
     <string name="storage_usb">USB-накопичувач</string>
     <string name="storage_warning">Зовнішній носій недоступний</string>
     <string name="str_clean">Очищення</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="switch_to_grid_mode">Переключти на перегляд у вигляді сітки</string>
     <string name="switch_to_list_mode">Переключити на перегляд у вигляді списку</string>
     <string name="tab_common_app">Програми та папки</string>
@@ -534,6 +544,8 @@
     <string name="user_notice_privacy_policy">Політика конфіденційності</string>
     <string name="user_notice_term_of_service">Угода користувача</string>
     <string name="utf8_summary">Тип кодування за замовчуванням</string>
+    <string name="v7_preference_off">ВИМКНЕНО</string>
+    <string name="v7_preference_on">УВІМКНЕНО</string>
     <string name="version_name">Версія</string>
     <string name="very_dissatisfied">Дуже незадоволений</string>
     <string name="view_by_document">Переглянути у Файлах</string>

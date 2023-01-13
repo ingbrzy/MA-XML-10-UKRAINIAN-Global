@@ -110,6 +110,12 @@
         <item>Мікрофон</item>
         <item>Системні звуки</item>
     </string-array>
+    <string-array name="screenrecorder_settings_sound_native">
+        <item>Немає</item>
+        <item>Мікрофон</item>
+        <item>Система</item>
+        <item>Обидва</item>
+    </string-array>
     <string-array name="screenrecorder_settings_storage_location">
         <item>"Пам'ять пристрою"</item>
         <item>Зовнішній накопичувач</item>

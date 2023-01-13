@@ -58,6 +58,7 @@
     <string name="dual_app_title">Клоновані програми</string>
     <string name="dual_app_words">Незалежні копії будь-яких програм</string>
     <string name="early_morning">Ранок</string>
+    <string name="empty">" "</string>
     <string name="eras_ad">н. е.</string>
     <string name="eras_bc">до н. е.</string>
     <string name="evening">Після обіду</string>
@@ -148,14 +149,16 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
-    <string name="free_send_net_booster">Безкоштовне збільшення швидкості мережі</string>
-    <string name="free_send_net_booster_busniess">Спробуйте збільшення швидкості Xunlei безкоштовно</string>
-    <string name="free_send_net_booster_busniess_tip">Натисніть для отримання</string>
-    <string name="free_send_net_booster_tip">Насолоджуйтеся плавним ігровим процесом разом з безкоштовним збільшенням швидкості мережі.</string>
+    <string name="free_send_net_booster">Спробуйте безкоштовно \"Game Turbo\"</string>
+    <string name="free_send_net_booster_busniess">Спробуйте безкоштовно \"Game Turbo\"</string>
+    <string name="free_send_net_booster_busniess_tip">Покращіть ігровий досвід та отримайте ігрове оформлення. Ця пропозиція доступна тільки сьогодні!</string>
+    <string name="free_send_net_booster_tip">Покращіть ігровий досвід та отримайте можливість виграти пристрій Xiaomi!</string>
     <string name="friday">"П'ятниця"</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
     <string name="game_booster">Підвищення швидкості для ігор</string>
+    <string name="gamebooster_dialog_recover">Продовжити</string>
+    <string name="gamebooster_dialog_start_booster">Почати</string>
     <string name="gamebooster_network_dialog_message">Дозволити програмі підключатися до інтернету для використання всіх функцій Game Turbo?</string>
     <string name="gamebooster_network_dialog_message_pad">Дозволити програмі підключатися до інтернету для використання всіх функцій Game Turbo?</string>
     <string name="gamebooster_network_dialog_title">Деякі функції недоступні</string>
@@ -319,7 +322,7 @@
     <string name="morning">Ранок</string>
     <string name="net_booster_expire_notification">Сеанс збільшення швидкості мережі скоро закінчиться</string>
     <string name="net_booster_overdue_notification">Сеанс збільшення швидкості мережі скоро закінчиться</string>
-    <string name="net_booster_overdue_notification_tip">Сеанс збільшення швидкості мережі скоро закінчиться. Продовжити сеанс?</string>
+    <string name="net_booster_overdue_notification_tip">Сеанс збільшення швидкості мережі завершено. Ви можете зіткнутися з затримками мережі. Продовжити сеанс?</string>
     <string name="network_not_available">Не вдається підключитися до мережі</string>
     <string name="night">Вечір</string>
     <string name="no_network">Не вдається підключитися до мережі</string>
@@ -331,6 +334,8 @@
     <string name="pc_activity_title">Оптимізувати батарею</string>
     <string name="pm">ПО</string>
     <string name="pm_lable_name">Про ROOT доступ</string>
+    <string name="power_center_battery_duration_screen_on">Екранний час, що залишився</string>
+    <string name="power_main_battery_last_hour_minute_screen_on">Екранний час, що залишився: %1$s %2$s</string>
     <string name="preference_copied">\"%1$s\": скопійовано в буфер обміну.</string>
     <string name="privacy_declare_dialog_title">Умови використання</string>
     <string name="privacy_prompt_traffic_purchase_message">Ваш номер телефону та інформація про оператора будуть зашифровані та завантажені на сервери Mi, щоб отримати більше інформації про способи оплати.</string>
@@ -348,6 +353,7 @@
     <string name="size_peta_byte">Пб</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">ТБ</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Неділя</string>
     <string name="sunday_short">Нед</string>
