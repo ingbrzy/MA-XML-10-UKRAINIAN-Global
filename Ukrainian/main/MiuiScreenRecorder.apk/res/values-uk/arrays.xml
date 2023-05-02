@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="alphabet_sub_table_with_starred">
-        <item>!</item>
+    <string-array name="alphabet_table">
         <item>А</item>
         <item>Б</item>
         <item>В</item>
+        <item>Г</item>
+        <item>Ґ</item>
+        <item>Д</item>
+        <item>Е</item>
         <item>Є</item>
         <item>Ж</item>
         <item>З</item>
@@ -33,7 +36,8 @@
         <item>Я</item>
         <item>\#</item>
     </string-array>
-    <string-array name="alphabet_table">
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
         <item>А</item>
         <item>Б</item>
         <item>В</item>
@@ -80,6 +84,12 @@
         <item>4Мбіт/c</item>
         <item>1Мбіт/c</item>
     </string-array>
+    <string-array name="screenrecorder_settings_frames">
+        <item>24 кадри/с</item>
+        <item>30 кадрів/с</item>
+        <item>48 кадрів/с</item>
+        <item>60 кадрів/с</item>
+    </string-array>
     <string-array name="screenrecorder_settings_orientation">
         <item>Авто</item>
         <item>Книжкова орієнтація</item>
@@ -99,12 +109,6 @@
         <item>Вимкнути звук</item>
         <item>Мікрофон</item>
         <item>Системні звуки</item>
-    </string-array>
-    <string-array name="screenrecorder_settings_sound_native">
-        <item>Немає</item>
-        <item>Мікрофон</item>
-        <item>Система</item>
-        <item>Обидва</item>
     </string-array>
     <string-array name="screenrecorder_settings_storage_location">
         <item>"Пам'ять пристрою"</item>
